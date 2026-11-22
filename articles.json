@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T05:55:03.302742+00:00",
+  "updatedAt": "2026-11-22T07:43:07.304331+00:00",
   "daysKept": 15,
   "articleCount": 354,
   "categoryCounts": {
@@ -17,6 +17,87 @@
     "Opportunities": 30
   },
   "articles": [
+    {
+      "title": "AMD Stock Price Prediction: Bullish earnings and analyst upgrades meet a weak technical reset",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWE83aDd5bFFXZnc2UEpvQ1p6QUd5QV9XU0dXNkJTYnVmTTN5QTZOTXFZTk9uZmI4RTlLYy10c2NXUmlsRU9MZ0x4SmZ6LVFUdERFZktIVk13RmtOMTF5dEtLUjVJc2lld1p6dTEwOEQyX21yb3B5OEgtd0FkRjgwLXBIbzJPRDk0VWZxYnBXMHFJZEgtZFoyNmNTZnJEcFN3Z3hv?oc=5",
+      "source": "Blockchain News",
+      "publishedAt": "2026-11-22T07:25:00+00:00",
+      "category": "Trends & Forecasts",
+      "image": ""
+    },
+    {
+      "title": "I love him as a mentor: Dhruv Jurel reveals why he looks up to Rishabh Pant",
+      "description": "I love him as a mentor: Dhruv Jurel reveals why he looks up to Rishabh Pant",
+      "url": "https://www.indiatoday.in/sports/cricket/story/nz-vs-ind-1st-test-day-4-dhruv-jurel-rishabh-pant-mentor-fearless-batting-mindset-3044314-2026-11-22?utm_source=rss",
+      "source": "India Today Technology",
+      "publishedAt": "2026-11-22T07:02:22+00:00",
+      "category": "News",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/dhruv-jurel--rishabh-pant-220215650-16x9_0.jpg?VersionId=UUmT5kmhqTcPvApBTS81eTL1QGL_MIcv"
+    },
+    {
+      "title": "Quantum chromodynamics could explain dark energy origins, scientists say",
+      "description": "Despite dark energy making up around 70% of the total energy in the Universe, we...",
+      "url": "https://interestingengineering.com/science/quantum-origin-dark-energy-physics",
+      "source": "Interesting Engineering",
+      "publishedAt": "2026-11-22T06:55:00+00:00",
+      "category": "Research & Discovery",
+      "image": ""
+    },
+    {
+      "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
+      "description": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.",
+      "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science",
+      "publishedAt": "2026-11-22T06:54:06+00:00",
+      "category": "News",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b71/live/e0c68530-e61e-11f1-94c8-1db910b5b42e.jpg"
+    },
+    {
+      "title": "Record-breaking sightings of rare moth in Essex",
+      "description": "There is now a self-sustaining population of the moth at a nature reserve in Essex, a charity says.",
+      "url": "https://www.bbc.co.uk/news/articles/c6jrey28gvqxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science",
+      "publishedAt": "2026-11-22T06:38:26+00:00",
+      "category": "News",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95a5/live/873e73e0-e436-11f1-8346-933d3547e297.jpg"
+    },
+    {
+      "title": "See ball, hit ball: Rishabh Pant's simple yet aggressive batting philosophy",
+      "description": "See ball, hit ball: Rishabh Pant's simple yet aggressive batting philosophy",
+      "url": "https://www.indiatoday.in/sports/cricket/story/rishabh-pant-batting-philosophy-six-hitting-test-century-sena-record-3044300-2026-11-22?utm_source=rss",
+      "source": "India Today Technology",
+      "publishedAt": "2026-11-22T06:24:57+00:00",
+      "category": "News",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/rishabh-pant-221653433-16x9_0.hljmkmbeoivapbxye3gi4kw57wdcknstgoutyjjphbs?VersionId=nIinNBY4FVV.hhjtVUvBEFvm07iCQ8_K"
+    },
+    {
+      "title": "US Army to get next-gen autonomous fuel delivery with converted unmanned surface vessels",
+      "description": "Textron Systems is strengthening its role in next-generation autonomous maritime operations after supporting NEYA Systems...",
+      "url": "https://interestingengineering.com/military/us-army-next-gen-autonomous-fuel-delivery",
+      "source": "Interesting Engineering",
+      "publishedAt": "2026-11-22T06:11:57+00:00",
+      "category": "Emerging Technology",
+      "image": ""
+    },
+    {
+      "title": "India's batting blitz leaves New Zealand with an uphill fight for survival",
+      "description": "India's batting blitz leaves New Zealand with an uphill fight for survival",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-new-zealand-rishabh-pant-century-record-720-wellington-test-3044294-2026-11-22?utm_source=rss",
+      "source": "India Today Technology",
+      "publishedAt": "2026-11-22T06:09:53+00:00",
+      "category": "News",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/rishabh-pant--dhruv-jurel-220811494-16x9_0.jpg?VersionId=8QdQjw6zrUTSaPVqwxllPwo.MbZSD00y"
+    },
+    {
+      "title": "Building a Robotic Hand on a Budget",
+      "description": "For all the recent advances in robot control enabled by machine learning, there are still a few problems which remain stubbornly difficult: locomotion, for example, or whole-body balance for humanoids. …read more",
+      "url": "https://hackaday.com/2026/11/21/building-a-robotic-hand-on-a-budget/",
+      "source": "Hackaday",
+      "publishedAt": "2026-11-22T06:00:20+00:00",
+      "category": "Innovation",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/robot_hand.png"
+    },
     {
       "title": "Scientists control a virtual fruit fly with map of insect’s brain",
       "description": "Modeling effort aims to predict how neuron activity drives animal movement",
@@ -252,13 +333,13 @@
       "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/noor-ahmad-and-ms-dhoni-152651837-16x9.jpg?VersionId=lu3m5BvieHAetHSYiW7aNHMekMSTGtif"
     },
     {
-      "title": "New draft deal aims to avert collapse of talks at climate summit",
-      "description": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.",
-      "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science",
-      "publishedAt": "2026-11-22T05:26:10+00:00",
-      "category": "News",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b71/live/e0c68530-e61e-11f1-94c8-1db910b5b42e.jpg"
+      "title": "The GTA VI-Sized Hole In Indian Gaming",
+      "description": "At midnight on Thursday, when Grand Theft Auto VI finally launched, India was just another market waiting to play the…",
+      "url": "https://inc42.com/features/the-gta-vi-sized-hole-in-indian-gaming/",
+      "source": "Inc42",
+      "publishedAt": "2026-11-22T05:30:37+00:00",
+      "category": "Industry & Business",
+      "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/GTA_Outline_Ftr.jpg"
     },
     {
       "title": "US firm to advance rapid carbon-carbon manufacturing for hypersonic applications",
@@ -270,12 +351,39 @@
       "image": ""
     },
     {
+      "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+      "description": "Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week. Some of the stolen requests were flagged as Zero Data Retention, the setting that is supposed to mean a prompt is never stored. OpenRouter, a gateway that...",
+      "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+      "source": "The Hacker News",
+      "publishedAt": "2026-11-22T05:06:55+00:00",
+      "category": "Research & Discovery",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEGP3P_elvK4C-QnSx5onZ67viDXCIgPCUYqtTF_RDNcLJfyQ4QMbegUmn8AJy5nEmnXfN4ACr6hHztG_DdqXlj54S21toacPQaZgRx2rgqZltN3lvREpZR2xlvgXF_iZ7zW0XT0b91mMiRDVaEB6TUvMFlWwaSa3_C7gwpxdKcNhLtIq15KqwaZrR3VI/s1600/openrouter.png"
+    },
+    {
       "title": "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno",
       "description": "APOD Science APOD APOD: 2026 November 22 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Swirls and...",
       "url": "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/",
       "source": "NASA",
       "publishedAt": "2026-11-22T05:05:00+00:00",
       "category": "Research & Discovery",
+      "image": ""
+    },
+    {
+      "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+      "description": "A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it. Ghostscript is the interpreter that many Linux servers use to convert uploaded PDFs, PostScript files, and images into other formats, often without the application calling it directly. Security firm...",
+      "url": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
+      "source": "The Hacker News",
+      "publishedAt": "2026-11-22T05:03:41+00:00",
+      "category": "Research & Discovery",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1BiCJUIrSJXNfKPZEkM46ynK6Rs7gba2xMaTUdoJ7yOK6Y8kcKMqJ_6PhbUIog_U1E8gRCpbj2HrkQ9UEpbPi1HOvkxdxCE5Afa5LbkNhUPvgU7Sa60IVHAWqSvgJaX1p6frMAN335QncL5UTZ3a4v1-agyb8ZXIlMGZTOtzsC0Gll2qRI0NJNMHTsf8/s1600/ghostscript.jpg"
+    },
+    {
+      "title": "CERT-In Flags AI-Powered Cyberattacks Targeting Government Bodies, Enterprises And Payment Service Providers",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRnlacUw0VWl6c1U5VkFXUzdubUJoa1podDIwaXdUZnVSRjZEcl9SdUVETGhSbFhBWWpqVTRSQ19OSnVZVlFWVk9UWU0wV2FjM3FEUFRKQ2lnb1V6bXFnYXI1SVowMVVnYnJCTmxiU0NFZjJyZ3M4STRISmsyNjFLV2djVU9QcGxjS2h5S25SRFhmUjN1U0RMWElHYWlnRFh6U1BTb1NLS2pGZWYzRXMxQnpKamR1TFNTa2MyMjBuWUE5X2ZKU3pOWTY5TTVQTFJkSVHSAeIBQVVfeXFMUHFhaTItSTduMTFONlpaczRhYm1GZEZkbmo3WmV2ODRJZFB3eGpDNEVtREx4SWVlWkpGTVhydm5FeUc2SlJBOUJ2Z1VNeHE3bVFqV3A0dTRNX0xvNWxTNFllRjlmOHBZMUp2Vl9BTzVvdkx0akN1SERXTHpLeUZTMlJOMFhpNUtzOEVpMU5MRXdWY3dsWXJHSS0yenRLc2REVkRTSEJva2dpNFFDNDIxaEl5Vk5hNjlQbFpaZHpGQWpudnJUc3ZKbEgwZHZKTWRhN3ZpZllWZEtQQm43R1ZwV0FJUQ?oc=5",
+      "source": "Swarajya",
+      "publishedAt": "2026-11-22T04:45:36+00:00",
+      "category": "Policy & Regulation",
       "image": ""
     },
     {
@@ -294,6 +402,15 @@
       "source": "Interesting Engineering",
       "publishedAt": "2026-11-22T04:29:26+00:00",
       "category": "Emerging Technology",
+      "image": ""
+    },
+    {
+      "title": "Numeric Keypad Market To 2035: Premiumization and Hybrid Work Fuel Growth - News and Statistics",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQTFHUGY5ZDVWcDVrSG5DOEhEdGNFa1gyblVhSHJSY0lfS1ZVRU4zX2VFTWJnVkJxcVhacVBFaGtpYzJWNF9Jd09uWmkxSUJyM3NDV0dNU0YwTlFVejllMFRNdUJLSnhaUU5mVV9wTm1OdDExaXA1QnlENDNJSE1iUzZIak43NWY2QXJobnkyNmxMc3ZfV01FbzFiNms2ZC1yT2tyRER2UFQwOU45cFo0bEZtcDd6WWluZG5VYURQVDBxZUE?oc=5",
+      "source": "IndexBox",
+      "publishedAt": "2026-11-22T04:21:04+00:00",
+      "category": "Trends & Forecasts",
       "image": ""
     },
     {
@@ -340,6 +457,15 @@
       "publishedAt": "2026-11-22T03:33:18+00:00",
       "category": "News",
       "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/leandro-paredes-22142888-16x9_0.jpg?VersionId=ckfiF_TzfCCl00W.xErWax9ffCkjuWzx"
+    },
+    {
+      "title": "Guardians in orbit: How India’s satellites turned cyclone forecasts into saved lives",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaHMzUDJTS25TVUJIRnJTaURWYlBhVlZjVmxiR1ExVUtmbkZSTHlNTzFmWm5pb0VMd3VTeW1tQVhrSkd1NC1EYU1pZlRCVmpGTEtUM0t2OGkxeEVoUnZrOW13V2wyelYtYnhSYVNRanNOSXo5cmNkTWlWWldXX2NsUmtGcFdnVUR0UUJ2NkQwWGxRcWthMnVWU2hELW5RVm9jX1F5VUxFc3ZRUTd4bG5VZDl0cUJhQmFaTGlWUlpjTXM2OC1VdklPMU13NTdSX0duc1BWNUlVU0hmWVZyLUHSAeIBQVVfeXFMTWlhR3VWOVR5ZmxiZGZ6VnNMZmhUNnNlSUgxYnYzN2w1dFFRLW02QWh4SWpzY3JkUE5nRjFvbnlOZU44T3AtX0pzSG9Vdk43THk5S3dacmdDQ3RVbEZYbFNKLUtDSjNRMG5vMmQ5bVIxNW05dEJXQU9tSHlQeVpsaVAzQnhCQkhhY2lfd1M0Z0pCSWZKeGIxRk5ka1lFWGVKMG9DSmR5ZUJ5R19aWVlsSlZHbWM0TnJ2ZHhBMUVzMUhBeHhLbUtGNElueWRHUlpjRmNVNGFMellKLWVnM1JLTmM0UQ?oc=5",
+      "source": "ET Government",
+      "publishedAt": "2026-11-22T03:28:17+00:00",
+      "category": "Trends & Forecasts",
+      "image": ""
     },
     {
       "title": "China’s new 7-seat electric minivan can add 249 miles in 15 minutes",
@@ -405,12 +531,12 @@
       "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/kl-rahul--rishabh-pant-222943570-16x9_0.png?VersionId=umD7Eygt0WGOuaLx8us.zyFtFNjDolFt"
     },
     {
-      "title": "Guardians in orbit: How India’s satellites turned cyclone forecasts into saved lives",
+      "title": "From chips to space rockets, PM Modi asks IIT students to power India's technology ambitions",
       "description": "",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxORUxKbGFFLWZjQ1E3ZFBXLXlORzF1VWlTak5Vd1Jzcmc1NHNESU1DYkwtYTZQQm1PS0NzMGxrVUg2TEotajNPZEpLaUVoWVVYOVd2a2c3WTNSTE1TWHRNdW5iMS1EM1BYZ19MRk8tc083dENYOVZRT3ktNjdzNjd0a1hxZVFxa2piT3d4akwzY3dTMUVOeDJfa3JDVEYxdHVmZ1o5UmZQMlU5SlhFVXYySXdHNGxTSmp6eGEzMVV3Nmo2Z0xxQXQ0LXJ3TDc2OUxfRTc2elRXYmlsNFVMMUxleHZlY1ZLRUlXb3A3bG53UmFwbXRvWVhCbHZKdmtJTnhqYkhkLU1qdURTLWJlYzJkU3U2aFhyTjDSAeIBQVVfeXFMTWlhR3VWOVR5ZmxiZGZ6VnNMZmhUNnNlSUgxYnYzN2w1dFFRLW02QWh4SWpzY3JkUE5nRjFvbnlOZU44T3AtX0pzSG9Vdk43THk5S3dacmdDQ3RVbEZYbFNKLUtDSjNRMG5vMmQ5bVIxNW05dEJXQU9tSHlQeVpsaVAzQnhCQkhhY2lfd1M0Z0pCSWZKeGIxRk5ka1lFWGVKMG9DSmR5ZUJ5R19aWVlsSlZHbWM0TnJ2ZHhBMUVzMUhBeHhLbUtGNElueWRHUlpjRmNVNGFMellKLWVnM1JLTmM0UQ?oc=5",
-      "source": "ET Government",
-      "publishedAt": "2026-11-22T02:23:02+00:00",
-      "category": "Trends & Forecasts",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQTVKdlprdVhRNEJINExUM1RyVnZRYmdNb0RuOW0tOUZIT20wbWlyZDlrelJOVTdOSms5YUpzb2lQVFNJb0JfckhLQm1qRkZCc0pOVXYyNG9TaFltSEowUi12THFVRFVVd2R6QU0zZnZISmtpZ1BBUVVXQ0ZZbV9BcF9FVVBRS3VnTEdBSEZHSmgtek9SMnNINUJrSnMwVFh0ZmduZVhqdFF6TTlPMzc2T1VKRnlremFJd3BUSklFWWxfWENtX19zV0FFRFd6cXJGN0FmNnpESll4RktWR19YV3R1UEVKNnc2enRmR1ZZcXljMTRPdU84Q1JoU0hyUdIBggJBVV95cUxNazlOcjR3WW1YX3NwMnBYUXBMeHBGSTAtQjRBQmJSZng5WUZFeF9JOUs4MjNZUk12ZnNxUzRYLXRlN0c5UDNCWkJWUkdtMlBqZUtTZWI4VGIyandqRzd0VWhQZmJlOVppSFk4TEJiSGFLOEJZeXdBUzg3eXZwZzZNTHp6cUJLbzc4LTRjOTktZE1KRGJjTXQ1YVl6ZW9scWozVTRRbXpINEZfc0NmWHAxazhtX3JHSjZ1eFZzT0FSaVRzTTR3eGpoTVVONjZqUnR3UFZVbXBfQ3hBMmUyVFl0dWZmVWFaeW84M19KaXk2ZUlFdDl3TkpGcnZEQmhnZFBrZnc?oc=5",
+      "source": "ET Education",
+      "publishedAt": "2026-11-22T02:26:15+00:00",
+      "category": "Opportunities",
       "image": ""
     },
     {
@@ -639,6 +765,15 @@
       "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/anupama-ramachandran-214641203-16x9_0.jpg?VersionId=lMikzEc4K9NULJXQbPXHd.oY8amWtmUm"
     },
     {
+      "title": "Goat Milk Replacer Market To 2035: Commercial Goat Farming Intensification Drives Growth - News and Statistics",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbVBiTGJ6Q1RhcGc2SnBTQnJRUmZjX0JEOTV3NTUweGFrOWpWQUZ0Y3kwaGVCdEtwbUM4WG9QdUZPTnpFLTd3UTZDUkFSX01kVkNCZjBZVGI4RFNvNC1zSTlPMkMwMlpWUGtZNWxBck94Mllxdk0tNFNZaXRWeElNVVVUX1Y0ck5KY2hBNHk1OE9YdFJvSFB1YlZTWkdiZkN4M3hOazNSNVJDZGRKOEY3T3MtSUtsTU1icTlxaVVkRWVjRGRNQllsRW1WM3ZaNU0?oc=5",
+      "source": "IndexBox",
+      "publishedAt": "2026-11-21T22:46:04+00:00",
+      "category": "Trends & Forecasts",
+      "image": ""
+    },
+    {
       "title": "Will COP31 end with a new global climate deal?",
       "description": "BBC Climate editor Justin Rowlatt reports from the COP 31 UN climate summit in Antalya, Turkey.",
       "url": "https://www.bbc.co.uk/news/videos/cqn0dwrewrwxo?at_medium=RSS&at_campaign=rss",
@@ -653,6 +788,15 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbVB0YXJWbE1VY1l2NlFqWDVGSW4xeU5ZZExzU01iMksxZnlTRVZLdldfbnBpazFtZUlmd2h5cW9Ddk5IbTl2b3IxWnF2Wm5OQTdsTVFVeGQ5bzZxSlJaZ3J2bGZXLUt2MkxVb1oyWURfeHN6NFZGM2tmZFNuNDlMNkg5UnFWOVdJSm40RnY3cVI2RFUtZFZPVHhwbDNzR1ZUSy1PcHoteVJXYkNxekhvZUVLekVzUVBNa3REZUVsaFVpd2hmeXhuY053?oc=5",
       "source": "IndexBox",
       "publishedAt": "2026-11-21T22:36:05+00:00",
+      "category": "Trends & Forecasts",
+      "image": ""
+    },
+    {
+      "title": "Food Sterilization Equipment Market Forecast to 2035: Demand Accelerates on Clean-Label and Shelf-Life Pressures",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUE9IZ0NRMnkzUjJMM0NlQ2wtcDZLZkdfMlRKTzQyT0YwTS12TmppRGZuemk1Q2RkaXNZMFpiT0gzbHVFcFM2d096NVVGMmxGcUFLNmVEeGtrNDlFakowMm80RFFvWkkwRENjVnZacWVReWlpdFlNTFpGYk9Cbnh5eTFNVUdmUEFyS0trVzhvQmU1eXdsakhBdi02em9IU3BSbkhMVTIwd3gwenJUVUNNU00xV3VBMzlHV0s0V2ZRS3B6dC14VGlDZ1lTb1VmRVZycUlJR1NKQWg?oc=5",
+      "source": "IndexBox",
+      "publishedAt": "2026-11-21T22:31:04+00:00",
       "category": "Trends & Forecasts",
       "image": ""
     },
@@ -709,6 +853,15 @@
       "publishedAt": "2026-11-21T22:12:41+00:00",
       "category": "News",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/godzillaTOP-1152x648.jpg"
+    },
+    {
+      "title": "Thin Wafer Processing and Dicing Equipment Market Forecast to 2035, Driven by Advanced Packaging Demand",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMVFwLTJWT3QxN0s5M2pYWmNZYy1PeXhIRF9FSGlNNEtHcG5yOTdjMkdGa0dsU2szcjVKMWdybzBvZE9LLUM4VHl3eUM4bUQybF9yaFBnTXBFMmlqajVseU56dmJnV2w3WGlvYXZ2Zkp3Mkc5NlNteEVwNVI5dmNtMTN4aFhRc1o5NGVXbEluUk1MUUpzNmhwNUZNSV9KSVM1YXg4U1lsMG1kSlVPQVZXemp2YW8teXIyTkpQS012aVZvWmdQY25tVFZXOWg?oc=5",
+      "source": "IndexBox",
+      "publishedAt": "2026-11-21T22:11:04+00:00",
+      "category": "Trends & Forecasts",
+      "image": ""
     },
     {
       "title": "Avalanche (AVAX) Price Forecast & Predictions for 2026, 2027, 2028–2030",
@@ -783,15 +936,6 @@
       "image": ""
     },
     {
-      "title": "The free Raspberry Pi tool you should be using to access it remotely",
-      "description": "Avoid forwarding ports by using this handy tool.",
-      "url": "https://www.engadget.com/2319090/free-raspberry-pi-tool-access-remotely/",
-      "source": "Engadget",
-      "publishedAt": "2026-11-21T21:45:00+00:00",
-      "category": "News",
-      "image": "https://www.engadget.com/img/gallery/the-free-raspberry-pi-tool-you-should-be-using-to-access-it-remotely/l-intro-1794928442.jpg"
-    },
-    {
       "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
       "description": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
       "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
@@ -799,15 +943,6 @@
       "publishedAt": "2026-11-21T21:37:10+00:00",
       "category": "Emerging Technology",
       "image": ""
-    },
-    {
-      "title": "How long can fiber optic cables be before they lose signal?",
-      "description": "Fiber optic cables can span your neighborhood or multiple continents, but there are limitations to this technology's communication capabilities.",
-      "url": "https://www.engadget.com/2319077/fiber-optic-cable-how-long-before-lose-signal/",
-      "source": "Engadget",
-      "publishedAt": "2026-11-21T21:30:00+00:00",
-      "category": "News",
-      "image": "https://www.engadget.com/img/gallery/how-long-can-fiber-optic-cables-be-before-they-lose-signal/l-intro-1794846286.jpg"
     },
     {
       "title": "Budget 2027: Industry Body BWA Seeks Tax Relief For Crypto Startups",
@@ -837,15 +972,6 @@
       "image": ""
     },
     {
-      "title": "How to easily factory reset your Fitbit",
-      "description": "There's a difference between restarting and factory resetting your Fitbit.",
-      "url": "https://www.engadget.com/2319074/how-to-factory-reset-fitbit-device/",
-      "source": "Engadget",
-      "publishedAt": "2026-11-21T21:15:00+00:00",
-      "category": "News",
-      "image": "https://www.engadget.com/img/gallery/how-to-easily-factory-reset-your-fitbit/l-intro-1794927232.jpg"
-    },
-    {
       "title": "A tale of two Nvidias",
       "description": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
       "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
@@ -862,15 +988,6 @@
       "publishedAt": "2026-11-21T21:00:25+00:00",
       "category": "Innovation",
       "image": "https://hackaday.com/wp-content/uploads/2026/11/ESP32-TLL-CRT.jpg"
-    },
-    {
-      "title": "What's new with Apple's latest Siri Remote, and does your old Apple TV support it?",
-      "description": "The 4th-gen Apple TV 4K comes with a new remote. Here's what you need to know about it.",
-      "url": "https://www.engadget.com/2319050/whats-new-siri-remote-does-older-apple-tv-support/",
-      "source": "Engadget",
-      "publishedAt": "2026-11-21T21:00:00+00:00",
-      "category": "News",
-      "image": "https://www.engadget.com/img/gallery/whats-new-with-apples-latest-siri-remote-and-does-your-old-apple-tv-support-it/l-intro-1794593750.jpg"
     },
     {
       "title": "Atomberg & Voltas Execute JV Agreement To Build AC Compressors",
@@ -897,6 +1014,15 @@
       "source": "The Verge",
       "publishedAt": "2026-11-21T20:03:37+00:00",
       "category": "Emerging Technology",
+      "image": ""
+    },
+    {
+      "title": "Steam Heater Inspection Equipment Market To 2035: Aging Infrastructure and Regulations Drive Growth - News and Statistics",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdUxxdXRlWmYtTk1uS1NNNVQ0WHp4NHVvemloVGdYclVQZVlFVGZwZC1NRS1IdGhBNEVNT3FfVDhkSE5ZbnViZnRTdEFma19pSjlIT0txTVJoOVdOV2hnZEdhUWFtRnlrN2huUjFSdXdla01NdUk4R2hzSnV0Q3N1Mk9uWEwyVHZBT3lXUnlUZUM0RVBiQWlZSEYySzBGckdsTjJoLTlKVVAyeFR3TlBqa3lYRWE0Vzl0TWY3UjU3ejBGWENlaVlFaTJPRzhUZUpxaFY2a21ydnhyZnlZ?oc=5",
+      "source": "IndexBox",
+      "publishedAt": "2026-11-21T19:51:05+00:00",
+      "category": "Policy & Regulation",
       "image": ""
     },
     {
@@ -1113,15 +1239,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-11-21T16:00:00+00:00",
       "category": "Industry & Business",
-      "image": ""
-    },
-    {
-      "title": "From chips to space rockets, PM Modi asks IIT students to power India's technology ambitions",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQTVKdlprdVhRNEJINExUM1RyVnZRYmdNb0RuOW0tOUZIT20wbWlyZDlrelJOVTdOSms5YUpzb2lQVFNJb0JfckhLQm1qRkZCc0pOVXYyNG9TaFltSEowUi12THFVRFVVd2R6QU0zZnZISmtpZ1BBUVVXQ0ZZbV9BcF9FVVBRS3VnTEdBSEZHSmgtek9SMnNINUJrSnMwVFh0ZmduZVhqdFF6TTlPMzc2T1VKRnlremFJd3BUSklFWWxfWENtX19zV0FFRFd6cXJGN0FmNnpESll4RktWR19YV3R1UEVKNnc2enRmR1ZZcXljMTRPdU84Q1JoU0hyUdIBggJBVV95cUxNazlOcjR3WW1YX3NwMnBYUXBMeHBGSTAtQjRBQmJSZng5WUZFeF9JOUs4MjNZUk12ZnNxUzRYLXRlN0c5UDNCWkJWUkdtMlBqZUtTZWI4VGIyandqRzd0VWhQZmJlOVppSFk4TEJiSGFLOEJZeXdBUzg3eXZwZzZNTHp6cUJLbzc4LTRjOTktZE1KRGJjTXQ1YVl6ZW9scWozVTRRbXpINEZfc0NmWHAxazhtX3JHSjZ1eFZzT0FSaVRzTTR3eGpoTVVONjZqUnR3UFZVbXBfQ3hBMmUyVFl0dWZmVWFaeW84M19KaXk2ZUlFdDl3TkpGcnZEQmhnZFBrZnc?oc=5",
-      "source": "ET Education",
-      "publishedAt": "2026-11-21T15:44:44+00:00",
-      "category": "Opportunities",
       "image": ""
     },
     {
@@ -1539,6 +1656,15 @@
       "image": ""
     },
     {
+      "title": "S&P 500 forecast for 2027: Wall Street expects a rebound after an 11.6% drop fueled by AI fears",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVUd5RzZ5ZVE5cnYtV3BVUEV5MkEtZExtelRVUUU2MFZBbHBSbmFieVlIM1NQRGh1N0dKWnJKSU9sUHI5VmxtbDVrQWhlZUlJY3ZoYTBzQ091TTk2U01yYnNWb05QaFpxaEdsLUV0bkVwa2F1OUNOQzdJN194ZE1CcUcybUFHbTFBNUJfVA?oc=5",
+      "source": "Beinsure",
+      "publishedAt": "2026-11-21T09:58:33+00:00",
+      "category": "Trends & Forecasts",
+      "image": ""
+    },
+    {
       "title": "Google Commits $5 Mn To Sundar Pichai’s Alma Mater IIT Kharagpur",
       "description": "Google announced a commitment of $5 Mn in funding to IIT Kharagpur, the alma mater of CEO Sundar Pichai, to…",
       "url": "https://inc42.com/buzz/google-commits-5-mn-to-sundar-pichais-alma-mater-iit-kharagpur/",
@@ -1546,15 +1672,6 @@
       "publishedAt": "2026-11-21T09:45:32+00:00",
       "category": "Industry & Business",
       "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/google-tasks-featured-1.png"
-    },
-    {
-      "title": "Scaler Cofounder Anshuman Singh Unveils AI Training Data Venture Arcfront",
-      "description": "Tech upskilling platform Scaler’s cofounder Anshuman Singh has unveiled Arcfront, an AI research and training data venture that turns records…",
-      "url": "https://inc42.com/buzz/scaler-cofounder-anshuman-singh-unveils-ai-training-data-venture-arcfront/",
-      "source": "Inc42",
-      "publishedAt": "2026-11-21T09:27:01+00:00",
-      "category": "Emerging Technology",
-      "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Untitled-Design.png"
     },
     {
       "title": "Now, MoEngage Suffers Cybersecurity Attack Due To Compromised Third-Party Vendor",
@@ -1609,6 +1726,15 @@
       "publishedAt": "2026-11-21T08:17:32+00:00",
       "category": "Industry & Business",
       "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Celcius-Feature.png"
+    },
+    {
+      "title": "Microsoft (MSFT) Stock Price Prediction: Pullback tests support as analysts stay constructive",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNenFWRjVRM3ZMVGtUNDBtRW1xUGs2QzRlbDRsdGYyN2J0NFN2UmZuN0FSY090WTFLZEN6bXFLN0QtTkhJRHpocW9GYXVaSmxMSjM3ZHgyNzRQcS1pcEtOZ1QtWDZicElmOWI1Z2twVzd1bGNiZFRlQm9XeHdDOXAxRzlJeXo0ZzdzR3F0c01WUzRBcjJlQWtDUDRoT2NLajdT?oc=5",
+      "source": "Blockchain News",
+      "publishedAt": "2026-11-21T07:18:00+00:00",
+      "category": "Trends & Forecasts",
+      "image": ""
     },
     {
       "title": "Stanford runner dissects racing super shoes, unearthing secrets of speed",
@@ -1719,6 +1845,15 @@
       "image": ""
     },
     {
+      "title": "CERT-In flags unauthorised payment transactions, warns of AI cyberattacks",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVGc1UjdYVHBRbjBxNWJ4U2hyZXhMTjM3UHVPSFRudHNPd0h3em53LXd6WnI0SjduUGZFQWFta0o3T01MMDd5V1VEbU0yY3pJbmJocUxsOW5tZHlVem9TVldERDZmRVQ1clRtdE41RkpfYTN4ZGNnTnBLR09JZnV6bm1ic2IyMW9pOGp6eVFiaU9XZWM3aGxFblRwbFVmTnZxTWpEMVFTWHpOSGE1dVN5eEl0Qkh3ZWswbExUc01feXl1UG1XakVia2xtNGxXXzYteGV2T2VkUHJqQ1JpdGszOWZIbF8yZ9IB5gFBVV95cUxNVGc1UjdYVHBRbjBxNWJ4U2hyZXhMTjM3UHVPSFRudHNPd0h3em53LXd6WnI0SjduUGZFQWFta0o3T01MMDd5V1VEbU0yY3pJbmJocUxsOW5tZHlVem9TVldERDZmRVQ1clRtdE41RkpfYTN4ZGNnTnBLR09JZnV6bm1ic2IyMW9pOGp6eVFiaU9XZWM3aGxFblRwbFVmTnZxTWpEMVFTWHpOSGE1dVN5eEl0Qkh3ZWswbExUc01feXl1UG1XakVia2xtNGxXXzYteGV2T2VkUHJqQ1JpdGszOWZIbF8yZw?oc=5",
+      "source": "Business Standard",
+      "publishedAt": "2026-11-21T04:25:14+00:00",
+      "category": "Alert",
+      "image": ""
+    },
+    {
       "title": "Databricks in early talks to raise funds at $225 billion valuation: WSJ",
       "description": "Databricks is in early talks to raise several billion dollars in a new round that would value the data and artificial intelligence software company at about $225 billion, the Wall Street Journal reported on Friday, citing people familiar with the matter.",
       "url": "https://economictimes.indiatimes.com/tech/startups/databricks-in-early-talks-to-raise-funds-at-225-billion-valuation-wsj/articleshow/136044631.cms",
@@ -1798,15 +1933,6 @@
       "publishedAt": "2026-11-21T02:46:30+00:00",
       "category": "Industry & Business",
       "image": "https://img.etimg.com/photo/msid-136043315,imgsize-105440.cms"
-    },
-    {
-      "title": "CrowdStrike in talks to acquire Zscaler",
-      "description": "A combination would create one of the world's largest pure-play cybersecurity providers as enterprise customers seek to reduce the number of security vendors they use, favoring providers that can deliver multiple products through a single relationship.",
-      "url": "https://economictimes.indiatimes.com/tech/technology/crowdstrike-in-talks-to-acquire-zscaler/articleshow/136043272.cms",
-      "source": "Economic Times Tech",
-      "publishedAt": "2026-11-21T02:43:03+00:00",
-      "category": "Industry & Business",
-      "image": "https://img.etimg.com/photo/msid-136043272,imgsize-6570710.cms"
     },
     {
       "title": "After 8 years in space, a groundbreaking X-ray telescope finally opens its eyes",
@@ -1962,15 +2088,6 @@
       "image": ""
     },
     {
-      "title": "What is the Riemann hypothesis and why is its solution so monumental?",
-      "description": "It has been called the hardest problem in mathematics, and now through a combination of human ingenuity and relentlessness, and the computational power of AI, the Riemann hypothesis may have finally been solved",
-      "url": "https://www.newscientist.com/article/2600226-what-is-the-riemann-hypothesis-and-why-is-its-solution-so-monumental/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "source": "New Scientist",
-      "publishedAt": "2026-11-20T21:24:57+00:00",
-      "category": "Research & Discovery",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321431557.jpg"
-    },
-    {
       "title": "China's 'Armory Castle' Lays Siege to VMware vCenter Zero-Day",
       "description": "During the last wave of major VMware vCenter security updates, a China-nexus threat group likely already had its next zero-day up its sleeve.",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day",
@@ -1978,24 +2095,6 @@
       "publishedAt": "2026-11-20T21:03:27+00:00",
       "category": "Alert",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt911ff7b35a2a2c1d/6b009babdd63b308b3111bc2/Chinese_fortress-Lukas_Bischoff-Getty.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Gamified mobile payment features may drive adoption among Gen-Z users",
-      "description": "Gamified features in mobile payment applications may significantly increase adoption among consumers in emerging economies, with men and women responding in almost identical ways, according to research published in the International Journal of Business Information Systems.",
-      "url": "https://phys.org/news/2026-11-gamified-mobile-payment-features-gen.html",
-      "source": "Phys.org",
-      "publishedAt": "2026-11-20T21:00:05+00:00",
-      "category": "Research & Discovery",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/mobile-game.jpg"
-    },
-    {
-      "title": "Don't turn the moon into the Wild West, scientists warn",
-      "description": "Researchers are calling for a moratorium on industrial exploitation of the moon, fearing that rapid development could cause irreversible environmental damage and destroy invaluable scientific material. Both China and the U.S. are pushing forward with plans to establish permanent human settlements on the moon by the end of the next decade....",
-      "url": "https://www.space.com/astronomy/moon/dont-turn-the-moon-into-the-wild-west-scientists-warn",
-      "source": "Space.com",
-      "publishedAt": "2026-11-20T21:00:00+00:00",
-      "category": "Research & Discovery",
-      "image": "https://cdn.mos.cms.futurecdn.net/QqobdB5e8LcM5ERUWc2mqV-1920-80.jpg"
     },
     {
       "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
@@ -2115,15 +2214,6 @@
       "image": ""
     },
     {
-      "title": "Italy gives green light to Tesla's assisted driving system",
-      "description": "Italy gave provisional approval to the Tesla Assisted Driving system on Friday, ahead of a final decision on a rollout expected next year at the European level.",
-      "url": "https://techxplore.com/news/2026-11-italy-green-tesla.html",
-      "source": "Phys.org Technology",
-      "publishedAt": "2026-11-20T18:20:01+00:00",
-      "category": "Innovation",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/teslas-assisted-drivin.jpg"
-    },
-    {
       "title": "Chrome Dev for Desktop Update",
       "description": "The Dev channel has been updated to 160.0.8171.0 for Windows, Mac and Linux. A partial list of changes is available in the Git log . Interested in switching release channels? Find out how . If you find a new issue, please let us know by filing a bug . The community help forum is also a great place to reach out for help or learn about common...",
       "url": "http://chromereleases.googleblog.com/2026/11/chrome-dev-for-desktop-update_0667948876.html",
@@ -2147,6 +2237,15 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYktfOXlaVDhuUHk5OElFR2JLUnpXLTg3LWFFcTFmQWMzQXJqS1FZVUpuSXMtTDE0cElIbU50cFRMaXJSVm9HekpQNThIVWJBS2R4elRFeHcyX1QwVG55djJMOUhHT0lIeW12ZUhxME90aUN6Tm9TNW82VE1kUk1SYXlVR0JCUVFsc0lrc3JLU0hhT0pHenVZR08yVW1pdnVTcGVKb3dUNXBPT21LXzhSLUkxMnJvZ24zX2hKdzRiSEZMZE0yeDQxQVV2dlRsdw?oc=5",
       "source": "EIN News",
       "publishedAt": "2026-11-20T17:45:00+00:00",
+      "category": "Trends & Forecasts",
+      "image": ""
+    },
+    {
+      "title": "Nvidia Stock Price Forecast: Technical Signals Say Sell, but Analysts See 70%+ Upside",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNnhJbmItN2ItMlRsSjJXMTNva0laLXROMVJIck1sczVBMUNtQmNOVlZFcVpaaVp1QS1ZWUtQNU5kLXItbTEtTXlXdzMzOXhMYXhCNnhOWWI1YWM5c05jSXo2cHhHb2lEU3h4V2JnSEY4bnpBOWltT2hGSHlvRUZLRWo5WlFGX0VMUTJDMEtTdW1qT21WanFrYUtvMG1mR0psdEdIYWp5Q1J3VFdhVnJtMw?oc=5",
+      "source": "TipRanks",
+      "publishedAt": "2026-11-20T17:39:23+00:00",
       "category": "Trends & Forecasts",
       "image": ""
     },
@@ -2277,6 +2376,15 @@
       "image": ""
     },
     {
+      "title": "Data Bytes 70: Your EMEA Data Privacy Update for November 2026",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSUJMVXFndlBaUVUtbGl2UHlsTWFZY1VYSG1CZUF1RmR1a3B2ZlZzTmppM3hMdHE5NWItcUVYUGY3eXRXMHFPS2RVSlZzeTFTQlZHZFF5QjROeG50SzRZVndtRG1sMkZWdjJmQjI2eUVvRllRU3dSb2Qzd1FCTDJjT2c5Q0dEWDNOMUpqalRLRk1xTHBYSUlvNlBaTE4xSjh0Q2Vjal9mX1BoajRmdlE?oc=5",
+      "source": "Ashurst Perkins Coie",
+      "publishedAt": "2026-11-20T15:26:56+00:00",
+      "category": "Policy & Regulation",
+      "image": ""
+    },
+    {
       "title": "'Critical' 1970s-era Fujitsu UK police system could remain unsupported for three years",
       "description": "",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcE44QTVBMEtDLWlNNFczSEVNcldzT2wyQktvSmk5Q0ZaWkd1Znh6bWRlTkxRQVd4NHI2VENJam9YMTdtRmtRZnRNRENMNEpKd1ZWbGRGVlhPMjMzYmZpTVFEX2RZR3JFY1R0R0tuWUNrQnRUT1hEckxwT3h6SWlWYld1WV9zSW43aWw5emI3YU1ld3hDS1Zsc1FRMTlTZHlYSEFDeDdnRDdZMmZFZXV1MkxBaGgyb2lKU2VsbE9fTXRtYWhVRkZwcEF6SzQzb0d5czZ4VlNVR3NyQkUyVHc?oc=5",
@@ -2385,6 +2493,15 @@
       "image": ""
     },
     {
+      "title": "ExxonMobil (XOM) Stock Price Prediction: Analyst upgrades meet a weak technical tape",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV3ZmY1pKakpwdjJyZThsN2lLWC1ZNm5HUklaNGYzRHdRS3FvR25nVXd4WFRSUmo3cl8tdnJtUVRiMFpDQVRrMGRjdWhqSkthWFRBaVpOalVVRkZEVlJpVGxuU292UkdZV3AwbGNwV0FEMS0xNjNNU2lSd3dsTVZ3TVU4Q1E1SUJoVTladTdQRFlxcXNsZFJjb1BWNjlYUQ?oc=5",
+      "source": "Blockchain News",
+      "publishedAt": "2026-11-20T13:12:00+00:00",
+      "category": "Trends & Forecasts",
+      "image": ""
+    },
+    {
       "title": "AI could open wallets where ERP upgrade pitches can't, says PwC",
       "description": "Consultancy argues a 'clean core' makes agents easier to deploy – but Kingfisher is taking a different route",
       "url": "https://www.theregister.com/ai-and-ml/2026/11/20/ai-could-open-wallets-where-erp-upgrade-pitches-cant-says-pwc/5311221",
@@ -2439,12 +2556,30 @@
       "image": ""
     },
     {
+      "title": "Garmin releases major update to older high-end smartwatches with over a dozen new features and changes",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQallQdEc1ZmJmNldhcXF3d29KZXFvd1BwZnRxeHdPaXQ5TlZvQmg1dDBXWEtPZnRieGV3YUJKMjVBYjUwdnRLNElrMkI4eFR5aDRic3poRkZSLXJlaGphNW9CMDZ3el9Ia0RCY2szYzEwRUJNVjlNNDZCU3hBZVhvWnh4cGZCUk9OWXFwanllZEwyaXl5SVJxR1N2Q0tIS0xCQ25DUjg3QTF3a2JFalVaZUpuSWtOSnpuQkhCYzJUcGlaOHUwdm9UeFN4R0FTZlBTYUZQbldtNzNXbEFzVkR6YQ?oc=5",
+      "source": "Notebookcheck",
+      "publishedAt": "2026-11-20T11:47:00+00:00",
+      "category": "Updates & Patches",
+      "image": ""
+    },
+    {
       "title": "SBC Medical Group Data Breach Impacts Over 2 Million",
       "description": "Threat actors accessed databases containing customer information associated with clinics in Japan. The post SBC Medical Group Data Breach Impacts Over 2 Million appeared first on SecurityWeek .",
       "url": "https://www.securityweek.com/sbc-medical-group-data-breach-impacts-over-2-million/",
       "source": "SecurityWeek",
       "publishedAt": "2026-11-20T11:36:51+00:00",
       "category": "Threats",
+      "image": ""
+    },
+    {
+      "title": "Measurement Instruments Market To 2035: Automation and Smart Manufacturing Fuel Growth - News and Statistics",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRjhuMHo3SVBnLTlualFBV3N5ZFh3cDdGWHhFZkhZTjFSZUdyU2lrR1FsTzR3WHJUSDBXR0NrbFFvZXBadjdjVEI0ZTNqaTI0NEtKTHRlQVY5SlR6OGlVSG15V0FmMGJFNW9Tel9hRkNNQnNvTWJMY1RXM2JaNmNHdEdiWVIxZ1lWMC16cHRFMDZvUmpMcnE2Ykh5a0tSbHVVWUg2RHY0a1p2TU1wcWRuM3I0NDF6Y2VUSkUxbDhCNWYyZ2VpZW5BYU5KZHhlTDBFZzJtVUlRSld5SzNZ?oc=5",
+      "source": "IndexBox",
+      "publishedAt": "2026-11-20T11:21:05+00:00",
+      "category": "Trends & Forecasts",
       "image": ""
     },
     {
@@ -2464,6 +2599,15 @@
       "publishedAt": "2026-11-20T11:09:44+00:00",
       "category": "Updates & Patches",
       "image": "https://image.theregister.com/?imageId=5289791&width=800"
+    },
+    {
+      "title": "Samsung updates Galaxy A56, Galaxy A26 with November 2026 security patch",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTjhERzhnNlhCWGJ3SDlTdldQSjFnNXNkZm9OYmhsU0QxYUhNN2d5Q0lPOXJPTnRVMXpmVi1ZejkyN29vaTAzY1AyMzkwck9Bbkx4S1pXX3paRGdNMmlUZC1LVTJnUlBHYVJ5S2diX0puRFpoM29hb3FIS3RSeGZtUkZOUS1QMGdyYlJ3dUd3WXA1MVBhN0dSQVVDSEo0M2lxUHFTUXdB?oc=5",
+      "source": "SamMobile",
+      "publishedAt": "2026-11-20T11:03:00+00:00",
+      "category": "Updates & Patches",
+      "image": ""
     },
     {
       "title": "F5 releases emergency patches for critical BIG-IP RCE flaws",
@@ -2511,6 +2655,15 @@
       "image": ""
     },
     {
+      "title": "Snowflake (SNOW) Stock Price Prediction: Pullback tests support as analysts stay constructive into December earnings",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc3liZnRhZExBeFo3THR4X2hIa3dZUVVKTnphWi1TTnE5bDhkRXlQS0xWZ2JiZGpNMUZVTmdiQ1JHV2RzV05EVno5OHY3M2EzVHA0d0hLNk00Nm1pU2MtakNJVmtXeUdMY2FnRXZNY1hQcnNReFhCT3h1NUxUVjFuTDhCQ2FuWVhmWEZ3bHNJN1NhR3BfT3JqVHI5bGFEZlVk?oc=5",
+      "source": "Blockchain News",
+      "publishedAt": "2026-11-20T09:36:00+00:00",
+      "category": "Trends & Forecasts",
+      "image": ""
+    },
+    {
       "title": "Ubuntu Core Desktop targets 28.04 debut, with default status in its sights",
       "description": "Canonical's stretch goal is to make the immutable OS standard in 30.04 – without retiring the traditional distro",
       "url": "https://www.theregister.com/os-platforms/2026/11/20/ubuntu-core-desktop-targets-2804-debut-with-default-status-in-its-sights/5310837",
@@ -2526,6 +2679,33 @@
       "source": "BleepingComputer",
       "publishedAt": "2026-11-20T09:25:35+00:00",
       "category": "Updates & Patches",
+      "image": ""
+    },
+    {
+      "title": "Marvell Technology (MRVL) Stock Price Prediction: Sharp selloff tests support as analysts split on Lumentum deal fallout",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT1VFa3lzRUdpZUdLX1Z4QjhMY3RNc1htbWJieUxmQXZZcGhYS18zMkx2WWc4aHhONzZRVTNRU0xROFdlOFhoZ3cxemxEQmxtTUVlWXl1ZFFoUVA3dDJHTWhCOHpwM3c1RWdRZTM2Wm1LUEQtYzhzNERfdVlZRVlkcW9qQnpKSFN5SEhuSTVpQ1I4S3NFb3pmUkFhU2pOUzFw?oc=5",
+      "source": "Blockchain News",
+      "publishedAt": "2026-11-20T09:11:00+00:00",
+      "category": "Trends & Forecasts",
+      "image": ""
+    },
+    {
+      "title": "TSMC (TSM) Stock Price Prediction: Selloff meets a crowded bearish technical setup, but analyst targets and October revenue keep the longer case intact",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOXzRrTUtmTDM1ZklfRHNzOXNWb1pCOEtkTEw2UXBjX2QwczBmTTRpZWhFS2hSenQtX2oxZjh1VlFhSks3QmxFWDh2bGEyLVJzYnNTcnJzODFfdGdCTlFxWVc4M215X0d4NWNNSkM5aWdnTVdiLUNPbUlPamp4bkhWNHJ0WXdFM28yalhleEtQVzVrRzUtYW91c01UaDNDN0NUdnc?oc=5",
+      "source": "Blockchain News",
+      "publishedAt": "2026-11-20T09:10:13+00:00",
+      "category": "Trends & Forecasts",
+      "image": ""
+    },
+    {
+      "title": "Palantir (PLTR) Stock Price Prediction: Bullish analyst tape meets a sharp technical reset",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWjhjWkpvaV9aX1dwSFQ4TVNwVXZFRnQ2TmJ5aVhaRFMtbzVKQklId3lUTjhnekZiZXprbEtIdUFVTXBVd0RXMWRqMUoyRGVuSjRYdXNVeURNdXdwU1otU0N6QlJ1TW5GQl9VcHRYanBiX3NnUEt1MzJBejNoYmRMekV4SGFJWl9fVmFiZG8wdkY1VUNiTk0wd3R3?oc=5",
+      "source": "blockchain.news",
+      "publishedAt": "2026-11-20T09:08:00+00:00",
+      "category": "Trends & Forecasts",
       "image": ""
     },
     {
@@ -2610,21 +2790,21 @@
       "image": "https://www.eff.org/files/banner_library/bsod-cloud.png"
     },
     {
+      "title": "TSLA Stock Quote Price and Forecast",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qejEtbzhHOHJnMXJRWUVEbUxyUFF0RnJuNEtEN0U4Mk4wTlIycHNTejNyYTJYQlRDMFRCMllMcGJtNV81S0RNME9IZFBSZkRJ?oc=5",
+      "source": "CNN",
+      "publishedAt": "2026-11-19T21:17:20+00:00",
+      "category": "Trends & Forecasts",
+      "image": ""
+    },
+    {
       "title": "ASUS warns of critical hard-coded key flaw in Control Center Express",
       "description": "ASUS released Control Center Express v1.7.29 to fix three critical vulnerabilities that could let remote attackers gain administrative control of the management console and the devices it manages. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/",
       "source": "BleepingComputer",
       "publishedAt": "2026-11-19T21:15:59+00:00",
       "category": "Alert",
-      "image": ""
-    },
-    {
-      "title": "US Stocks Are Predicted to Extend Their Historic Rally as Gains Moderate",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOXJSam1KZ1d3Z2dsQlhYa19WRE9PWURGWEg4TDhsUXc4dmRmYzRPUTd1ZXZ6ZFA4dWVpMWxqSnBIOGZuRjVmOGY0VVk5a0xjVkgyVkRwWUtxbkdLRWhMTksxNW40VUp5aHdmNVlDN0hUWEFrQnJrRXZNSHVLazAzQTlmT0JqTmIzTndlNXhUYXJSSzFKZHZKQUFtU1FsNDBqYWZqMzQzVHEwUTNuOWc?oc=5",
-      "source": "Goldman Sachs",
-      "publishedAt": "2026-11-19T20:42:21+00:00",
-      "category": "Trends & Forecasts",
       "image": ""
     },
     {
@@ -2673,21 +2853,21 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chatbot-as-your-lawyer.jpg"
     },
     {
+      "title": "Is It AI? After Nationwide Outages, Broadcom and CISA Sound Alarms on Critical Security Flaws",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYTZJeGRvc2FKTnBUZEEtSkZuRjVlM05wczlLMXd0Rjk5WDRwODN2OW0zbm5rQmpac1FySXBTMUprOWtwcmZnVWtJR1NjWHhjTkZucU9TalRLd0tGUHBWYmt6YnN3NTJRMTU5RDB4TExwRWRqSG84NVFvbHZRdHRwelpnVlA0Q01OMzB5MEpDbnJYZk90VWJpN255bEY2ZlZCcUZmSW1Hdm9FQVNTeTdYWXo3Mk5tU1NuQjBjU1pUOVFHYUt5eHUxYWQ1MFBSdEtOYkM3QlFCMWlqSklBa3V5Rk1BMA?oc=5",
+      "source": "Virtualization Review",
+      "publishedAt": "2026-11-19T18:25:40+00:00",
+      "category": "Alert",
+      "image": ""
+    },
+    {
       "title": "Don't buy smart glasses, Dutch data watchdog advises",
       "description": "",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBQYUFWQnZKV0ZodW1GNVlrTEpPQVhkU2p6dEowMDdqLTVrMjhxZzA1T2Ntb0dzU1Rrd2dlcnA1Sm9hczE2RjBuaF9ubFRORUJuQVdfclVHR3g5YVRQR0E?oc=5",
       "source": "BBC",
       "publishedAt": "2026-11-19T16:33:17+00:00",
       "category": "Policy & Regulation",
-      "image": ""
-    },
-    {
-      "title": "Galaxy S25, S24 series get November 2026 security update",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdXhvUXdhMGFBRzdWajBiWXZGcC1SbW5hUEkyRXd5ZTB3QW91WWRCY1dsUHBHbEVlY19sVHlRRWpJemRQZk83U1NDa1dvMjZwdHpiaGFWTUlBTFB4Mkg0WThNQVExRGNHbkM2Mnhoa0FMYW9WOTU2YkhmR3oyVHV6a2FyUWJQclRNdFN0QUgtYWw?oc=5",
-      "source": "SamMobile",
-      "publishedAt": "2026-11-19T15:51:00+00:00",
-      "category": "Updates & Patches",
       "image": ""
     },
     {
@@ -2709,15 +2889,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ5IDT81eb7KUE0LzwGJAzuAETft3pD5sOz2dJxnQin_-zR_hH8tDKFTsLNBNoe35KM4DhFJjP7K-0YwaMoVwz7xUhTiP2vKeNqmN3kenPgwflENu35qx-QlFj-rDFdyXx1HMz6ykegw6nlnPDXppYbotjoRj-ammlyUZ-Cr0JYLS5iyZXkJXkaIO5UAc/s1600/vmware.jpg"
     },
     {
-      "title": "Polkadot (DOT) Price Forecast & Predictions for 2026, 2027, 2028–2030 and Beyond",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLU1aZTROVElOVXo3cERJYllpU2hsVmZmbXZuZ0ZUcURPOTV5MS12Z1hKVWxsaHNsOXpnaEwyQjlSVldYQy1wYUFBQlVnMVVzYkhfS3RuVU1SaktSUy10UDMxOTZsdzNGenJwODFteFNXa2FVeUE5WnFHajRYSnhiUW0wQQ?oc=5",
-      "source": "LiteFinance",
-      "publishedAt": "2026-11-19T14:59:28+00:00",
-      "category": "Trends & Forecasts",
-      "image": ""
-    },
-    {
       "title": "Canada – Counter uncrewed aerial systems (urban) sandbox 2027",
       "description": "",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNm8xS1YtdnpJdTkyem5XaXh1Q3prMkVxRVJ4WnY4ZmF2ZUN5d0VpemJERHhQRlpGOFNKWnBxQ0s1Nm9uWERtektyQ244VHZyVEtQN0l2cjlOY3g2OUl3LWlRdDBjNWRFc0o0MXdHX2x2Ny1FeXB3cExQRmJlcFRZMjNpU1BhU0hGOVU2bXpLQ0UtcWxCY1E?oc=5",
@@ -2727,57 +2898,12 @@
       "image": ""
     },
     {
-      "title": "Rimini Street to Host Investor Day on January 14, 2027, in New York City",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNc3d0ak90dzZRcjZZY2VWbGoxN1QtLWdGcHI1akpnTFlPOXNiWV9obTVJSkJweVR3Q3J4THVNWW0zcld3T2lTT25JSlMza2NtOTVSZWxva0dnNU9rTDhROGZDdkt1bTZ2QTlNUC11WmpEUl8zdVk1ejREV1prRTJKOXRuem44c3ZtX2xHbG55cDFiMGNsbXZFU3ZPYjJVUzR1R3QtZFlhOUVQWVVQMGlELWJsZTQ2LVNkMjNtbkh6TXBDVUhmczNrZVYyaTlsV2tDU0J6cXBB?oc=5",
-      "source": "Via TT",
-      "publishedAt": "2026-11-19T14:00:00+00:00",
-      "category": "Updates & Patches",
-      "image": ""
-    },
-    {
-      "title": "Who controls the farm’s data? Farmers’ data, farmers’ rights",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQkZCckZITkkxZmdQa0x2RDVQZFkxa3Q0VnIxVFVVbEJLVkFEQUxwN3hhOEUtSmw4ZFJKck1yU3pGbkJESWZkUktwbHY0ejBDUlVIWGNaYnZucXprRzROUmR6RHB4UzlCS3hoNnM4U2hsY1hKQmxGMWczUUlCTmw0ZGNuNmNqVE1aVHVsWUFPak56dlFmV1g1Sw?oc=5",
-      "source": "Leiden Law Blog",
-      "publishedAt": "2026-11-19T14:00:00+00:00",
-      "category": "Policy & Regulation",
-      "image": ""
-    },
-    {
-      "title": "Human Centric Lighting Market Growth, Trends and Outlook",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9yRXBzS0pmY1IyR00xZDU3ejg1RUhLcUhNZkxVU1Y0enJsejljei1NZUFGVWg4dnMwalZxdnpZOG9Id2tDOFRXdGd3VEc0SWw3a0s4RG1vY3BBa0V1UlBCTmxBYkNkMWNSdzZWZl9XdU9kQQ?oc=5",
-      "source": "SNS Insider",
-      "publishedAt": "2026-11-19T13:53:02+00:00",
-      "category": "Trends & Forecasts",
-      "image": ""
-    },
-    {
-      "title": "Healthcare Education Market Growth, Share & Forecast",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3VEw3ckJueGNWSzR1c2xsQkxUOGdlazF5MUJtMERTZDlVTGhHY1IzMkJrei12R0VSTTI2UmtaTjNEcS1tNktQWHR2TTZXUEZmem5OSkRlYkxRdDdzVHVpSEs0eGtTWnBsUUFpdVlzQQ?oc=5",
-      "source": "SNS Insider",
-      "publishedAt": "2026-11-19T13:39:04+00:00",
-      "category": "Trends & Forecasts",
-      "image": ""
-    },
-    {
       "title": "Microsoft Outage Raises Questions Over UK Control of Critical Digital Infrastructure",
       "description": "",
       "url": "https://techpolicy.press/microsoft-outage-raises-questions-over-uk-control-of-critical-digital-infrastructure",
       "source": "Tech Policy Press",
       "publishedAt": "2026-11-19T13:35:16+00:00",
       "category": "Alert",
-      "image": ""
-    },
-    {
-      "title": "Mortgage Rates Forecast For 2026: Experts Predict Whether Interest Rates Will Drop",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kMlJHRWhRY2owbnpsZWhWOHVVZFR1ZmM3NzhqTUVEVnpHR2xlMHp0QnR2eXFwV2wzQ2FMbXZTN3lTLUJ5OHgxdnk0S3Z2Q3hEQ2pEYW9xcWhrRktVS3B0RXB0NkdnM0hPMzBReG5neWZ1TTdvVWs4bWgxdWFNUkk?oc=5",
-      "source": "Forbes",
-      "publishedAt": "2026-11-19T13:01:00+00:00",
-      "category": "Trends & Forecasts",
       "image": ""
     },
     {
@@ -2817,15 +2943,6 @@
       "image": ""
     },
     {
-      "title": "Refunds to app wallets without consent may be a dark pattern, consumer commission says in JioMart case",
-      "description": "JioMart sent Re 1 from each refund to a reward wallet despite promising to return the money to the customer's original payment method. The post Refunds to app wallets without consent may be a dark pattern, consumer commission says in JioMart case appeared first on MEDIANAMA .",
-      "url": "https://www.medianama.com/2026/11/223-jiomart-dark-pattern-refund-consumer-case/",
-      "source": "MediaNama",
-      "publishedAt": "2026-11-19T10:32:48+00:00",
-      "category": "Policy & Regulation",
-      "image": ""
-    },
-    {
       "title": "Epic’s AI Ambitions Expose the NHS’s Data Governance Challenge",
       "description": "",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYTFuR05GTmdkSHdkblNFWWEzM1hnRXlXX3phQ1Z1NV84MVgxQTFZcEk4Y1hxT3ZZczI3dDVrR0s1RFFlZm9tUlhaZkZzVGRPeEJ5OFFwSmpDQ1Nid1pOSnVQQ1IyRkNZdU1KNmdKZkZVY3pzaDR5SzBCYjBPczFvd3hDT2ZBOFU1cFJSZlRvR09lTzdTZ19OQlFCYw?oc=5",
@@ -2862,47 +2979,11 @@
       "image": ""
     },
     {
-      "title": "Oracle Stock Price Forecast. Should You Buy ORCL?",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5SUHQxc200N2pkRC1UNWRzRS1KaUZNSjR4YWZQTWt4eDZ5NnFnNWZzei1pWmZ2U3FaWnFyTjJMQl9rMnR3c1NtRQ?oc=5",
-      "source": "StockInvest.us",
-      "publishedAt": "2026-11-19T08:00:00+00:00",
-      "category": "Trends & Forecasts",
-      "image": ""
-    },
-    {
-      "title": "DoorDash (NasdaqGS:DASH) Stock Forecast & Analyst Predictions",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNanNEVXhZM2ZaemZwSmRLSWNCNXYxVWZodFpnQmY0X2ZEREpLVjZyc1ZPbF92RWlTRXJfREJ3ZDNOaUJucHU0dHJuYTJybW9ELXliVUNRVThuMlQ0MFktNW9sdDg1bEdwbmhITVRQUlF6ZlJZek9RaU8xa1JGTktkTjAxVQ?oc=5",
-      "source": "Simply Wall St",
-      "publishedAt": "2026-11-19T08:00:00+00:00",
-      "category": "Trends & Forecasts",
-      "image": ""
-    },
-    {
-      "title": "Intel Stock Price Forecast. Should You Buy INTC?",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5lM0hkbFpUUHpNTFFhYUZEWEVQLVRoaGxUcjVBTkhEdmc3Yl9FOVBubkxleU5oWndPdmNwUjVhRWpSNVdPZTVVeA?oc=5",
-      "source": "StockInvest.us",
-      "publishedAt": "2026-11-19T08:00:00+00:00",
-      "category": "Trends & Forecasts",
-      "image": ""
-    },
-    {
-      "title": "Meta looks to hire new India policy chief to repair frayed ties",
-      "description": "The social media giant is seeking a vice president of public policy, people familiar with the matter said, asking not to be named as the job hasn’t been advertised publicly. Meta representatives didn’t respond to a request for comment.",
-      "url": "https://economictimes.indiatimes.com/tech/technology/meta-looks-to-hire-new-india-policy-chief-to-repair-frayed-ties/articleshow/135980174.cms",
-      "source": "Economic Times Tech",
-      "publishedAt": "2026-11-19T06:40:28+00:00",
-      "category": "Policy & Regulation",
-      "image": "https://img.etimg.com/photo/msid-135980174,imgsize-121686.cms"
-    },
-    {
       "title": "Cert-In flags vulnerabilities in Google Chrome, warns users of cyber risks",
       "description": "",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRktyTWJiaW5ESGNaTkZuSllzUzdwRjl0WUw2VkZFdzhvQ3p6N01Dc0stalktRzZIc3MybU1wSWVCLW9QcVBMSzZqUHpOdFZPanZURUxZXzVZZUo1eEhBbmg4eHZtUUdjNktmSlM2WkhxUkpvY0tkckwwSWNRYnAyZmNWSy1MX1VLZVo0NmladEZyQVlpaWlsd2VuMzFzS1V0bmlaNDVnVldBSDZkZkV2RHJuVy1TTFA5R1RLdWxVSlZTQ19peDB2YUNuSHpmSDRReDJ0V3JkQ1pUcWNQVWk2bVZn0gHnAUFVX3lxTFBiTlI1S2JxcVV1S0RRWWZlUDVFR3FSUWJJQ3FNSlBmN2cycEVTNnlkRFd3aldlbHgwXzRuTkExQXVzLWU0ZW9GeXNYbVhDRjNBRXpVaTBNVngxQkE0a2ZiMWlxT0tTdjBxNHB3T3RtUVVxcmlRNFdEVFpzRC1sZlBubHN0TWhIOEM2T2Ffc00ySnd1bFZQRzJDQUw0MlRhdnRTd2NMb3I3bmRCQUNIQnVGY2JIUTRNWTVtSHowaUgzRFN3N1dFanZFS1dkV0wwM3p0RVhrcndLWDl5M01LbGVpbWQtT1hRTQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYk5SNUticXFVdUtEUVlmZVA1RUdxUlFiSUNxTUpQZjdnMnBFUzZ5ZERXd2pXZWx4MF80bk5BMUF1cy1lNGVvRnlzWG1YQ0YzQUV6VWkwTVZ4MUJBNGtmYjFpcU9LU3YwcTRwd090bVFVcXJpUTRXRFRac0QtbGZQbmxzdE1oSDhDNk9hX3NNMkp3dWxWUEcyQ0FMNDJUYXZ0U3djTG9yN25kQkFDSEJ1RmNiSFE0TVk1bUh6MGlIM0RTdzdXRWp2RUtXZFdMMDN6dEVYa3J3S1g5eTNNS2xlaW1kLU9YUU3SAecBQVVfeXFMUGJOUjVLYnFxVXVLRFFZZmVQNUVHcVJRYklDcU1KUGY3ZzJwRVM2eWREV3dqV2VseDBfNG5OQTFBdXMtZTRlb0Z5c1htWENGM0FFelVpME1WeDFCQTRrZmIxaXFPS1N2MHE0cHdPdG1RVXFyaVE0V0RUWnNELWxmUG5sc3RNaEg4QzZPYV9zTTJKd3VsVlBHMkNBTDQyVGF2dFN3Y0xvcjduZEJBQ0hCdUZjYkhRNE1ZNW1IejBpSDNEU3c3V0VqdkVLV2RXTDAzenRFWGtyd0tYOXkzTUtsZWltZC1PWFFN?oc=5",
       "source": "Business Standard",
-      "publishedAt": "2026-11-19T05:09:26+00:00",
+      "publishedAt": "2026-11-19T05:09:39+00:00",
       "category": "Alert",
       "image": ""
     },
@@ -2925,75 +3006,12 @@
       "image": "https://www.eff.org/files/banner_library/bsod-cloud.png"
     },
     {
-      "title": "Pi Network (PI) Price Prediction: Daily, Weekly 2026 - 2040",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE43MEx2RWoxLXo0M055TWJ6Z0t2YnRVMHozQzR2LUYxR2diQVBneVQ2Tm9lSVl2M01fcFI1cEZjZGtIbDdTNXAxNllkckY1Q0QwcndZdDFjZ2g4QWxydDM5dUNITHRCSkhLNGItclVYck1ubnhIdTBXc2Z3?oc=5",
-      "source": "CoinDCX",
-      "publishedAt": "2026-11-18T17:24:08+00:00",
-      "category": "Trends & Forecasts",
-      "image": ""
-    },
-    {
-      "title": "Microprocessor Market Growth, Trends & Forecast",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43Y3NDSndmZXc2aXBDV1B0akhKc0J1a1lMaHJjTS12X2JjbkV5MnJpekZrbEZmWFFPUzl6VHVuNFVrSnowbUdLLUt3OXpqTEJWNEI4cUFMOWVrcTdhVEQxOW5fV2RuZVk?oc=5",
-      "source": "SNS Insider",
-      "publishedAt": "2026-11-18T14:21:33+00:00",
-      "category": "Trends & Forecasts",
-      "image": ""
-    },
-    {
-      "title": "Wireless USB C Hub Market To 2035: Demand Accelerates as Port-Limited Devices Proliferate - News and Statistics",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNc2tQeTgyWm92YWRDNFZodC10aXNzcVRDVEkxU050Y1p5U1BXdXFUYTR4b1oxSVlSQUZjX1U2YVhGZkRHZlZVNkZZQjBvaHB2UUl0WXc2cUQwb3h3N2hIVV9ycXdWdVdPb09NX3YxWDFHTXdNUi1UMkZYS1dBblVPWmpZdU92RWNUVXdLTE5iZFhBT1ZrX1pvdTdjajduUUxBWkxSZDFaeDllRmd5cTBmT2ZNMVNGdThRU1E?oc=5",
-      "source": "IndexBox",
-      "publishedAt": "2026-11-18T14:21:04+00:00",
-      "category": "Trends & Forecasts",
-      "image": ""
-    },
-    {
-      "title": "Bitcoin Price Prediction Nov 2026: BTC Oversold Near $65,000",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xaXZpbkxPQXhBY09rRnZEUnBocEJVQWNPTHhQQlJLaTVJWFVZSTdOMmwtbjR3WEo0OU5kQm1xSzFpUmdLdmY0YlpkZTR4TFBiOWVIVmQ0UjkwWmFjakJWRWJMeHdNZ1lVVzl1aWZBM3c?oc=5",
-      "source": "CoinDCX",
-      "publishedAt": "2026-11-18T13:56:36+00:00",
-      "category": "Trends & Forecasts",
-      "image": ""
-    },
-    {
-      "title": "Service Integration and Management Market Forecast 2035",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYlBOeXRSM0RPV2FEX185am9FS09Hb3RoSm52dGpJandPTFduQTFVOENmb0M2d0p2QlNfVzdKM0t5NmJ1OEYzY0ltNlYzRFAtVzl6T0xZVjdjMV9jYzlZemxwZU9XM0QtMjBoTHF1anpyeVhncmdhQ3loZzFQMlpzOWVR?oc=5",
-      "source": "SNS Insider",
-      "publishedAt": "2026-11-18T13:44:52+00:00",
-      "category": "Trends & Forecasts",
-      "image": ""
-    },
-    {
       "title": "e-Sushrut Vulnerabilities: CERT-In Warns of Hospital Data Risk",
       "description": "",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbHFmMlBuQ3dsd3h4Vl9qTlRrNEVhZkZudzdrWEFGWUQwUDRXNThERVU4bmJLYUxCTXQ0T3c2eU1QQkhlcXRSdHpVaHVpejNUZ21yellhUXc0RHlZUkRWYTBNclpSWG9peUFjNEQ0TTBNclE0czZMb1BELU04Q1VnNWNKRU43MGRFS3NNR0ZXVXJZdw?oc=5",
       "source": "Urban Acres",
       "publishedAt": "2026-11-18T12:47:05+00:00",
       "category": "Alert",
-      "image": ""
-    },
-    {
-      "title": "Are Wall Street Analysts Predicting Akamai Technologies Stock Will Climb or Sink?",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUW1fV19jXzFPb0hVekc1bXlmdW1ZaXZ2Q2V1NmxGUy1wWktqZ2ZDcmk4eFg4bHVFQ2FGbjVpYjR5NUF2Rm4wUU5pSE9vaHctYlFldFh1RWFHdzZsNEdxVHJXX3BjX1N2amQ4T0RKWjQ1Q2Rkand5NTZuYU56RVF4N3lTTVRLZVVDX21JLTlhT2ZrLXdSNW9iVEJvd1hVWEVXSnhwRTF4d2dZdnY4U2V0N1hMdVY1SFdTMHNBalZiSDN6Zw?oc=5",
-      "source": "Barchart.com",
-      "publishedAt": "2026-11-18T11:13:32+00:00",
-      "category": "Trends & Forecasts",
-      "image": ""
-    },
-    {
-      "title": "Global Eyewear Market Size, Share, Trends & Forecast (2026-2034)",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9icGxfQmRScTdoMld4VVZteVhudTRVZTI3MTN1OEdQSlhjN1Z2WEhyR0RqQThEaG1idW5mWnkyVjE4RDA4YVVkaWhiZ1ZzX1FKMjBn?oc=5",
-      "source": "IMARC Group",
-      "publishedAt": "2026-11-18T08:00:00+00:00",
-      "category": "Trends & Forecasts",
       "image": ""
     },
     {
@@ -3154,24 +3172,6 @@
       "description": "",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbDdXczZjYnJlT3hQZENPczRkdUszdW1OUjBpbzBXY0MxdldCRlBWdGd6ZU13YnZhSXd2dng2bFdfVlB1VTdEZWVRVEl0S256SEVGZ25fZC1tNEtxTzk3NlEtTlJ1V3k3cDh6T0R6d3FocjZ3aXJBMkRxRF9rOVdDWnVPYjBjUmcza2NpLU0xZUJqSEhXR2VETGRza295NENhSnV6bWN4YWljSElJZG04?oc=5",
       "source": "BleepingComputer",
-      "publishedAt": "2026-11-13T08:00:00+00:00",
-      "category": "Alert",
-      "image": ""
-    },
-    {
-      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DTFFtbnRDTEMtMVlLWk44djBYVEhja0dXYkI3LWVTMkxiNm1EZld4Vkg0Z2hBVGFlU2JUZEFkdTdrUHVWYzd2SGNQNmI4S0dKd2NxZV8xNlBuYlk?oc=5",
-      "source": "BBC",
-      "publishedAt": "2026-11-13T08:00:00+00:00",
-      "category": "Alert",
-      "image": ""
-    },
-    {
-      "title": "The Microsoft Outage Is a Warning for the World",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNN1JPWl9pbzJKaWdNRmlqNU1iQnhhUDVSZkF5QklIQnYzRUdNcjdyLVJzb0tTcUhBb1h3eXBPd29yMWppUmRyTU1TWmpRZWMteUs1SkxlOG5iSHdpSGdzaXZFRHBGTjVCYWZWTGlxZU82ZkdkYUV5M0lueDVTcEN2NW1B?oc=5",
-      "source": "WIRED",
       "publishedAt": "2026-11-13T08:00:00+00:00",
       "category": "Alert",
       "image": ""
