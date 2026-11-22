@@ -1,0 +1,43 @@
+name: Update Science and Technology News
+
+on:
+  schedule:
+    # every 6 hours (UTC): 00:30, 06:30, 12:30, 18:30
+    - cron: "30 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-news
+  cancel-in-progress: false
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Fetch RSS feeds (stories older than 15 days are removed)
+        run: python scripts/fetch_news.py
+
+      - name: Save updated articles
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add articles.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update science and technology news"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          else
+            echo "No article changes to commit."
+          fi
