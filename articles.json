@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T19:24:34.804827+00:00",
+  "updatedAt": "2026-11-23T01:50:48.801417+00:00",
   "daysKept": 15,
   "articleCount": 355,
   "categoryCounts": {
@@ -18,6 +18,519 @@
   },
   "articles": [
     {
+      "title": "Here's how much Starlink cost in 2020 vs. 2026",
+      "description": "Throw in discounts and fluctuating rates, and two customers could end up paying vastly different bills for the same Starlink satellite service.",
+      "url": "https://www.engadget.com/2319572/how-much-starlink-cost-2020-vs-2026/",
+      "source": "Engadget",
+      "publishedAt": "2026-11-23T01:30:00+00:00",
+      "category": "News",
+      "image": "https://www.engadget.com/img/gallery/heres-how-much-starlink-cost-in-2020-vs-2026/l-intro-1794842346.jpg"
+    },
+    {
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "description": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-23T01:25:53+00:00",
+      "category": "Industry & Business",
+      "image": ""
+    },
+    {
+      "title": "Carlos Alcaraz ends ATP Finals wait, dethrones Roger Federer with historic sweep",
+      "description": "Carlos Alcaraz ends ATP Finals wait, dethrones Roger Federer with historic sweep",
+      "url": "https://www.indiatoday.in/sports/tennis/story/carlos-alcaraz-wins-atp-finals-youngest-career-slam-roger-federer-zverev-3044690-2026-11-23?utm_source=rss",
+      "source": "India Today Technology",
+      "publishedAt": "2026-11-23T01:21:07+00:00",
+      "category": "News",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/carlos-alcaraz-232020528-16x9_0.jpg?VersionId=SJO3Bkq_CVApNU7lMKOgTbprw8vMCjVp"
+    },
+    {
+      "title": "SMS Group Completes Automation Upgrade at Outokumpu’s Degerfors Plate Mill",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLU9pZnNsZlg1ZEZiMkNzcnNFWmxHZTZEZlNJdmkxbG1wa2pTTmtod1RNZ28wVVFuVXNTS1ZBMktDZm1xSk5XalRFUndQeW0tb1RFWnhQSUlhcG5IekF0dlZLckRhTkJkWlhRMGpTZnN3NWJqYWFQdGFMMHVOZE5EWF9sOFR6Uk1pajFGRmJhUkpIcHQxdzZrVnBfclFjcGg5NUpaNmNwa0ZkQlU?oc=5",
+      "source": "Machine Maker",
+      "publishedAt": "2026-11-23T01:07:57+00:00",
+      "category": "Updates & Patches",
+      "image": ""
+    },
+    {
+      "title": "We haven’t seen the last of the major tech outages",
+      "description": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton told CNN: \"The American people should be […]",
+      "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
+      "source": "The Verge",
+      "publishedAt": "2026-11-23T01:05:58+00:00",
+      "category": "News",
+      "image": ""
+    },
+    {
+      "title": "How to clear your cache on Google TV",
+      "description": "Clearing your Google TV's cache isn't a one-size-fits-all solution, but it's a useful first step if you're having performance issues or glitches.",
+      "url": "https://www.engadget.com/2319567/how-to-clear-cache-google-tv/",
+      "source": "Engadget",
+      "publishedAt": "2026-11-23T01:00:00+00:00",
+      "category": "News",
+      "image": "https://www.engadget.com/img/gallery/how-to-clear-your-cache-on-google-tv/l-intro-1794808574.jpg"
+    },
+    {
+      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+      "description": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science",
+      "publishedAt": "2026-11-23T00:50:35+00:00",
+      "category": "News",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afca/live/39aa8840-e69c-11f1-936e-1fd1d31671db.jpg"
+    },
+    {
+      "title": "This free 'Swiss Army Knife' for macOS can replace your utility apps",
+      "description": "Vorssaint is a powerful, modular utility suite, provided permissions are carefully managed.",
+      "url": "https://www.engadget.com/2319565/vorssaint-free-swiss-army-knife-macos-replace-utility-apps/",
+      "source": "Engadget",
+      "publishedAt": "2026-11-23T00:45:00+00:00",
+      "category": "News",
+      "image": "https://www.engadget.com/img/gallery/this-free-swiss-army-knife-for-macos-can-replace-your-utility-apps/l-intro-1794595062.jpg"
+    },
+    {
+      "title": "Fintech Stocks Put MDR Dreams On Hold",
+      "description": "It seems India’s fintech investors may have counted their chickens too early. The timeline for the much-anticipated merchant discount rate…",
+      "url": "https://inc42.com/features/fintech-stocks-put-mdr-dreams-on-hold/",
+      "source": "Inc42",
+      "publishedAt": "2026-11-23T00:30:44+00:00",
+      "category": "Industry & Business",
+      "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/MDR-on-fintech-stocks_Markets-Ftr-2.jpg"
+    },
+    {
+      "title": "Should you go with a headphone DAC/amp combo or a stack?",
+      "description": "If your computer's headphone jack isn't cutting it anymore, it's time to get a DAC and headphone amp. But do you go for a combo DAC/amp or a stack?",
+      "url": "https://www.engadget.com/2311788/headphone-dac-amp-combo-vs-stack/",
+      "source": "Engadget",
+      "publishedAt": "2026-11-23T00:30:00+00:00",
+      "category": "News",
+      "image": "https://www.engadget.com/img/gallery/should-you-go-with-a-headphone-dacamp-combo-or-a-stack/l-intro-1794285377.jpg"
+    },
+    {
+      "title": "$1 of GPT-5.1 tokens finds new ways around China’s Great Firewall",
+      "description": "PLUS: Lenovo's infra group finally makes big profit; Indonesia’s glaciers are gone; Australian bank releases its AI bug-finder; and more!",
+      "url": "https://www.theregister.com/security/2026/11/23/1-of-gpt-51-tokens-finds-new-ways-around-chinas-great-firewall/5311532",
+      "source": "The Register",
+      "publishedAt": "2026-11-23T00:23:31+00:00",
+      "category": "News",
+      "image": "https://image.theregister.com/?imageId=246780&width=800"
+    },
+    {
+      "title": "8 Windows apps you should probably remove from your PC",
+      "description": "From pre-installed junk to popular apps that have better alternatives, these are the apps you should clean off your PC if they're present.",
+      "url": "https://www.engadget.com/2317781/windows-apps-remove-from-pc/",
+      "source": "Engadget",
+      "publishedAt": "2026-11-23T00:15:00+00:00",
+      "category": "News",
+      "image": "https://www.engadget.com/img/gallery/8-windows-apps-you-should-probably-remove-from-your-pc/l-intro-1794237490.jpg"
+    },
+    {
+      "title": "India-Pakistan handshake row beyond MCC's control, says cricket body",
+      "description": "India-Pakistan handshake row beyond MCC's control, says cricket body",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-pakistan-handshake-row-mcc-cannot-force-players-to-shake-hands-3044685-2026-11-23?utm_source=rss",
+      "source": "India Today Technology",
+      "publishedAt": "2026-11-23T00:11:47+00:00",
+      "category": "News",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/double-drama-at-ind-a-vs-pak-a-asia-cup-rising-stars-clash--captains-skip-handshake-before-toss-cont-221326477-16x9.png?VersionId=2YF.yQif9su6mnqgOM3FgXoqhSElAYjP"
+    },
+    {
+      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "description": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+      "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "publishedAt": "2026-11-23T00:08:00+00:00",
+      "category": "Emerging Technology",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d7f/live/712502a0-e2cd-11f1-99ed-7de3e5932968.jpg"
+    },
+    {
+      "title": "Avalanche (AVAX) Price Forecast & Predictions for 2026, 2027, 2028–2030",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdGg5Tm1tMGZtbUZZV3BmVmFfRDc5M3RUZWI0SncwUDBDSlR3R3VIVkJPYmFlZFZyWTVIU2lURGU3d3R1X3NqMjFoVV9aNHdpYkVzVjFKcUhsU0VZcnYxR29BcTExSG5rUTFFdzd0eVhRLTZEb0JuelRMNmJidnJHVXoxYW4?oc=5",
+      "source": "LiteFinance",
+      "publishedAt": "2026-11-23T00:03:41+00:00",
+      "category": "Trends & Forecasts",
+      "image": ""
+    },
+    {
+      "title": "$21,500 pickup plans to fix the American truck problem",
+      "description": "First Slate and now REO. It looks like America is done chasing hefty, overdesigned trucks the size of cruise ships. After years of watching pickups grow bigger, fatter, more complicated, and increasingly expensive, there's a growing appetite for something a little more sensible. Continue Reading Category: Automotive , Transport Tags: Pickup ,...",
+      "url": "https://newatlas.com/automotive/reo-runabout-lineup/",
+      "source": "New Atlas",
+      "publishedAt": "2026-11-23T00:03:00+00:00",
+      "category": "Innovation",
+      "image": "https://assets.newatlas.com/dims4/default/c61bb6c/2147483647/strip/true/crop/2048x1374+0+0/resize/1431x960!/format/webp/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F30%2F7a%2F085e80a743cfb6b1e9be88b6518c%2Ft4c-5-2048.jpg"
+    },
+    {
+      "title": "Hackaday Links: November 22, 2026",
+      "description": "While Hackaday is not a publication that generally concerns itself with the latest and greatest in gaming, the release of Grand Theft Auto 6 this week is hard to ignore. …read more",
+      "url": "https://hackaday.com/2026/11/22/hackaday-links-november-22-2026/",
+      "source": "Hackaday",
+      "publishedAt": "2026-11-23T00:00:30+00:00",
+      "category": "Innovation",
+      "image": "https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg"
+    },
+    {
+      "title": "Reliance on technology is eroding trust in one another and ability to tell what is even real, expert warns",
+      "description": "The danger of generative AI is not some distant algorithmic failure; it is the slow erosion of our ability to tell what's real, to trust our institutions and to think for ourselves at all. These are the warnings of Mateusz Łabuz in his new book, The End of Reality.",
+      "url": "https://phys.org/news/2026-11-reliance-technology-eroding-ability-real.html",
+      "source": "Phys.org",
+      "publishedAt": "2026-11-23T00:00:01+00:00",
+      "category": "Research & Discovery",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/generative-ai-1.jpg"
+    },
+    {
+      "title": "Public vs. private IP addresses: what's the difference?",
+      "description": "One identifies your network, the other identifies the devices using your network.",
+      "url": "https://www.engadget.com/2310692/public-vs-private-ip-addresses-differences/",
+      "source": "Engadget",
+      "publishedAt": "2026-11-23T00:00:00+00:00",
+      "category": "News",
+      "image": "https://www.engadget.com/img/gallery/public-vs-private-ip-addresses-whats-the-difference/l-intro-1794236251.jpg"
+    },
+    {
+      "title": "AMD Stock Forecast for 2026, 2027, 2028–2030 and Beyond",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOHJoMzFPekd2UWJ5dWt1TVl5RU9DQkRZdm9FZnlvdWxnVVVHVzJNbWx6eUwtcnROSXl2MHZCdDVuUXdjbDlqZmF6SGpGc2Exck9keE5wTHAxSkN0SzVEdFBMekdFaEFyM050bGdFaGtMQ19BZ0FCT0E3VkJDYUZjLWF0UUU?oc=5",
+      "source": "LiteFinance",
+      "publishedAt": "2026-11-22T23:50:07+00:00",
+      "category": "Trends & Forecasts",
+      "image": ""
+    },
+    {
+      "title": "Pochettino questions Yoro red card after nightmare start to Man United reign",
+      "description": "Pochettino questions Yoro red card after nightmare start to Man United reign",
+      "url": "https://www.indiatoday.in/sports/football/story/manchester-united-liverpool-pochettino-leny-yoro-red-card-debut-3044683-2026-11-23?utm_source=rss",
+      "source": "India Today Technology",
+      "publishedAt": "2026-11-22T23:48:26+00:00",
+      "category": "News",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/alexander-isak--leny-yoro-224813159-16x9_0.jpeg?VersionId=KllnOLbPDg5VNnctpt0JNKq0MfkxusN5"
+    },
+    {
+      "title": "What is the best way to secure your PlayStation 5 for a flight?",
+      "description": "You don't have to leave your precious PS5 behind when flying, but you will need to take some precautions or opt for a long-distance streaming relationship.",
+      "url": "https://www.engadget.com/2319558/best-way-secure-playstation-5-for-flight-travel/",
+      "source": "Engadget",
+      "publishedAt": "2026-11-22T23:45:00+00:00",
+      "category": "News",
+      "image": "https://www.engadget.com/img/gallery/what-is-the-best-way-to-secure-your-playstation-5-for-a-flight/l-intro-1794602643.jpg"
+    },
+    {
+      "title": "How to use AI glasses as a teleprompter",
+      "description": "If you have the right type of smart glasses, this is an easy feature to enable.",
+      "url": "https://www.engadget.com/2319553/how-to-use-ai-glasses-as-teleprompter/",
+      "source": "Engadget",
+      "publishedAt": "2026-11-22T23:30:00+00:00",
+      "category": "Emerging Technology",
+      "image": "https://www.engadget.com/img/gallery/how-to-use-ai-glasses-as-a-teleprompter/l-intro-1794839468.jpg"
+    },
+    {
+      "title": "The pros and cons of sharing your location",
+      "description": "Location sharing has perks from tracking lost gear to staying safe on a night out. Learn what you gain and what you give up before you share.",
+      "url": "https://www.engadget.com/2319550/pros-and-cons-sharing-your-location/",
+      "source": "Engadget",
+      "publishedAt": "2026-11-22T23:00:00+00:00",
+      "category": "News",
+      "image": "https://www.engadget.com/img/gallery/the-pros-and-cons-of-sharing-your-location/l-intro-1794603681.jpg"
+    },
+    {
+      "title": "Nintendo’s Switch 2 console is $50 off for Black Friday",
+      "description": "Those hoping to save some cash on a Nintendo Switch 2 can do so starting today, November 22nd, through Saturday, December 5th, giving you plenty of time to think about it after Cyber Monday has passed. For a limited time, Nintendo has knocked $50 off one of its two current console bundles, temporarily rolling back […]",
+      "url": "https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale",
+      "source": "The Verge",
+      "publishedAt": "2026-11-22T22:58:40+00:00",
+      "category": "News",
+      "image": ""
+    },
+    {
+      "title": "Tilak Varma blames lack of partnerships for India A's Asia Cup loss to Pakistan",
+      "description": "Tilak Varma blames lack of partnerships for India A's Asia Cup loss to Pakistan",
+      "url": "https://www.indiatoday.in/sports/cricket/story/tilak-varma-lack-of-partnerships-india-a-pakistan-asia-cup-rising-stars-3044682-2026-11-23?utm_source=rss",
+      "source": "India Today Technology",
+      "publishedAt": "2026-11-22T22:45:42+00:00",
+      "category": "News",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/tilak-varma-222529539-16x9_1.jpg?VersionId=Dat4n0rIOB7I6FfI7dVjdqurYzygzvlY"
+    },
+    {
+      "title": "India vs Pakistan rivalry now a circus: No bilaterals, but 14 games in 14 months",
+      "description": "India vs Pakistan rivalry now a circus: No bilaterals, but 14 games in 14 months",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-pakistan-rising-stars-asia-cup-no-bilaterals-overkill-3044675-2026-11-23?utm_source=rss",
+      "source": "India Today Technology",
+      "publishedAt": "2026-11-22T22:33:03+00:00",
+      "category": "News",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/rising-stars-asia-cup-india-vs-pakistan-221803225-16x9_0.jpeg?VersionId=Sd88UpwbX3igbYtNhO7WFMYI3GvHZYtK"
+    },
+    {
+      "title": "Can you safely use a 140w charger on an iPhone?",
+      "description": "A 140-watt charger is far more juice than your iPhone needs, but does that really matter? Yes and no -- we can explain.",
+      "url": "https://www.engadget.com/2319546/can-iphone-safely-use-140w-charger/",
+      "source": "Engadget",
+      "publishedAt": "2026-11-22T22:30:00+00:00",
+      "category": "News",
+      "image": "https://www.engadget.com/img/gallery/can-you-safely-use-a-140w-charger-on-an-iphone/l-intro-1794496692.jpg"
+    },
+    {
+      "title": "Sui Price Forecast & Predictions for 2026, 2027, 2028–2030, 2040 and Beyond",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBFdXprN05hZDUxSTRXYjhCR29IRTB2Rm03WFhNbmVkTGRVOWZ2UnhXSVZna2Z1TlIzdDJ3NnY5OHdqR0Y0WjhfOHRHaC1SRlJaMDBFZ1hBU20tcW9QQjRSa2UxQ2Vyb2JSbFVJLWROeXNTOHlRMHY3VzNkMHg?oc=5",
+      "source": "LiteFinance",
+      "publishedAt": "2026-11-22T22:17:51+00:00",
+      "category": "Trends & Forecasts",
+      "image": ""
+    },
+    {
+      "title": "This free app connects your Android phone to your Windows PC wirelessly",
+      "description": "Connecting your Android phone to your Windows PC wirelessly doesn't have to cost money or require a multi-step setup, as this free app proves.",
+      "url": "https://www.engadget.com/2319544/free-app-connects-android-phone-windows-pc-wirelessly-plainapp/",
+      "source": "Engadget",
+      "publishedAt": "2026-11-22T22:15:00+00:00",
+      "category": "News",
+      "image": "https://www.engadget.com/img/gallery/this-free-app-connects-your-android-phone-to-your-windows-pc-wirelessly/l-intro-1794633420.jpg"
+    },
+    {
+      "title": "108-mic array gives immersive video a matching soundtrack",
+      "description": "Blackmagic Design has crammed 108 microphones into a faceted metal sphere small enough to sit on top of a camera. The company’s new Ambisonic Microphone is built to give 360-degree cameras and the immersive video they shoot a soundtrack that’s similarly all-encompassing. Continue Reading Category: Technology Tags: Blackmagic Design , MEMS ,...",
+      "url": "https://newatlas.com/technology/blackmagic-ambisonic-microphone-immersive-audio/",
+      "source": "New Atlas",
+      "publishedAt": "2026-11-22T22:03:00+00:00",
+      "category": "Innovation",
+      "image": "https://assets.newatlas.com/dims4/default/c970230/2147483647/strip/true/crop/2000x1094+0+0/resize/1440x788!/format/webp/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F0e%2F06%2F034ee28a4719b478300ff0114764%2F1-blackmagic-ambisonic-microphone-2x.jpg"
+    },
+    {
+      "title": "Women Rain Jacket Market Outlook to 2035",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5odERLNU45SFBSTWpGaFN1dnBhdzBoN3Zva1lHVGlKZ0NzSE9zOHpMQmpMd25JaUYwQ2s3NTc2bFVneENJNFpFT2FWeHBEZTlwQmV0Sm9KeXdCQzZYTzQ4bVNqNTRGYVUxMWMzZ2lOTm5sR2MyTjhtQURB?oc=5",
+      "source": "IndexBox",
+      "publishedAt": "2026-11-22T22:01:06+00:00",
+      "category": "Trends & Forecasts",
+      "image": ""
+    },
+    {
+      "title": "How to safely clean your PC's GPU to avoid damaging it in the process",
+      "description": "Removing and cleaning a GPU can be intimidating, but it's actually pretty simple.",
+      "url": "https://www.engadget.com/2319541/safely-clean-pc-gpu-avoid-damage/",
+      "source": "Engadget",
+      "publishedAt": "2026-11-22T22:00:00+00:00",
+      "category": "News",
+      "image": "https://www.engadget.com/img/gallery/how-to-safely-clean-your-pcs-gpu-to-avoid-damaging-it-in-the-process/l-intro-1794604743.jpg"
+    },
+    {
+      "title": "Watch live on Nov. 23: Amazon launching 1st batch of internet satellites since Vulcan Centaur failure",
+      "description": "Another batch of Amazon internet satellites will fly on Monday morning (Nov. 23), just eight days after a launch failure doomed 40 of the spacecraft. An Ariane 6 rocket carrying 36 satellites for the Amazon Leo constellation is scheduled to lift off from Europe's Spaceport in Kourou, French Guiana on Monday, during a 29-minute window that opens...",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/arianespace-ariane-6-amazon-leo-internet-satellite-launch",
+      "source": "Space.com",
+      "publishedAt": "2026-11-22T22:00:00+00:00",
+      "category": "Emerging Technology",
+      "image": "https://cdn.mos.cms.futurecdn.net/oWM29BHfjZMESxoHb6Cem9-1920-80.jpg"
+    },
+    {
+      "title": "Solana (SOLUSD) Price Forecast & Predictions for 2026, 2027, 2028–2030, 2040 and Beyond",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY3NwRVZEazFMTWI1Xy1lTEpmWDRBNk55QXhxMk9JbjAxazFCOFJOT3pod0pjbmRUcWVHXy10MEFfOTVzcEdTbHRCenpKcXZYcWRnbEF1cEJwZ1RZbHFjS3YyM25HWUFWSDdCZjVpZXNfOXVlSlFwUlBUZ2xmdzhURw?oc=5",
+      "source": "LiteFinance",
+      "publishedAt": "2026-11-22T21:47:29+00:00",
+      "category": "Trends & Forecasts",
+      "image": ""
+    },
+    {
+      "title": "Why your monitor flickers when you turn it on and can it be fixed?",
+      "description": "A flickering computer monitor can be a symptom of several different issues. Let's explore some common ones.",
+      "url": "https://www.engadget.com/2319538/monitor-flickering-when-turned-on-how-to-fix/",
+      "source": "Engadget",
+      "publishedAt": "2026-11-22T21:45:00+00:00",
+      "category": "News",
+      "image": "https://www.engadget.com/img/gallery/why-your-monitor-flickers-when-you-turn-it-on-and-can-it-be-fixed/l-intro-1794601400.jpg"
+    },
+    {
+      "title": "‘You Can See Everything’ has made more than $100M worldwide",
+      "description": "The new Elizabeth Holmes documentary is just beginning to roll out internationally.",
+      "url": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-22T21:42:48+00:00",
+      "category": "Industry & Business",
+      "image": ""
+    },
+    {
+      "title": "Common medications may secretly rewire your gut, with effects lasting for years",
+      "description": "Medications taken years or even long ago may leave lasting changes in your gut microbiome, according to a study of more than 2,500 people. Researchers discovered that common drugs, including antidepressants, blood pressure medications, and anxiety treatments, can leave microbial “fingerprints” long after patients stop taking them. Surprisingly,...",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261120071501.htm",
+      "source": "ScienceDaily",
+      "publishedAt": "2026-11-22T21:35:19+00:00",
+      "category": "Research & Discovery",
+      "image": ""
+    },
+    {
+      "title": "Wireless Smart TV Market Forecast to 2035: Streaming and Smart Home Drive Growth - News and Statistics",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU19DOE5UTHJsSTZKXzBoYUc4V0Z3YmExdzB6dEcwWkM3XzZiYWl6cE5LSlVWZV9yazFhaXJ0UkR4eloyb2FKRjBGdGxfb2JlQnd0Z1JCc1JLNEZBVk16Z09nNWRLSHd5NUlMQmtTNWxDZ2NyT01qYTBFbVRrRnB2TXViUHNLVkg5M08yb01EYWt0cmNBRDh0SFVYVEhsUDV2cktrUWV3a2R2dGtlU1FfaWhLa1E1bkJiNU1MRUh3?oc=5",
+      "source": "IndexBox",
+      "publishedAt": "2026-11-22T21:31:05+00:00",
+      "category": "Trends & Forecasts",
+      "image": ""
+    },
+    {
+      "title": "The cool phone camera trick that can test your remote control's battery",
+      "description": "Trying to figure out whether a remote control needs new batteries? Your phone camera can tell you if it's time to replace them. Here's how.",
+      "url": "https://www.engadget.com/2319533/how-to-use-phone-test-remote-control-battery/",
+      "source": "Engadget",
+      "publishedAt": "2026-11-22T21:30:00+00:00",
+      "category": "News",
+      "image": "https://www.engadget.com/img/gallery/the-cool-phone-camera-trick-that-can-test-your-remote-controls-battery/l-intro-1794630742.jpg"
+    },
+    {
+      "title": "Microsoft President Warns of More Tech Outages in Coming Months",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa19EX0szUDlDYm1fbElCUEYzQUpDZlBKeGxMUHhKYzE2V3NzZmVvTFl5V19XLUMwWkhiLU9YczFuNnZ6SUFPNkR5ZzM2dzRrVkdMMENJaUNlWlA1bXl2QXBmZVhidVdvUmdvSkVMbkdXa2ZseHhyNTFzbUQ1REhpaUVNSG9rZU5xZThPTGs1RlFQRlc0XzlVYXRnY1UyUQ?oc=5",
+      "source": "Newsweek",
+      "publishedAt": "2026-11-22T21:18:00+00:00",
+      "category": "Alert",
+      "image": ""
+    },
+    {
+      "title": "Nail Gun Kit Market Outlook to 2035",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE02TDlRODhudF9GWkRTWlV3bGlRRW1TQTFhalR4Ri1HTk9CcnRkM2JfdUFMOTJrVUpaWTVKWTZxSFZDMVM3SkxOSzNQdktHdGNGbXBsZ0QwZUFqZzloRHktZ0VOdjZoakFjLWgxWlhZN3ZlNUE?oc=5",
+      "source": "IndexBox",
+      "publishedAt": "2026-11-22T21:16:05+00:00",
+      "category": "Trends & Forecasts",
+      "image": ""
+    },
+    {
+      "title": "Which solar panel type is best for your home?",
+      "description": "Find out how monocrystalline, polycrystalline and thin-film solar panels compare on efficiency, cost and roof space, and which type suits your home and budget.",
+      "url": "https://www.engadget.com/2319531/solar-panel-types-best-home-use/",
+      "source": "Engadget",
+      "publishedAt": "2026-11-22T21:15:00+00:00",
+      "category": "News",
+      "image": "https://www.engadget.com/img/gallery/which-solar-panel-type-is-best-for-your-home/l-intro-1794509643.jpg"
+    },
+    {
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "description": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-22T21:14:07+00:00",
+      "category": "Emerging Technology",
+      "image": ""
+    },
+    {
+      "title": "Rhea Malhotra brings AI research to startup Kita",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMGhVREJnSVFqVFZZNWN3WVNSQUc4V1pfa0gyZW5tQTlsZ003cm5CNndEUUxxaUhhaXdkWUVRQ0xta0FjQ3N2SFNiaUNkVG1UeHRlcV9HQ21fZF9taFFyNHRKSC1OdHRTMFdOVnRxZmZzM0hHbTVKV3JieENwVmhsQlhwa2ptb2d4blEzcmk5LVN1elFI?oc=5",
+      "source": "The American Bazaar",
+      "publishedAt": "2026-11-22T21:10:53+00:00",
+      "category": "Industry & Business",
+      "image": ""
+    },
+    {
+      "title": "Treadmill Market To 2035: Connected Home Fitness Demand Drives Forward Growth - News and Statistics",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdGttNWNMcDJ6TjZ5M0xsanZPUXJQSmhJbXZ4bVVzT3dNaXc2Rk43WXNFMU4wTTZuaTRpeEZmTlA1NTQ1VU9VWW1ibEl4dkNpOGw5emNSM2ZheXVXMURNYXI0bV84UW1qM0VfNXNLU3pyUFF3eHk2Tlp0OVAtTVQzYmJicW9HMlJDNVhqNUdqczhtQ29IVHpTUm9ZX2NGeTlSTTBQRDIza2gyRHRDa3RXRFBQUUxMdw?oc=5",
+      "source": "IndexBox",
+      "publishedAt": "2026-11-22T21:01:04+00:00",
+      "category": "Trends & Forecasts",
+      "image": ""
+    },
+    {
+      "title": "Recycling Thousands of Coffee Capsules into a Moka Pot",
+      "description": "Everyone who has ever used a Nespresso or similar single-use pod system to make coffee may have noticed how much waste this produces in terms of empty capsules. A happy …read more",
+      "url": "https://hackaday.com/2026/11/22/recycling-thousands-of-coffee-capsules-into-a-moka-pot/",
+      "source": "Hackaday",
+      "publishedAt": "2026-11-22T21:00:56+00:00",
+      "category": "Innovation",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/moka_pot_coffee_capsules_shake_the_future_youtube.jpg"
+    },
+    {
+      "title": "How Secure Is Your Password? Here's How To Test It",
+      "description": "Find out which common password habits leave your accounts exposed, from keyboard patterns to reused logins, and what a truly secure password needs to include.",
+      "url": "https://www.engadget.com/2319522/how-secure-is-password/",
+      "source": "Engadget",
+      "publishedAt": "2026-11-22T21:00:00+00:00",
+      "category": "News",
+      "image": "https://www.engadget.com/img/gallery/how-secure-is-your-password-heres-how-to-test-it/l-intro-1794581081.jpg"
+    },
+    {
+      "title": "The best apps to make new friends right now",
+      "description": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
+      "url": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-22T21:00:00+00:00",
+      "category": "Industry & Business",
+      "image": ""
+    },
+    {
+      "title": "Card Reader Bundle Market To 2035: Growth Driven by Micro-Business Payment Adoption - News and Statistics",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOampNUmZ4d2pIbV9tdWotWC1CUlU3RUx3SmJPckktd2wwUmx0dktWWFR3ZUdvNlhBWGhJZ09KMjVaSEFrZU5Wa254cDdEelc0Q1dWTzdfZmJ6OEtTNmNfaTZ6S2VHYVlOQXRZUjdrT3ppYkQyLVVQcmJDWU1xYXZzNnZkbjZMMnZKWl9iY2M4UDhEdVlXdU0zUmU3NEdrYm1aVE12dlRnXzFkUl9WSl9Xdi1aMno3d3BsdnNPWUQwQ0RyU3c2bWhwX3o3WEwyQ0w0LUt1eS1jdjY?oc=5",
+      "source": "IndexBox",
+      "publishedAt": "2026-11-22T20:51:05+00:00",
+      "category": "Trends & Forecasts",
+      "image": ""
+    },
+    {
+      "title": "These iOS settings will help you control your mobile data use",
+      "description": "Keeping your mobile data usage under control is generally a good idea, doubly so if you're on a restrictive plan, and iOS offers a few ways to do so.",
+      "url": "https://www.engadget.com/2319519/ios-settings-help-control-mobile-data-use/",
+      "source": "Engadget",
+      "publishedAt": "2026-11-22T20:45:00+00:00",
+      "category": "News",
+      "image": "https://www.engadget.com/img/gallery/these-ios-settings-will-help-you-control-your-mobile-data-use/l-intro-1794801627.jpg"
+    },
+    {
+      "title": "What the tiny key icon means on your Android device",
+      "description": "Some Android status bar icons are quite self-explanatory, but others aren't quite as clear-cut. That tiny key icon is a perfect example of the latter.",
+      "url": "https://www.engadget.com/2319509/what-tiny-key-icon-means-android-device/",
+      "source": "Engadget",
+      "publishedAt": "2026-11-22T20:30:00+00:00",
+      "category": "News",
+      "image": "https://www.engadget.com/img/gallery/what-the-tiny-key-icon-means-on-your-android-device/l-intro-1794812963.jpg"
+    },
+    {
+      "title": "You don't need a foldable phone to use split screen on Android",
+      "description": "There are a few ways you can multitask on a traditional smartphone.",
+      "url": "https://www.engadget.com/2319499/you-dont-need-foldable-phone-use-split-screen-android/",
+      "source": "Engadget",
+      "publishedAt": "2026-11-22T20:15:00+00:00",
+      "category": "News",
+      "image": "https://www.engadget.com/img/gallery/you-dont-need-a-foldable-phone-to-use-split-screen-on-android/l-intro-1794678668.jpg"
+    },
+    {
+      "title": "A 180-million-year-old crack is reopening inside one of Earth’s oldest continents",
+      "description": "In April 2017, a magnitude 6.5 earthquake struck eastern Botswana, shaking a part of Africa...",
+      "url": "https://interestingengineering.com/science/crack-reopening-inside-earth-oldest-continents",
+      "source": "Interesting Engineering",
+      "publishedAt": "2026-11-22T20:08:36+00:00",
+      "category": "Innovation",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/ancient-rift.jpg?w=150&h=150&crop=1"
+    },
+    {
+      "title": "The advantages of using a USB-C docking station",
+      "description": "If you want to use many different accessories at the same time, consider adding more ports to your laptop with a USB-C docking station.",
+      "url": "https://www.engadget.com/2319496/advantages-using-usb-c-docking-station/",
+      "source": "Engadget",
+      "publishedAt": "2026-11-22T20:00:00+00:00",
+      "category": "News",
+      "image": "https://www.engadget.com/img/gallery/the-advantages-of-using-a-usb-c-docking-station/l-intro-1794847590.jpg"
+    },
+    {
+      "title": "Some of our favorite Switch 2 games are cheaper through Black Friday",
+      "description": "Black Friday is a great time to expand your game library because it’s a chance to catch deals that aren’t normally happening throughout the year. That’s true for Nintendo Switch 2 games, as well. In addition to a $50 off sale on one of its console bundles, Nintendo is also knocking $20 off some of […]",
+      "url": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale",
+      "source": "The Verge",
+      "publishedAt": "2026-11-22T19:54:08+00:00",
+      "category": "News",
+      "image": ""
+    },
+    {
+      "title": "India A lose to Pakistan A in thriller after Tilak Varma's shocking knock",
+      "description": "India A lose to Pakistan A in thriller after Tilak Varma's shocking knock",
+      "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-beat-india-rising-stars-asia-cup-tilak-varma-doha-3044647-2026-11-23?utm_source=rss",
+      "source": "India Today Technology",
+      "publishedAt": "2026-11-22T19:42:35+00:00",
+      "category": "News",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/tilak-varma-222529539-16x9_0.jpg?VersionId=sIZ9H17ZcCB7H6fMYcgqLq6YppEpj1At"
+    },
+    {
       "title": "35,000-ton Trump-class nuclear-powered warships to replace DDG(X) in 15-ship US Navy fleet",
       "description": "A proposed overhaul of the US Navy’s future surface fleet would likely replace the planned...",
       "url": "https://interestingengineering.com/military/nuclear-powered-battleships-could-replace",
@@ -27,39 +540,12 @@
       "image": ""
     },
     {
-      "title": "Here's when a Raspberry Pi 5 could be considered overkill",
-      "description": "From home servers to DIY gadgets, Raspberry Pi boards can handle countless tasks, though the power of the newest Pi 5 isn't always the only option.",
-      "url": "https://www.engadget.com/2319480/when-raspberry-pi-5-considered-overkill/",
-      "source": "Engadget",
-      "publishedAt": "2026-11-22T19:15:00+00:00",
-      "category": "News",
-      "image": "https://www.engadget.com/img/gallery/heres-when-a-raspberry-pi-5-could-be-considered-overkill/l-intro-1794642152.jpg"
-    },
-    {
       "title": "65 Years of Human Spaceflight at NASA Johnson",
       "description": "For 65 years, NASA’s Johnson Space Center in Houston has helped shape human spaceflight, from the Gemini missions that demonstrated rendezvous and docking techniques needed for Apollo to the research conducted aboard the International Space Station, which has supported a continuous human presence for more than 26 years. Today, Johnson teams are...",
       "url": "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/",
       "source": "NASA",
       "publishedAt": "2026-11-22T19:13:25+00:00",
       "category": "Research & Discovery",
-      "image": ""
-    },
-    {
-      "title": "Pochettino's Man Utd debut ends in 0-4 loss to Liverpool, club slips to 19th",
-      "description": "Pochettino's Man Utd debut ends in 0-4 loss to Liverpool, club slips to 19th",
-      "url": "https://www.indiatoday.in/sports/football/story/premier-league-liverpool-4-0-manchester-united-mauricio-pochettino-3044671-2026-11-23?utm_source=rss",
-      "source": "India Today Technology",
-      "publishedAt": "2026-11-22T19:09:44+00:00",
-      "category": "News",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/mauricio-pochettino-liverpool-vs-manchester-united-premier-league-220701218-16x9_0.xlpada__ji1vztuvifcpnhbtq_ftr14mchktxmc-azw?VersionId=i4L9m2snmaOyiLx0.FTSiKgOEjJ605LE"
-    },
-    {
-      "title": "Some of our favorite Switch 2 games are cheaper through Black Friday",
-      "description": "Black Friday is a great time to expand your game library because it’s a chance to catch deals that aren’t normally happening throughout the year. That’s true for Nintendo Switch 2 games, as well. In addition to a $50 off sale on one of its console bundles, Nintendo is also knocking $20 off some of […]",
-      "url": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale",
-      "source": "The Verge",
-      "publishedAt": "2026-11-22T19:03:33+00:00",
-      "category": "News",
       "image": ""
     },
     {
@@ -72,13 +558,13 @@
       "image": ""
     },
     {
-      "title": "5 Apple Watch settings that can help you save its battery life",
-      "description": "By giving up some of the Apple Watch's slick features, you can use its core functions for much longer before needing a charge.",
-      "url": "https://www.engadget.com/2319475/apple-watch-settings-help-save-battery-life/",
-      "source": "Engadget",
-      "publishedAt": "2026-11-22T19:00:00+00:00",
-      "category": "News",
-      "image": "https://www.engadget.com/img/gallery/5-apple-watch-settings-that-can-help-you-save-its-battery-life/l-intro-1794592644.jpg"
+      "title": "Beverage Can Seamers Market To 2035: Automation and Can Demand Fuel Growth - News and Statistics",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPal80eTlqWnhsc0NsaDZWWnJFZl9WWmN3d2NVaUNGRU5nWEtSR25IMWVuZXJSSGxhX21FNEFZWVVPZVdnQlZvMEhvOVpkN2NSSm1aY3pmQUtrdWpyMS1uOU1xdUdRbUpiQUNjWDRoQ0RRMGJQQjhmdnRfVUNSVmR4MGZHRk40UWZib1NQVDhqZ2ZtM2Y1alpSeVlIUFZQOWpGbzFmOVJDUjdZQTJjam9pUXpQZkt3MC1ZMHBHRFF6U254WUJzRVFwVFJxUQ?oc=5",
+      "source": "IndexBox",
+      "publishedAt": "2026-11-22T19:01:05+00:00",
+      "category": "Trends & Forecasts",
+      "image": ""
     },
     {
       "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
@@ -88,15 +574,6 @@
       "publishedAt": "2026-11-22T18:45:37+00:00",
       "category": "Threats",
       "image": ""
-    },
-    {
-      "title": "What the little clock icon at the top of your Samsung phone means",
-      "description": "A mystery clock in your Galaxy status bar can be confusing. Find out what the symbol could mean and the simple steps to make it disappear for good.",
-      "url": "https://www.engadget.com/2319450/what-little-clock-icon-top-samsung-phone-means/",
-      "source": "Engadget",
-      "publishedAt": "2026-11-22T18:45:00+00:00",
-      "category": "News",
-      "image": "https://www.engadget.com/img/gallery/what-the-little-clock-icon-at-the-top-of-your-samsung-phone-means/l-intro-1794937166.jpg"
     },
     {
       "title": "Off Highway Vehicle Engines Market Forecast to 2035, Driven by Stricter Emissions Rules and Replacement Demand",
@@ -117,24 +594,6 @@
       "image": ""
     },
     {
-      "title": "The drawbacks of adding solar panels to your home",
-      "description": "Installing solar panels at your home could be a bright idea, but there are some serious financial factors to consider before making the investment.",
-      "url": "https://www.engadget.com/2319431/adding-solar-panels-home-disadvantages/",
-      "source": "Engadget",
-      "publishedAt": "2026-11-22T18:30:00+00:00",
-      "category": "News",
-      "image": "https://www.engadget.com/img/gallery/the-drawbacks-of-adding-solar-panels-to-your-home/l-intro-1794592127.jpg"
-    },
-    {
-      "title": "What's next after no deal at COP31 climate summit?",
-      "description": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal.",
-      "url": "https://www.bbc.co.uk/news/videos/cx987g7q019go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science",
-      "publishedAt": "2026-11-22T18:28:48+00:00",
-      "category": "News",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0084/live/3dd7fdf0-e69f-11f1-a094-5fdc692f3e33.jpg"
-    },
-    {
       "title": "Ethernet Connector and Transformer Market Forecast to 2035, Driven by Industrial Automation and 2.5G/5G Migration",
       "description": "",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTXMxSmNUSDJtSlFOMVZpLXhabjFocEItYkNBcXVzWWlTN0czWGQ3TkZJcXFYZGtleS1nLWZITWlqQTlYdXBEb0FJS0wwTVJmX0tIMjY2RVlRMXpPQzhweHZVelN2eU12Vm0xdlJEMXcydWRPMW1KZ0VLRWxiTnB3cWtVdzBPM0VPd3dTWUZVNXRpUGs5LWt5WFo2MGtzLTRSdXF1bGJSNmV6b0M4STVTRXlFNDUzY09zOWpfSUZja2s3S2ZkZHh1blJMSWxmekRaMWhrM0Znc2xWQQ?oc=5",
@@ -142,24 +601,6 @@
       "publishedAt": "2026-11-22T18:26:05+00:00",
       "category": "Trends & Forecasts",
       "image": ""
-    },
-    {
-      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-      "description": "The talks fail to make breakthrough on tackling climate change after a row about mentioning fossil fuels.",
-      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science",
-      "publishedAt": "2026-11-22T18:17:59+00:00",
-      "category": "News",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afca/live/39aa8840-e69c-11f1-936e-1fd1d31671db.jpg"
-    },
-    {
-      "title": "11 types of smart gadgets to consider pairing with your Ring doorbell",
-      "description": "If you've expanded your smart home to have multiple smart devices, you may want to see how many will work with Ring.",
-      "url": "https://www.engadget.com/2319422/ring-doorbell-smart-gadget-pairings/",
-      "source": "Engadget",
-      "publishedAt": "2026-11-22T18:15:00+00:00",
-      "category": "News",
-      "image": "https://www.engadget.com/img/gallery/11-types-of-smart-gadgets-to-consider-pairing-with-your-ring-doorbell/l-intro-1794591638.jpg"
     },
     {
       "title": "Chainlink (LINK) Price Prediction & Forecast for 2026, 2027, 2028–2030, 2040 and Beyond",
@@ -198,15 +639,6 @@
       "image": "https://hackaday.com/wp-content/uploads/2026/11/usb_gpu.png"
     },
     {
-      "title": "Don't throw away your old Xbox — Do this instead",
-      "description": "Your old Xbox doesn't deserve to be dumped in a dustbin. From making a buck to making a kid's day, there are ways to give your console a new lease on life.",
-      "url": "https://www.engadget.com/2319409/dont-throw-away-old-xbox-do-this-instead-sell-donate/",
-      "source": "Engadget",
-      "publishedAt": "2026-11-22T18:00:00+00:00",
-      "category": "News",
-      "image": "https://www.engadget.com/img/gallery/dont-throw-away-your-old-xbox-do-this-instead/l-intro-1794512318.jpg"
-    },
-    {
       "title": "Delta flights in and out of Atlanta delayed due to system outage",
       "description": "All Delta flights in and out of Atlanta are facing significant delays on Sunday due to a problem with the system that calculates a plane's weight and balance. Hartsfield-Jackson Atlanta International Airport is Delta's largest hub and one of the busiest airports in the world. While only Delta is impacted at the moment, disruptions at […]",
       "url": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage",
@@ -216,24 +648,6 @@
       "image": ""
     },
     {
-      "title": "You can mass-delete all of your emails on Gmail in only a few clicks",
-      "description": "If you have thousands of emails piling up in Gmail, you can delete them in bulk without losing the important ones.",
-      "url": "https://www.engadget.com/2319403/how-to-mass-delete-all-emails-gmail/",
-      "source": "Engadget",
-      "publishedAt": "2026-11-22T17:45:00+00:00",
-      "category": "News",
-      "image": "https://www.engadget.com/img/gallery/you-can-mass-delete-all-of-your-emails-on-gmail-in-only-a-few-clicks/l-intro-1794781970.jpg"
-    },
-    {
-      "title": "How to cancel your Nintendo Switch Online subscription",
-      "description": "You'll have to switch off Nintendo Switch Online's auto-renewal to cancel it. Here's how.",
-      "url": "https://www.engadget.com/2319401/cancel-nintendo-switch-online-subscription/",
-      "source": "Engadget",
-      "publishedAt": "2026-11-22T17:30:00+00:00",
-      "category": "News",
-      "image": "https://www.engadget.com/img/gallery/how-to-cancel-your-nintendo-switch-online-subscription/l-intro-1794668965.jpg"
-    },
-    {
       "title": "Binding of Isaac developer removes AI music from Repentance Plus",
       "description": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files with Suno metadata that pointed back to […]",
       "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
@@ -241,15 +655,6 @@
       "publishedAt": "2026-11-22T17:25:20+00:00",
       "category": "Emerging Technology",
       "image": ""
-    },
-    {
-      "title": "Gukesh on World Chess Championship title defence: Not here to defend, here to win",
-      "description": "Gukesh on World Chess Championship title defence: Not here to defend, here to win",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/d-gukesh-vs-javokhir-sindarov-world-chess-championship-geneva-3044630-2026-11-22?utm_source=rss",
-      "source": "India Today Technology",
-      "publishedAt": "2026-11-22T17:24:33+00:00",
-      "category": "News",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/gukesh-08085937-16x9.jpeg?VersionId=hZ640vxSAPx73j_wqQvboWYIlM9wmc_K"
     },
     {
       "title": "5 iOS 27.3 changes coming to your Apple devices by 2027",
@@ -270,39 +675,12 @@
       "image": ""
     },
     {
-      "title": "You can reuse your old GoPro in a couple different ways",
-      "description": "An old GoPro may not be of much use as an action camera, but that doesn't mean it's destined for e-waste. Here are two ways to repurpose it.",
-      "url": "https://www.engadget.com/2319397/reuse-old-gopro-different-ways/",
-      "source": "Engadget",
-      "publishedAt": "2026-11-22T17:00:00+00:00",
-      "category": "News",
-      "image": "https://www.engadget.com/img/gallery/you-can-reuse-your-old-gopro-in-a-couple-different-ways/l-intro-1794706592.jpg"
-    },
-    {
       "title": "Sea1’s new 394-foot offshore vessel features a 250-ton crane and two ROV hangars",
       "description": "Norway based offshore service provider Sea1 Offshore has launched its second methanol-Ready Support Vessel, Sea1...",
       "url": "https://interestingengineering.com/transportation/sea1-citrine-offshore-expands-methanol-fleet",
       "source": "Interesting Engineering",
       "publishedAt": "2026-11-22T17:00:00+00:00",
       "category": "Innovation",
-      "image": ""
-    },
-    {
-      "title": "Here's how to properly test your USB speed",
-      "description": "Your USB ports and devices are all rated for certain speeds, but how do you know everything's performing as it should? It's actually not that hard.",
-      "url": "https://www.engadget.com/2319388/how-to-test-usb-speed/",
-      "source": "Engadget",
-      "publishedAt": "2026-11-22T16:45:00+00:00",
-      "category": "News",
-      "image": "https://www.engadget.com/img/gallery/heres-how-to-properly-test-your-usb-speed/l-intro-1794562926.jpg"
-    },
-    {
-      "title": "Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk",
-      "description": "Sheherazaad started making ripples in the music world a few years ago with her EP Qasr, which was produced by Grammy Award winner Arooj Aftab. Now she's back with Khudgarzi, her reverb-drenched folk-noir debut LP that's primarily sung in Urdu. The instrumentation on Khudgarzi draws on traditional South Asian music, including Carnatic and...",
-      "url": "https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review",
-      "source": "The Verge",
-      "publishedAt": "2026-11-22T16:43:32+00:00",
-      "category": "News",
       "image": ""
     },
     {
@@ -313,15 +691,6 @@
       "publishedAt": "2026-11-22T16:42:04+00:00",
       "category": "Opportunities",
       "image": ""
-    },
-    {
-      "title": "Fixing this annoying One UI feature is easy, but there's a catch",
-      "description": "The Now bar on your Samsung phone's lock screen can sometimes float above the bottom of the screen. Find out how to fix this One UI feature.",
-      "url": "https://www.engadget.com/2319385/fixing-annoying-one-ui-feature-easy-but-theres-catch/",
-      "source": "Engadget",
-      "publishedAt": "2026-11-22T16:30:00+00:00",
-      "category": "News",
-      "image": "https://www.engadget.com/img/gallery/fixing-this-annoying-one-ui-feature-is-easy-but-theres-a-catch/l-intro-1794838458.jpg"
     },
     {
       "title": "Anode-free sodium batteries last longer thanks to an electrolyte that forms its own shield",
@@ -342,24 +711,6 @@
       "image": ""
     },
     {
-      "title": "4 random apps you might not realize work with Android Auto",
-      "description": "From deciding where to fuel up to joining meetings from your car, there are many convenient apps that work with Android Auto.",
-      "url": "https://www.engadget.com/2319383/random-apps-that-work-with-android-auto/",
-      "source": "Engadget",
-      "publishedAt": "2026-11-22T16:15:00+00:00",
-      "category": "News",
-      "image": "https://www.engadget.com/img/gallery/4-random-apps-you-might-not-realize-work-with-android-auto/l-intro-1794585620.jpg"
-    },
-    {
-      "title": "Women's ACT: India make it 3 out of 3 with 7-0 Thailand drubbing",
-      "description": "Women's ACT: India make it 3 out of 3 with 7-0 Thailand drubbing",
-      "url": "https://www.indiatoday.in/sports/hockey/story/india-vs-thailand-womens-asian-champions-trophy-2026-deepika-hat-trick-semi-finals-3044613-2026-11-22?utm_source=rss",
-      "source": "India Today Technology",
-      "publishedAt": "2026-11-22T16:12:10+00:00",
-      "category": "News",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/deepika-kumari-221013960-16x9_0.jpeg?VersionId=V5BCGhSWx159q3ydzUsR2tF9eH7M094I"
-    },
-    {
       "title": "MIT study links data centers’ power demand to 650 premature deaths in the US",
       "description": "A team led by MIT researchers has estimated that electricity demand from U.S. data centers...",
       "url": "https://interestingengineering.com/energy/data-center-air-pollution-deaths-mit",
@@ -367,15 +718,6 @@
       "publishedAt": "2026-11-22T16:10:00+00:00",
       "category": "Research & Discovery",
       "image": ""
-    },
-    {
-      "title": "As cars go digital, US consumers pay an extra $12 billion a year for repairs",
-      "description": "Today's vehicles need software tools to make repairs, and the subscriptions inflate insurance fees",
-      "url": "https://www.theregister.com/personal-tech/2026/11/22/as-cars-go-digital-us-consumers-pay-an-extra-12-billion-a-year-for-repairs/5311412",
-      "source": "The Register",
-      "publishedAt": "2026-11-22T16:08:00+00:00",
-      "category": "News",
-      "image": "https://image.theregister.com/?imageId=5311508&width=800"
     },
     {
       "title": "SpaceX sends classified US spy satellites to orbit in early-morning launch from California coast (video)",
@@ -394,15 +736,6 @@
       "publishedAt": "2026-11-22T16:03:00+00:00",
       "category": "Innovation",
       "image": "https://assets.newatlas.com/dims4/default/8235dde/2147483647/strip/true/crop/1920x1280+0+0/resize/1440x960!/format/webp/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F90%2Fd6%2Fa176ebea461985ffea698d2aed19%2Fhero.png"
-    },
-    {
-      "title": "6 handy ways you can use your old mini PC",
-      "description": "From retro gaming consoles to home media servers, discover six handy ways to repurpose your old mini PC and give the hardware a new lease on life.",
-      "url": "https://www.engadget.com/2310723/handy-ways-use-old-mini-pc/",
-      "source": "Engadget",
-      "publishedAt": "2026-11-22T16:00:00+00:00",
-      "category": "News",
-      "image": "https://www.engadget.com/img/gallery/6-handy-ways-you-can-use-your-old-mini-pc/l-intro-1794236237.jpg"
     },
     {
       "title": "6-million-year-old whale may have had the most asymmetrical face ever seen in mammals",
@@ -432,24 +765,6 @@
       "image": ""
     },
     {
-      "title": "How much storage does Apple Intelligence use on your iPhone?",
-      "description": "Apple Intelligence has a lot of neat tricks, but you might prefer to disable them if you need every bit of free space possible.",
-      "url": "https://www.engadget.com/2319374/apple-intelligence-iphone-storage-usage/",
-      "source": "Engadget",
-      "publishedAt": "2026-11-22T15:45:00+00:00",
-      "category": "News",
-      "image": "https://www.engadget.com/img/gallery/how-much-storage-does-apple-intelligence-use-on-your-iphone/l-intro-1794596549.jpg"
-    },
-    {
-      "title": "Dhoni lands in Chennai to attend SRH owner Kavya-Anirudh reception",
-      "description": "Dhoni lands in Chennai to attend SRH owner Kavya-Anirudh reception",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ms-dhoni-chennai-kavya-maran-anirudh-ravichander-wedding-reception-cricket-stars-3044599-2026-11-22?utm_source=rss",
-      "source": "India Today Technology",
-      "publishedAt": "2026-11-22T15:43:30+00:00",
-      "category": "News",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/ms-dhoni--kavya-maran--anirudh-ravichander-224102628-16x9_0.jpg?VersionId=oVyKStdjIUxaaPYe5qTKTl9GRtKtFDRY"
-    },
-    {
       "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
       "description": "E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card numbers and CVV security codes. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
@@ -475,24 +790,6 @@
       "publishedAt": "2026-11-22T15:40:01+00:00",
       "category": "Innovation",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/us-president-donald-tr-8.jpg"
-    },
-    {
-      "title": "AMD Stock Forecast for 2026, 2027, 2028–2030 and Beyond",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOHJoMzFPekd2UWJ5dWt1TVl5RU9DQkRZdm9FZnlvdWxnVVVHVzJNbWx6eUwtcnROSXl2MHZCdDVuUXdjbDlqZmF6SGpGc2Exck9keE5wTHAxSkN0SzVEdFBMekdFaEFyM050bGdFaGtMQ19BZ0FCT0E3VkJDYUZjLWF0UUU?oc=5",
-      "source": "LiteFinance",
-      "publishedAt": "2026-11-22T15:36:52+00:00",
-      "category": "Trends & Forecasts",
-      "image": ""
-    },
-    {
-      "title": "The most recognizable spam email type is way older than the internet",
-      "description": "It's a tale as old as time, literally. Con artists have been promising fortunes (following a small advance, of course) through all sorts of correspondence.",
-      "url": "https://www.engadget.com/2319371/most-recognizable-spam-email-type-way-older-than-internet/",
-      "source": "Engadget",
-      "publishedAt": "2026-11-22T15:30:00+00:00",
-      "category": "News",
-      "image": "https://www.engadget.com/img/gallery/the-most-recognizable-spam-email-type-is-way-older-than-the-internet/l-intro-1794425133.jpg"
     },
     {
       "title": "Four-layer paper circuit boards offer a new route to more recyclable e-waste",
@@ -531,24 +828,6 @@
       "image": ""
     },
     {
-      "title": "Protesters storm Meta offices in India",
-      "description": "Members of the opposition Congress party protested outside Meta's offices in Delhi on Friday and appear to have entered the building in a video shared by CNN. Members of the party's youth wing are demanding the company restore accounts of party leaders and warned of more protests to come. The Congress party has criticized Meta […]",
-      "url": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
-      "source": "The Verge",
-      "publishedAt": "2026-11-22T15:15:07+00:00",
-      "category": "News",
-      "image": ""
-    },
-    {
-      "title": "4 iPad Pro alternatives for those looking to ditch Apple",
-      "description": "There's really nothing quite like the iPad Pro out there, but these alternatives show that you can still get great tablets from companies other than Apple.",
-      "url": "https://www.engadget.com/2319367/ipad-alternatives-to-ditch-apple/",
-      "source": "Engadget",
-      "publishedAt": "2026-11-22T15:15:00+00:00",
-      "category": "News",
-      "image": "https://www.engadget.com/img/gallery/4-ipad-pro-alternatives-for-those-looking-to-ditch-apple/l-intro-1794555342.jpg"
-    },
-    {
       "title": "FBI investigating apparent hack of its key national criminal justice database",
       "description": "The FBI is investigating an apparent hack of a national law enforcement database that it maintains, a person familiar with the matter said Saturday.",
       "url": "https://techxplore.com/news/2026-11-fbi-apparent-hack-key-national.html",
@@ -565,24 +844,6 @@
       "publishedAt": "2026-11-22T15:00:49+00:00",
       "category": "Emerging Technology",
       "image": "https://hackaday.com/wp-content/uploads/2026/11/scirobotics.aei1264-f1.jpg"
-    },
-    {
-      "title": "Nintendo’s Switch 2 console is $50 off for Black Friday",
-      "description": "Those hoping to save some cash on a Nintendo Switch 2 can do so starting today, November 22nd, through Saturday, December 5th, giving you plenty of time to think about it after Cyber Monday has passed. For a limited time, Nintendo has knocked $50 off one of its two current console bundles, temporarily rolling back […]",
-      "url": "https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale",
-      "source": "The Verge",
-      "publishedAt": "2026-11-22T15:00:46+00:00",
-      "category": "News",
-      "image": ""
-    },
-    {
-      "title": "Why you should never vacuum the inside of your computer",
-      "description": "Ensuring that your PC is dust free is key, but taking a vacuum to your motherboard and other components can be very damaging. Here's what you should do instead.",
-      "url": "https://www.engadget.com/2319361/why-you-should-never-vacuum-inside-computer/",
-      "source": "Engadget",
-      "publishedAt": "2026-11-22T15:00:00+00:00",
-      "category": "News",
-      "image": "https://www.engadget.com/img/gallery/why-you-should-never-vacuum-the-inside-of-your-computer/l-intro-1794571286.jpg"
     },
     {
       "title": "This viral star projector has been hyped to Mars and back, but we hunted down the best version you can buy",
@@ -621,6 +882,15 @@
       "image": ""
     },
     {
+      "title": "Asia House Fellowship 2027/2028 – Fully Funded International Research Fellowship in the United Kingdom",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52VEstalhUZFR0UDcxMWg3RDlKRjJheUxXTGdCN3czMWpKT1FtWnhLa1cxRFduNEcwNmh3N2otelhsMXhLQ2h1UGE1MVJNMGQyTDBQTUpteHZzM1AyanF3QTNEbVBkREhXUFM4NA?oc=5",
+      "source": "Global South Opportunities",
+      "publishedAt": "2026-11-22T14:56:30+00:00",
+      "category": "Opportunities",
+      "image": ""
+    },
+    {
       "title": "Kakao Mobility partners with Nvidia to develop Level 4 autonomous driving technology",
       "description": "",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUnMwVTdET0JiaXlkcm83bUZkQUt0TFpJd1lkZG13a1JIUWl3dW81UXlGbHN1Q2Z4VDZGVE5GcFNmeTRsNG1kODJpTTJCclVueHQ1LVFTOTFFWUVpRUpQYmMwc0ZSUHJqN05IR292WVBsOTFUMDl5VldhWUd2UkRfd1NXZ1BQcnI2TFFJdmx1cHN6RFY3aWl0VnppeUxYV2xPWjdZRWRJVzkwWFZ6SWdXQ3FLdTNLMFE5bTRMUkZRRWdlamhhT3ZZNXVOLW5LbnVaX3h6STh2VGM?oc=5",
@@ -637,15 +907,6 @@
       "publishedAt": "2026-11-22T14:49:44+00:00",
       "category": "Policy & Regulation",
       "image": ""
-    },
-    {
-      "title": "Sleep vs. shutdown – Which should Xbox Series X owners actually use?",
-      "description": "As long as it's plugged in, the Xbox Series X never fully turns off, but you can manage how much power it draws.",
-      "url": "https://www.engadget.com/2319358/xbox-series-x-owners-sleep-mode-vs-shutdown/",
-      "source": "Engadget",
-      "publishedAt": "2026-11-22T14:45:00+00:00",
-      "category": "News",
-      "image": "https://www.engadget.com/img/gallery/sleep-vs-shutdown-which-should-xbox-series-x-owners-actually-use/l-intro-1794526494.jpg"
     },
     {
       "title": "2,500-year-old bones reveal Ancient Greek babies ate solids at 3 months, nursed for 4 years",
@@ -675,15 +936,6 @@
       "image": ""
     },
     {
-      "title": "Can you completely remove One UI from a Samsung phone?",
-      "description": "Samsung's custom software, One UI, gives every phone a similar appearance. Discover how to limit One UI and change the look of your homepage.",
-      "url": "https://www.engadget.com/2319357/limit-one-ui-9-on-samsung-phone/",
-      "source": "Engadget",
-      "publishedAt": "2026-11-22T14:30:00+00:00",
-      "category": "News",
-      "image": "https://www.engadget.com/img/gallery/can-you-completely-remove-one-ui-from-a-samsung-phone/l-intro-1794581123.jpg"
-    },
-    {
       "title": "As 'Star Trek: First Contact' turns 30, Director Jonathan Frakes reflects on his triumphant time-travel blockbuster (interview)",
       "description": "\" Star Trek: First Contact \" celebrates its 30th anniversary today, and the engaging sci-fi classic still looks fantastic three decades later. With the sad passing of its star, Patrick Stewart , last month, and \"Star Trek's\" milestone 60th birthday taking place in 2026, this is a bittersweet salute that also holds an extra special significance....",
       "url": "https://www.space.com/entertainment/space-movies-shows/star-trek-first-contact-at-30-director-jonathan-frakes-reflects-on-his-triumphant-time-travel-blockbuster-interview",
@@ -709,15 +961,6 @@
       "publishedAt": "2026-11-22T14:15:36+00:00",
       "category": "Innovation",
       "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/mxlggzm_b50_db1500.jpg"
-    },
-    {
-      "title": "Asia House Fellowship 2027/2028 – Fully Funded International Research Fellowship in the United Kingdom",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52VEstalhUZFR0UDcxMWg3RDlKRjJheUxXTGdCN3czMWpKT1FtWnhLa1cxRFduNEcwNmh3N2otelhsMXhLQ2h1UGE1MVJNMGQyTDBQTUpteHZzM1AyanF3QTNEbVBkREhXUFM4NA?oc=5",
-      "source": "Global South Opportunities",
-      "publishedAt": "2026-11-22T13:55:30+00:00",
-      "category": "Opportunities",
-      "image": ""
     },
     {
       "title": "VinFast To Build Dedicated E-Scooter Assembly Line At TN Plant",
@@ -756,15 +999,6 @@
       "image": ""
     },
     {
-      "title": "Sui Price Forecast & Predictions for 2026, 2027, 2028–2030, 2040 and Beyond",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBFdXprN05hZDUxSTRXYjhCR29IRTB2Rm03WFhNbmVkTGRVOWZ2UnhXSVZna2Z1TlIzdDJ3NnY5OHdqR0Y0WjhfOHRHaC1SRlJaMDBFZ1hBU20tcW9QQjRSa2UxQ2Vyb2JSbFVJLWROeXNTOHlRMHY3VzNkMHg?oc=5",
-      "source": "LiteFinance",
-      "publishedAt": "2026-11-22T12:01:35+00:00",
-      "category": "Trends & Forecasts",
-      "image": ""
-    },
-    {
       "title": "Potatoes Grow in Simulated Lunar Soil as Well as on Earth",
       "description": "Popularized by a certain book about a Martian, growing potatoes in very non-Earth-like environments has become somewhat of a meme. Perhaps unsurprisingly, it’s not so far from actual science being …read more",
       "url": "https://hackaday.com/2026/11/22/potatoes-grow-in-simulated-lunar-soil-as-well-as-on-earth/",
@@ -774,6 +1008,24 @@
       "image": "https://hackaday.com/wp-content/uploads/2026/11/lunar_regolith_potatoes_oregon_state_university_youtube.jpg"
     },
     {
+      "title": "Interstellar solar sails hit a bizarre problem at 75% of light speed",
+      "description": "Scientists have discovered a surprising obstacle to interstellar travel: at extreme speeds, the light propelling futuristic solar sails could actually begin slowing them down. Once a spacecraft reaches 75% of the speed of light, some scattered light starts producing drag, potentially complicating humanity’s plans to reach distant stars.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261120071305.htm",
+      "source": "ScienceDaily",
+      "publishedAt": "2026-11-22T11:59:29+00:00",
+      "category": "Research & Discovery",
+      "image": ""
+    },
+    {
+      "title": "A mysterious gap hints at black holes born from stars that never exploded",
+      "description": "Massive stars may be quietly collapsing into black holes without ever producing the spectacular supernova explosions scientists typically expect. A surprising pattern in 257 black hole mergers suggests these mysterious stellar disappearances could explain the origins of a large population of black holes throughout the universe.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261121221126.htm",
+      "source": "ScienceDaily",
+      "publishedAt": "2026-11-22T11:46:42+00:00",
+      "category": "Research & Discovery",
+      "image": ""
+    },
+    {
       "title": "US Navy plans massive 600-ton hypersonic missile upgrade for USS Zumwalt destroyer",
       "description": "The United States Navy is planning to install a new 600-ton hypersonic launch module on...",
       "url": "https://interestingengineering.com/military/us-navy-600-ton-hypersonic-missile-upgrade",
@@ -781,6 +1033,15 @@
       "publishedAt": "2026-11-22T11:33:28+00:00",
       "category": "Updates & Patches",
       "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/gqeun0me7bo.jpg"
+    },
+    {
+      "title": "DNA’s secret sunscreen may have helped life survive on early Earth",
+      "description": "Scientists have uncovered a surprising reason why early life may have survived Earth's intense ultraviolet radiation: a key component of DNA appears to turn potentially destructive damage into something easier to repair. The discovery could help solve a decades-old evolutionary mystery and reveal how life endured the harsh conditions of our...",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261121221128.htm",
+      "source": "ScienceDaily",
+      "publishedAt": "2026-11-22T11:31:14+00:00",
+      "category": "Research & Discovery",
+      "image": ""
     },
     {
       "title": "Chinese national Li Ming charged in fraud case in Singapore linked to Megaspeed and Alice Huang: Report",
@@ -825,6 +1086,15 @@
       "source": "IndexBox",
       "publishedAt": "2026-11-22T11:06:04+00:00",
       "category": "Trends & Forecasts",
+      "image": ""
+    },
+    {
+      "title": "A 194-year-old tortoise has a remarkable anti-aging secret hidden in its DNA",
+      "description": "At an astonishing 194 years old, Jonathan the giant tortoise is the world's oldest living land animal, and scientists may have finally uncovered the secrets behind his extraordinary lifespan. Researchers identified 287 unique genetic variants linked to processes that help repair damaged DNA, control inflammation, regulate insulin, and suppress...",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261121221130.htm",
+      "source": "ScienceDaily",
+      "publishedAt": "2026-11-22T11:04:06+00:00",
+      "category": "Research & Discovery",
       "image": ""
     },
     {
@@ -882,6 +1152,15 @@
       "image": ""
     },
     {
+      "title": "F5 Sees AI and Software Renewals Driving Growth After $100 Million in AI Bookings",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbmVlTFN4LTZ2N2ZManNhay1iMmhOOS1YcTJoamZzVHU0NEMyT3h5TWJ4YVB4Unl4a0tQZ1RVNkx4ODVhdlVjV29PSlpRdlRxX3hOOC13RkhjZ3pCZzFvZjU5YlhrUjdVS0NkeVV1QzBkd0w2VWc5Ti1TV2ZyLW1leDF3LXBuTVluenBXUUluS3E2Nk9DRlJwbnc1TzNoOWZFMU03UWdpV2t4Z3ZXZ0tHR0QxbHUtN0E2c3ltM1NQUWVaSXk3d2VqTXZNM0phVVpzZTZhVm1Tejg?oc=5",
+      "source": "TradingView",
+      "publishedAt": "2026-11-22T10:12:06+00:00",
+      "category": "Emerging Technology",
+      "image": ""
+    },
+    {
       "title": "Scientists map a difficult-to-see energy range and uncover 450 cosmic sources",
       "description": "Gamma rays can reveal some of the most violent events in the universe, from matter...",
       "url": "https://interestingengineering.com/space/450-gamma-ray-sources",
@@ -898,15 +1177,6 @@
       "publishedAt": "2026-11-22T09:03:00+00:00",
       "category": "Innovation",
       "image": "https://assets.newatlas.com/dims4/default/81ea390/2147483647/strip/true/crop/4000x2252+0+0/resize/1440x811!/format/webp/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2Fbf%2Fdc%2Ff46692834d38865c90ce22de4270%2F2026-mercedes-benz-es-1.jpg"
-    },
-    {
-      "title": "Avalanche (AVAX) Price Forecast & Predictions for 2026, 2027, 2028–2030",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdGg5Tm1tMGZtbUZZV3BmVmFfRDc5M3RUZWI0SncwUDBDSlR3R3VIVkJPYmFlZFZyWTVIU2lURGU3d3R1X3NqMjFoVV9aNHdpYkVzVjFKcUhsU0VZcnYxR29BcTExSG5rUTFFdzd0eVhRLTZEb0JuelRMNmJidnJHVXoxYW4?oc=5",
-      "source": "LiteFinance",
-      "publishedAt": "2026-11-22T09:02:07+00:00",
-      "category": "Trends & Forecasts",
-      "image": ""
     },
     {
       "title": "Quick WIFI Adapter Through USB",
@@ -979,6 +1249,15 @@
       "publishedAt": "2026-11-22T06:00:20+00:00",
       "category": "Innovation",
       "image": "https://hackaday.com/wp-content/uploads/2026/11/robot_hand.png"
+    },
+    {
+      "title": "Quantum computing’s first real-world payoff may come in energy, not drug discovery",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XQXFDMU80SFRjQ0VRQ0h4T29GS0doY3hpSFZ0NlVzRllna19oT3E5TG5yM2VVdzlFaUI4T3Bseld6MlJiaU5mWjloQno0a254OE9uTmZnbUFGVjBNOEJlS0VKLXhnV0Vhd3o4aWQxLUFtSndTblliZVhPWEJqdTDSAYQBQVVfeXFMT0R2REROU1RjRlFpOVBWdlBUdGhDLWZua29JY2pnSkpiRVFMNTgyQnRybTR1M3U4SW1nSDRFWlowX194MGctb3JfUDcya0lhbGJsYXpfbE9JYTRYY3A3R21FRmpTUVlSR3ctT1M3TW5IblpfU3BzMFVFLXVqUU9MVmp6MWpY?oc=5",
+      "source": "CNBC",
+      "publishedAt": "2026-11-22T06:00:01+00:00",
+      "category": "Research & Discovery",
+      "image": ""
     },
     {
       "title": "Scientists control a virtual fruit fly with map of insect’s brain",
@@ -1350,15 +1629,6 @@
       "image": "https://assets.newatlas.com/dims4/default/056b9e8/2147483647/strip/true/crop/1200x800+0+0/resize/1200x800!/format/webp/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2Ff5%2F47%2F6607a68b4f5c8606b830e9ab022e%2Ftriumphs-new-street-triple-798-rs-is-arguably-the-most-powerful-motorcycle-in-the-middleweight-naked-segment-right-now.jpg"
     },
     {
-      "title": "Capturing and Mineralizing Atmospheric Carbon Dioxide",
-      "description": "Although the various panicked noises about there being ‘too much’ CO2 in the atmosphere might make one think that we’re pretty much breathing in pure CO2 at this point, Earth’s …read more",
-      "url": "https://hackaday.com/2026/11/21/capturing-and-mineralizing-atmospheric-carbon-dioxide/",
-      "source": "Hackaday",
-      "publishedAt": "2026-11-22T03:00:36+00:00",
-      "category": "Innovation",
-      "image": "https://hackaday.com/wp-content/uploads/2026/11/co2_capture_flow_hyperspace_pirate_youtube.jpg"
-    },
-    {
       "title": "Soft-armed drone uses rolling cam joints to squeeze through tight spaces at 4.5 mph",
       "description": "Navigating collapsed buildings, dense industrial piping, or narrow ventilation shafts usually forces small drones to...",
       "url": "https://interestingengineering.com/ai-robotics/soft-armed-quadrotor-drone-folds-on-contact",
@@ -1422,24 +1692,6 @@
       "image": ""
     },
     {
-      "title": "Thermite Powered Instant Phone Charger",
-      "description": "Thermite is an amazing material, using mostly easily obtainable ingredients like aluminium and iron(III) oxide in a redox reaction to create a rather spectacular amount of thermal energy in very …read more",
-      "url": "https://hackaday.com/2026/11/21/thermite-powered-instant-phone-charger/",
-      "source": "Hackaday",
-      "publishedAt": "2026-11-22T00:00:29+00:00",
-      "category": "Innovation",
-      "image": "https://hackaday.com/wp-content/uploads/2026/11/thermite_phone_charger_the_thought_emporium_youtube.jpg"
-    },
-    {
-      "title": "Solana (SOLUSD) Price Forecast & Predictions for 2026, 2027, 2028–2030, 2040 and Beyond",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY3NwRVZEazFMTWI1Xy1lTEpmWDRBNk55QXhxMk9JbjAxazFCOFJOT3pod0pjbmRUcWVHXy10MEFfOTVzcEdTbHRCenpKcXZYcWRnbEF1cEJwZ1RZbHFjS3YyM25HWUFWSDdCZjVpZXNfOXVlSlFwUlBUZ2xmdzhURw?oc=5",
-      "source": "LiteFinance",
-      "publishedAt": "2026-11-21T23:37:25+00:00",
-      "category": "Trends & Forecasts",
-      "image": ""
-    },
-    {
       "title": "Indian Startup IPO Tracker 2026",
       "description": "Dalal Street emerged as a founder’s paradise in 2025, with 18 Indian startups listing on the bourses and collectively mopping…",
       "url": "https://inc42.com/features/indian-startup-ipo-tracker-2026/",
@@ -1455,24 +1707,6 @@
       "source": "BASENOR - Tesla Accessories",
       "publishedAt": "2026-11-21T23:11:01+00:00",
       "category": "Updates & Patches",
-      "image": ""
-    },
-    {
-      "title": "Ultimate plug-in SUV tows a Boeing 747 – on just 2 wheels",
-      "description": "Towing an airliner is one of the automotive industry's maddest parlor tricks. You may recall this marketing theater famously deployed by Volkswagen with its V10 Touareg in 2006 and later super-sized by Porsche with a Cayenne S Diesel hauling an Airbus A380 in 2017. Continue Reading Category: Automotive , Transport Tags: BYD , DENZA , Hybrid ,...",
-      "url": "https://newatlas.com/automotive/byd-denza-bao-5-tow-boeing-747/",
-      "source": "New Atlas",
-      "publishedAt": "2026-11-21T23:03:00+00:00",
-      "category": "Innovation",
-      "image": "https://assets.newatlas.com/dims4/default/013e2aa/2147483647/strip/true/crop/3564x2376+0+0/resize/1440x960!/format/webp/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2Fde%2Fb4%2F1dc8201143e39f1e0f4a0de00f9c%2Fdenza-plane-still-02.png"
-    },
-    {
-      "title": "Food Technology Market to Accelerate Through 2035, Driven by Clean-Label Reformulation and Shelf-Life Innovation",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR1prbi10WGtyY01zcXNJR2I5dlVOVmVobUU3T09kbkJCLXZSbTJJLVhpNkxDREt3S1VUSFE0M1JmVmRJMzA5ZkdROXVzcWdGTlF0Q1I3a2hlQ2xkNm1oeE9xSHRCSVRXUDQ0d0paRVd6SEYwaEl1eWl0dnRsSmxaNEhldXpiZ09lN2RVSS1uaEczSXliUGZWRUJmaDQtYmQ2SXJWTF9GZXlNUTNwM3VuMUtITjBsTGU2cFk0MU84WmhTUHRBUUhXNmR3TjlfZzJwNGlBUHpCMVQ?oc=5",
-      "source": "IndexBox",
-      "publishedAt": "2026-11-21T23:01:04+00:00",
-      "category": "Innovation",
       "image": ""
     },
     {
@@ -1557,24 +1791,6 @@
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/IMG_6537-scaled.jpg"
     },
     {
-      "title": "TQI linking test v15 (delete me)",
-      "description": "IonQ announced a deal with Mastercard today. Analysts said IonQ’s roadmap is ambitious. Mastercard also commented. D-Wave Quantum and D-Wave were mentioned. The city of Chattanooga hosted it. Over a long time horizon, Horizon Europe funds research. Horizon Quantum Computing is different from Horizon raising money. IBM , Harvard , HSBC",
-      "url": "https://thequantuminsider.com/2026/11/21/__trashed-5/",
-      "source": "The Quantum Insider",
-      "publishedAt": "2026-11-21T21:45:27+00:00",
-      "category": "Emerging Technology",
-      "image": ""
-    },
-    {
-      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-      "description": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
-      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-21T21:37:10+00:00",
-      "category": "Emerging Technology",
-      "image": ""
-    },
-    {
       "title": "Budget 2027: Industry Body BWA Seeks Tax Relief For Crypto Startups",
       "description": "Industry body Bharat Web3 Association (BWA) has submitted its recommendations to the finance ministry ahead of the upcoming Union Budget…",
       "url": "https://inc42.com/buzz/budget-2027-industry-body-bwa-seeks-tax-relief-for-crypto-startups/",
@@ -1611,15 +1827,6 @@
       "image": ""
     },
     {
-      "title": "ESP32 Drives MDA Display For Wireless Terminal",
-      "description": "Don’t you miss the days where you had to point a particle accelerator at your face for a full shift? Well, maybe not when we think of it that way, …read more",
-      "url": "https://hackaday.com/2026/11/21/esp32-drives-mda-display-for-wireless-terminal/",
-      "source": "Hackaday",
-      "publishedAt": "2026-11-21T21:00:25+00:00",
-      "category": "Innovation",
-      "image": "https://hackaday.com/wp-content/uploads/2026/11/ESP32-TLL-CRT.jpg"
-    },
-    {
       "title": "Atomberg & Voltas Execute JV Agreement To Build AC Compressors",
       "description": "IPO-bound consumer appliances startup Atomberg has executed a joint venture (JV) agreement with Tata-owned Voltas to manufacture compressors for room…",
       "url": "https://inc42.com/buzz/atomberg-voltas-execute-jv-agreement-to-build-ac-compressors/",
@@ -1635,15 +1842,6 @@
       "source": "The Sunday Guardian",
       "publishedAt": "2026-11-21T20:25:56+00:00",
       "category": "Notifications",
-      "image": ""
-    },
-    {
-      "title": "The UN fails to agree on rules regulating ‘killer robots’",
-      "description": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations. According to NPR: Before the...",
-      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
-      "source": "The Verge",
-      "publishedAt": "2026-11-21T20:03:37+00:00",
-      "category": "Emerging Technology",
       "image": ""
     },
     {
@@ -1665,15 +1863,6 @@
       "image": ""
     },
     {
-      "title": "Can teams of AI agents recreate the chain reaction of human decisions?",
-      "description": "At the start of the COVID-19 pandemic in 2020, people hoarded toilet paper. Australians alone bought 39.7 million rolls from the Woolworths supermarket chain in a single week, according to the store's 2020 annual report. It's not the only time that fear of a shortage spiraled into one.",
-      "url": "https://techxplore.com/news/2026-11-teams-ai-agents-recreate-chain.html",
-      "source": "Phys.org Technology",
-      "publishedAt": "2026-11-21T19:00:06+00:00",
-      "category": "Emerging Technology",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/can-teams-of-ai-agents.jpg"
-    },
-    {
       "title": "Orchard Sprayers Market To 2035: Precision Application Demand Drives Growth - News and Statistics",
       "description": "",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZjBQWFIwc2VVREVqNFJuQzJYRzlueHNkeThJRFM5ck1vUTgwLXk5N1BKS0ZQOEh0d0RSTmlNZjRva1ZtOWNUTzBIRk51Z3JhNkxuQWhQb3JHN1lfUmFfMklpd2d0dWEwdFM3ME1qMjU5alRKQ1FMMGRWQXU2UnhJU1pGenptZkF1cFVLSDRlTzV1WUxHRXdfZHV1SmM5dDNLa0FvY2E1azZXX0lHX1FRN0Myaw?oc=5",
@@ -1690,15 +1879,6 @@
       "publishedAt": "2026-11-21T18:44:53+00:00",
       "category": "Industry & Business",
       "image": ""
-    },
-    {
-      "title": "Inference now drives two-thirds of AI workloads, changing where chips get deployed",
-      "description": "AI spending is shifting from giant training clusters toward smaller, quickly built sites, and modular data centers are becoming a natural home for inference workloads. Power, cooling and memory supply now shape where tokens get generated as much as raw chip performance does. Inference-first chipmakers want to capture that shift. Positron AI...",
-      "url": "https://siliconangle.com/2026/11/21/inference-two-thirds-ai-workloads-chip-deployment-positron-sc26/",
-      "source": "SiliconANGLE",
-      "publishedAt": "2026-11-21T18:28:26+00:00",
-      "category": "Emerging Technology",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Cameron-McCaskill-head-of-sales-and-business-development-of-Positron-AI-Inc.-SC26-2026-scaled.jpg"
     },
     {
       "title": "Stalled Withdrawals, Millions Stolen: Inside India’s Crypto Exchange Troubles",
@@ -1881,15 +2061,6 @@
       "image": ""
     },
     {
-      "title": "Who was buried in Westminster Abbey's Roman coffin? A 150-year mystery may be solved",
-      "description": "A mysterious skeleton discovered in a Roman sarcophagus at Westminster Abbey may finally be identified after more than 150 years. New dating evidence suggests the remains belonged to a high-ranking medieval abbot who was buried inside a centuries-old recycled Roman coffin.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261119194553.htm",
-      "source": "ScienceDaily",
-      "publishedAt": "2026-11-21T14:25:39+00:00",
-      "category": "Research & Discovery",
-      "image": ""
-    },
-    {
       "title": "DGGI Probes ₹1 Lakh Cr China-Linked Gaming Transactions",
       "description": "The Directorate General of GST Intelligence (DGGI) conducted searches across Vijayawada and Hyderabad’s Banjara Hills as part of an investigation…",
       "url": "https://inc42.com/buzz/dggi-probes-%e2%82%b91-lakh-cr-china-linked-gaming-transactions/",
@@ -1899,15 +2070,6 @@
       "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/09/ONline-Gaming-Regulation_ftr.jpg"
     },
     {
-      "title": "A 50-year-old theory about evolution may have been wrong all along",
-      "description": "A decades-old theory suggesting that evolution protects its most important genes from mutations has been dealt a major blow. An extensive new analysis of mutations in bacteria and yeast found no evidence that essential genes mutate less frequently than other genes. Researchers say earlier studies may have been misled by harmful mutations that...",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261119194538.htm",
-      "source": "ScienceDaily",
-      "publishedAt": "2026-11-21T14:06:15+00:00",
-      "category": "Research & Discovery",
-      "image": ""
-    },
-    {
       "title": "New-Age Tech Stocks Miss Market Rally This Week, Paytm Sheds 10.8%",
       "description": "New-age tech stocks largely missed the rally in Indian equities this week, with only 22 of the 69 stocks under…",
       "url": "https://inc42.com/buzz/new-age-tech-stocks-miss-market-rally-this-week-paytm-sheds-10-8/",
@@ -1915,33 +2077,6 @@
       "publishedAt": "2026-11-21T14:04:05+00:00",
       "category": "Industry & Business",
       "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Tech-Stocks_Nov-20-Ftr-100.jpg"
-    },
-    {
-      "title": "Adjustable Digital Thermometer Market To 2035: Premiumization and Smart Features Drive Growth - News and Statistics",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNjF1YlZKZ21JR2hHT09vamoxYXVBcHR0bTlDLWcwT1dET1J1ZFZaWEMycmdqb0toWjJuTUdLa1NqMllfWjYwYzVaR0RiTFVzQ1NGSy05ZzJQQ3ZIblBGMERpSTZtdDhIZUFUSVpxdUNFY1hZNzJsck11alFMY0NlQWlJQ1dYWDhDeW1nMDF2OGd4Qmt0N1ZNMmxMTWE0djBhMzF0TW1WQ0xCTkJTUWJ1NXBJZFptX0hDYm50QlVWdkRhNUxXMU5ucnB3cGx3RVVUYmY5OWxVTTZoUHVzZzE0Ny05c3FmdzJvX0xrd3lxZE1aYTFO?oc=5",
-      "source": "IndexBox",
-      "publishedAt": "2026-11-21T13:56:04+00:00",
-      "category": "Trends & Forecasts",
-      "image": ""
-    },
-    {
-      "title": "Even scientists can't agree on what science actually is",
-      "description": "Scientists cannot agree on what science actually is, and a new study finds their views are surprisingly more divided than those of the general public. The findings could help explain public frustration with scientific uncertainty and raise questions about how artificial intelligence might reshape future discoveries.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261119194541.htm",
-      "source": "ScienceDaily",
-      "publishedAt": "2026-11-21T13:55:11+00:00",
-      "category": "Research & Discovery",
-      "image": ""
-    },
-    {
-      "title": "Scientists say the human family tree may need a radical rewrite",
-      "description": "The human family tree may need a major overhaul. New research from Monash University challenges the traditional classification of our ancient ancestors, arguing that species such as Australopithecus and Paranthropus should be grouped within our own genus, Homo. As scientists uncover more fossils and analyze evolutionary relationships, the...",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261118074039.htm",
-      "source": "ScienceDaily",
-      "publishedAt": "2026-11-21T13:44:55+00:00",
-      "category": "Research & Discovery",
-      "image": ""
     },
     {
       "title": "IIT Delhi Alumnus’ Startup Sues Apple For ₹1,500 Cr Over NameDrop Patent Infringement",
@@ -1969,15 +2104,6 @@
       "publishedAt": "2026-11-21T13:01:58+00:00",
       "category": "Opportunities",
       "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/lakshya-sen-192346412-16x9.jpg?VersionId=93GgTsRI6uHZXENOuC3EvwVVnb3G6m1d"
-    },
-    {
-      "title": "Taming blue light: Researchers bring precision lasers onto a chip",
-      "description": "Blue lasers are already widely available. But making their light extremely stable while also changing its frequency at high speed is a much harder challenge, and one that has limited the development of compact, high-performance laser systems.",
-      "url": "https://techxplore.com/news/2026-11-blue-precision-lasers-chip.html",
-      "source": "Phys.org Technology",
-      "publishedAt": "2026-11-21T13:00:06+00:00",
-      "category": "Research & Discovery",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/taming-blue-light-rese.jpg"
     },
     {
       "title": "President Trump Taps Kirsten Davies as National Cyber Director",
@@ -2016,15 +2142,6 @@
       "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Sarvam-ftr-1.jpg"
     },
     {
-      "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
-      "description": "A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown. The same attack could be extended to reach the credentials Muse stores for the user's connected accounts. The work was a laboratory demonstration, not an attack on real...",
-      "url": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
-      "source": "The Hacker News",
-      "publishedAt": "2026-11-21T11:53:07+00:00",
-      "category": "Research & Discovery",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYiVrbfn3FWfI_uNyjj8q9SZ38d2mHKu2ehdtYYKPwyg-05yKJBYUAPEaVxJq5KDGwU11X2tmEKNUKPIHQY9s67e1K9w_8NRdEOxVCDJqqMbQ6F27kfOj3GKjcQ3-0WHFNg7uYT6QeIU90qX1YW_Zvyn7WhZwpV41i5Pj6watQsF7Ti8NN1GIQLxw-jPc/s1600/muse-ai.jpg"
-    },
-    {
       "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
       "description": "A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG. The GnuPG project warned yesterday that the flaw could be used to steal data from affected applications and has released fixed versions. The bug, tracked as CVE-2026-129975, affects all...",
       "url": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
@@ -2052,15 +2169,6 @@
       "image": ""
     },
     {
-      "title": "From screens in class to smart glasses, Norway rethinks new technologies",
-      "description": "Three years ago, a schoolteacher in Norway was reprimanded for putting his pupils' iPads aside to return to pen and paper. Now, the whole country is rethinking its approach to new technologies.",
-      "url": "https://phys.org/news/2026-11-screens-class-smart-glasses-norway.html",
-      "source": "Phys.org",
-      "publishedAt": "2026-11-21T10:20:16+00:00",
-      "category": "Research & Discovery",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/norway-had-been-pushin.jpg"
-    },
-    {
       "title": "Fi Money Manages To Cut FY26 Loss By 25%To ₹153.3 Cr, Revenue Sinks 21%",
       "description": "Following an extended period of turbulence, fintech startup Fi Money managed to narrow its consolidated net loss for the fiscal…",
       "url": "https://inc42.com/buzz/fi-money-manages-to-cut-fy26-loss-by-25to-%e2%82%b9153-3-cr-revenue-sinks-21/",
@@ -2068,15 +2176,6 @@
       "publishedAt": "2026-11-21T10:18:16+00:00",
       "category": "Industry & Business",
       "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Fi-Money-WTF-ftr.jpg"
-    },
-    {
-      "title": "Beverage Can Ends Market To 2035: Demand Accelerates on Sustainability and Lightweighting - News and Statistics",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPLUV1RlUwWVpDZXYwNHFjcGE3YnNhQVdQOEtaNU04ZFJycXBGSXVwdEFuRHdtUGtNQzc3NUNKZFJnV2Q3OUVyQXVlNS1uOTJRdENzclQyTlMwMGQtMXUzUFNHLVlBcEd5ZjcwSGFWOFVXeU5qREU2VzVRam93NG1XWEpDdExXZUotM0JJb2dCeVVXMk5CdGVkbEJocEtCVU5qcG1uWGJUcnlNdjUwWUFxX25Uakg1aFozYU93MDVCcmN4NVFIRlQwcVR0SEtpWW8?oc=5",
-      "source": "IndexBox",
-      "publishedAt": "2026-11-21T10:16:05+00:00",
-      "category": "Trends & Forecasts",
-      "image": ""
     },
     {
       "title": "Traya’s FY26 Revenue Jumps 73% YoY To ₹585 Cr, Loss Up 23%",
@@ -2112,15 +2211,6 @@
       "source": "BASENOR - Tesla Accessories",
       "publishedAt": "2026-11-21T10:05:35+00:00",
       "category": "Updates & Patches",
-      "image": ""
-    },
-    {
-      "title": "S&P 500 forecast for 2027: Wall Street expects a rebound after an 11.6% drop fueled by AI fears",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVUd5RzZ5ZVE5cnYtV3BVUEV5MkEtZExtelRVUUU2MFZBbHBSbmFieVlIM1NQRGh1N0dKWnJKSU9sUHI5VmxtbDVrQWhlZUlJY3ZoYTBzQ091TTk2U01yYnNWb05QaFpxaEdsLUV0bkVwa2F1OUNOQzdJN194ZE1CcUcybUFHbTFBNUJfVA?oc=5",
-      "source": "Beinsure",
-      "publishedAt": "2026-11-21T09:58:33+00:00",
-      "category": "Trends & Forecasts",
       "image": ""
     },
     {
@@ -2214,48 +2304,12 @@
       "image": ""
     },
     {
-      "title": "Microsoft (MSFT) Stock Price Prediction: Pullback tests support as analysts stay constructive",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNenFWRjVRM3ZMVGtUNDBtRW1xUGs2QzRlbDRsdGYyN2J0NFN2UmZuN0FSY090WTFLZEN6bXFLN0QtTkhJRHpocW9GYXVaSmxMSjM3ZHgyNzRQcS1pcEtOZ1QtWDZicElmOWI1Z2twVzd1bGNiZFRlQm9XeHdDOXAxRzlJeXo0ZzdzR3F0c01WUzRBcjJlQWtDUDRoT2NLajdT?oc=5",
-      "source": "Blockchain News",
-      "publishedAt": "2026-11-21T07:18:00+00:00",
-      "category": "Trends & Forecasts",
-      "image": ""
-    },
-    {
-      "title": "India Minicorn Tracker: Mapping The Next Wave Of High-Growth Startups",
-      "description": "A decade ago, India’s startup landscape barely registered on the global radar. Today, it stands as the world’s third-largest startup…",
-      "url": "https://inc42.com/features/india-minicorn-tracker-mapping-the-next-wave-of-high-growth-startups/",
-      "source": "Inc42",
-      "publishedAt": "2026-11-21T07:00:36+00:00",
-      "category": "Industry & Business",
-      "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/10/Minicorn-Tracker_Nov-2026_Ftr.jpg"
-    },
-    {
       "title": "Govt Warns Hackers Are Exploiting Payment And Business Systems: Is Your Money At Risk?",
       "description": "",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTUtpMHhtNkY1a0NoTHNfOE03V2VGczZfZzlLREpBQ2lrX3hYa3A2MjN5czFnQTNqa0thTzk0YjV2NjA3Y1B5SW1XTjh3cU1OYlBvVzNVVlJLTTZLckhDSGQ3cnJlTnE0bjBqZkgyM09xNjZ3NVY3cEtQVWIwYTRJTVo0VE1WRFZzcW1ubWRjSDNaSG11b2hJdDNfRXRscW96N19lVkNMTHhJNTdtWHRPV19LU3p4bnlOYlN0OVJMNzYzLVNOQmhRYmdnSlBPZ3hBZkZaUDdEQTgwak82dVBITXZ1X0hLY0xvd3fSAeoBQVVfeXFMTk1LaTB4bTZGNWtDaExzXzhNN1dlRnM2X2c5S0RKQUNpa194WGtwNjIzeXMxZ0EzamtLYU85NGI1djYwN2NQeUltV044d3FNTmJQb1czVVZSS002S3JIQ0hkN3JyZU5xNG4wamZIMjNPcTY2dzVWN3BLUFViMGE0SU1aNFRNVkRWc3Ftbm1kY0gzWkhtdW9oSXQzX0V0bHFvejdfZVZDTEx4STU3bVh0T1dfS1N6eG55TmJTdDlSTDc2My1TTkJoUWJnZ0pQT2d4QWZGWlA3REE4MGpPNnVQSE12dV9IS2NMb3d3?oc=5",
       "source": "Times Now",
       "publishedAt": "2026-11-21T06:52:44+00:00",
       "category": "Threats",
-      "image": ""
-    },
-    {
-      "title": "Pune startup develops atomic clock prototype amid growing export curbs on critical technologies",
-      "description": "Atomic clocks are critical to satellite navigation, telecommunications, space missions and strategic systems, where highly precise and stable timekeeping is essential.",
-      "url": "https://www.thehindu.com/sci-tech/technology/pune-startup-develops-atomic-clock-prototype-amid-growing-export-curbs-on-critical-technologies/article71727456.ece",
-      "source": "The Hindu Tech",
-      "publishedAt": "2026-11-21T06:33:51+00:00",
-      "category": "Industry & Business",
-      "image": "https://th-i.thgim.com/public/incoming/mac8is/article71727520.ece/alternates/LANDSCAPE_1200/1732678425652.jpg"
-    },
-    {
-      "title": "GLONASS Receivers Market in China: Size, Trends and Forecast to 2035",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWUZtdEp3QjlsRjFzOEVXeVBLTEg1NERjRjdRRmY4VWxiOTBkX3A1d0J5UHR6S3hfbjF5NF9ULWVtY0Q5cU4xRkZaWlRxNWNXcTZXWFNCYzdVaUNqLVE5bWFuZGdTUVJlNFNDRnFsSDdNRG5pblMwWGVyWmNzNWQxMTdRLS1FWE9vMDNlZDVOZlNncXlQN19ldEV1TU9TeDNiRnlXNFJOYw?oc=5",
-      "source": "IndexBox",
-      "publishedAt": "2026-11-21T06:28:44+00:00",
-      "category": "Trends & Forecasts",
       "image": ""
     },
     {
@@ -2313,33 +2367,6 @@
       "image": ""
     },
     {
-      "title": "Databricks in early talks to raise funds at $225 billion valuation: WSJ",
-      "description": "Databricks is in early talks to raise several billion dollars in a new round that would value the data and artificial intelligence software company at about $225 billion, the Wall Street Journal reported on Friday, citing people familiar with the matter.",
-      "url": "https://economictimes.indiatimes.com/tech/startups/databricks-in-early-talks-to-raise-funds-at-225-billion-valuation-wsj/articleshow/136044631.cms",
-      "source": "Economic Times Tech",
-      "publishedAt": "2026-11-21T04:17:31+00:00",
-      "category": "Industry & Business",
-      "image": "https://img.etimg.com/photo/msid-136044631,imgsize-1048881.cms"
-    },
-    {
-      "title": "Startup sues Apple in India over tap-to-share contacts feature",
-      "description": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.",
-      "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-21T04:00:00+00:00",
-      "category": "Industry & Business",
-      "image": ""
-    },
-    {
-      "title": "Oracle says OpenAI infrastructure deal is fully funded after final capital raise",
-      "description": "Oracle said on Friday that its infrastructure contract with OpenAI is fully funded following a final capital raise earlier this month. Shares of Oracle rose as much as 3.3% in after",
-      "url": "https://economictimes.indiatimes.com/tech/technology/oracle-says-openai-infrastructure-deal-is-fully-funded-after-final-capital-raise/articleshow/136044027.cms",
-      "source": "Economic Times Tech",
-      "publishedAt": "2026-11-21T03:40:45+00:00",
-      "category": "Industry & Business",
-      "image": "https://img.etimg.com/photo/msid-136044027,imgsize-1772752.cms"
-    },
-    {
       "title": "MediaNama This Week: Top 10 Stories (14 November – 20 November 2026)",
       "description": "The ten most-read MediaNama stories this week. The full curated edition lands in newsletter inboxes on Monday morning. AI-assisted hackers… The post MediaNama This Week: Top 10 Stories (14 November – 20 November 2026) appeared first on MEDIANAMA .",
       "url": "https://www.medianama.com/2026/11/223-medianama-this-week-top-10-stories-14-november-20-november-2026/",
@@ -2382,15 +2409,6 @@
       "source": "Reuters",
       "publishedAt": "2026-11-20T22:36:20+00:00",
       "category": "Alert",
-      "image": ""
-    },
-    {
-      "title": "Micron Stock Price Forecast. Should You Buy MU?",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1jdW5qQUNSSWFaTk1lSGxrMWZzUmNlaEVkbWlYY0VFRmxTeVJOaDZJYlFBN2J6Si14SHdSSGhhNzBjWkZfTGc?oc=5",
-      "source": "StockInvest.us",
-      "publishedAt": "2026-11-20T22:17:24+00:00",
-      "category": "Trends & Forecasts",
       "image": ""
     },
     {
@@ -2772,6 +2790,15 @@
       "image": ""
     },
     {
+      "title": "Samsung releases first update for Galaxy Tab S12 series",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ3BUaEs3aHhtVTBUMHBVRS1KUlNwN2tXQ0ViVlZSTEpZYTB6eDdWWVZpNkE0cUFCQjZfYzV2UWJQYkZURFJ2WkNFbVZ6WFExNEI5ZWNlRW5yVnY5MXBZRjNwVkJyb0VsQ3huNjhnb0tsTFRNZ2lZenNfc2J6V241b2pwNGJoNmU3Tllv?oc=5",
+      "source": "SamMobile",
+      "publishedAt": "2026-11-20T13:44:00+00:00",
+      "category": "Updates & Patches",
+      "image": ""
+    },
+    {
       "title": "N-able says recent security breach led to major service outage",
       "description": "N-able says attackers who breached one of its servers have caused a major outage affecting Mail Assure and SpamExperts Hosted Cloud services worldwide. [...]",
       "url": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/",
@@ -2850,24 +2877,6 @@
       "source": "MediaNama",
       "publishedAt": "2026-11-20T11:19:38+00:00",
       "category": "Policy & Regulation",
-      "image": ""
-    },
-    {
-      "title": "Windows 11 passkey bug cries failure after successful sign-in",
-      "description": "Optional update fixes misleading Android error for versions 25H2 and 26H2",
-      "url": "https://www.theregister.com/security/2026/11/20/windows-11-passkey-bug-cries-failure-after-successful-sign-in/5311263",
-      "source": "The Register",
-      "publishedAt": "2026-11-20T11:09:44+00:00",
-      "category": "Updates & Patches",
-      "image": "https://image.theregister.com/?imageId=5289791&width=800"
-    },
-    {
-      "title": "Samsung updates Galaxy A56, Galaxy A26 with November 2026 security patch",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTjhERzhnNlhCWGJ3SDlTdldQSjFnNXNkZm9OYmhsU0QxYUhNN2d5Q0lPOXJPTnRVMXpmVi1ZejkyN29vaTAzY1AyMzkwck9Bbkx4S1pXX3paRGdNMmlUZC1LVTJnUlBHYVJ5S2diX0puRFpoM29hb3FIS3RSeGZtUkZOUS1QMGdyYlJ3dUd3WXA1MVBhN0dSQVVDSEo0M2lxUHFTUXdB?oc=5",
-      "source": "SamMobile",
-      "publishedAt": "2026-11-20T11:03:00+00:00",
-      "category": "Updates & Patches",
       "image": ""
     },
     {
@@ -2997,6 +3006,15 @@
       "image": ""
     },
     {
+      "title": "CVE-2026-129448: Critical Apache Roller RCE Flaw Exploited in the Wild",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc25FajRmckYyTzYzX2ZmVXBKRVRRc3RSLW9SdURSTnowYVRCSUU5WFRYTG1tS3dIZGdZZVpTNDU1d0U5V1NKUlk0N1pWTVVJaGF1MVBhWnREZG5jZk1zYnEtdFBLTVIweFJ3Wkx2c1R1RTZsT3ktM25TUU55aWtmbnJjSExRejBKSF9lZ1VZQ0M0XzNNRkdDZ0NCd0I?oc=5",
+      "source": "SOC Prime",
+      "publishedAt": "2026-11-19T11:59:55+00:00",
+      "category": "Alert",
+      "image": ""
+    },
+    {
       "title": "Cert-In flags vulnerabilities in Google Chrome, warns users of cyber risks",
       "description": "",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYk5SNUticXFVdUtEUVlmZVA1RUdxUlFiSUNxTUpQZjdnMnBFUzZ5ZERXd2pXZWx4MF80bk5BMUF1cy1lNGVvRnlzWG1YQ0YzQUV6VWkwTVZ4MUJBNGtmYjFpcU9LU3YwcTRwd090bVFVcXJpUTRXRFRac0QtbGZQbmxzdE1oSDhDNk9hX3NNMkp3dWxWUEcyQ0FMNDJUYXZ0U3djTG9yN25kQkFDSEJ1RmNiSFE0TVk1bUh6MGlIM0RTdzdXRWp2RUtXZFdMMDN6dEVYa3J3S1g5eTNNS2xlaW1kLU9YUU3SAecBQVVfeXFMUGJOUjVLYnFxVXVLRFFZZmVQNUVHcVJRYklDcU1KUGY3ZzJwRVM2eWREV3dqV2VseDBfNG5OQTFBdXMtZTRlb0Z5c1htWENGM0FFelVpME1WeDFCQTRrZmIxaXFPS1N2MHE0cHdPdG1RVXFyaVE0V0RUWnNELWxmUG5sc3RNaEg4QzZPYV9zTTJKd3VsVlBHMkNBTDQyVGF2dFN3Y0xvcjduZEJBQ0hCdUZjYkhRNE1ZNW1IejBpSDNEU3c3V0VqdkVLV2RXTDAzenRFWGtyd0tYOXkzTUtsZWltZC1PWFFN?oc=5",
@@ -3065,15 +3083,6 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNnliSy1sd1lCWG8zbjF1aEVJVWxZZVJWQUVYb2F0TzNoYk44VEcwVXVKS1d1cUV0QnBoWnRzNmM0NExJT2J1alVOamllV2tnLWo1cHlXbHJhVkZrTFpyUXZWamVIWEtTS09rSjNrRm1OeUJQTHRoSmRGQXpyMGhEUGNkeWVZRWUtUU5lTjVNenRHcVJxV0FOUVVDbTI1Tk5oQ1EycHdaLUIwZF9Ka2JhY3k5VlBRbW90ZGY1dC0xN0NyM0lkcFhySA?oc=5",
       "source": "WCTV",
       "publishedAt": "2026-11-17T20:39:00+00:00",
-      "category": "Alert",
-      "image": ""
-    },
-    {
-      "title": "Emergency Broadcast System Test Still On For Today, Homeland Security Says",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZHVDLUhZdlVRTG1ORmlaMk04TWw0NlNJeEJmNE5naGxpaktidEpGZzczdkZ4cDZlSzBwWWVOYmt5dHFGajV3UG5nNU00bnBRX2JPWEdaT2o3QmpwdUZBcTR2eHJva1dIZUR3MmNGQUV6S0MzSzVoZmxRTVg1R2NoOEY5SzNWcThqUzJMYmt5TWdxYjBLb2c?oc=5",
-      "source": "Yahoo",
-      "publishedAt": "2026-11-17T19:07:00+00:00",
       "category": "Alert",
       "image": ""
     },
@@ -3156,15 +3165,6 @@
       "source": "CISA",
       "publishedAt": "2026-11-17T12:00:00+00:00",
       "category": "Notifications",
-      "image": ""
-    },
-    {
-      "title": "Unsupported Windows and actively exploited vulnerabilities in small business IT",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUHVYbDJjTlRKRWRlVjg1d1BIRTVfX3Frc05ZY1V5YXVqRk9WdjRObGlNRkl4YzVfVW4yaDJwSGNuLWNsemhmN1I2b3RaLUNPMkNsczluLXJkMFBPbzdvZVlLTnFRdmFDWE4xVU45eU1makJxOXZpZmx4V1ZrSHExNlVkWG95dGo2TVNOWHZfdXhPdC11Y0xsT2VvN1hZUVc0UTlMUlhyVVN3eEZhZ0tYQTZZOHA?oc=5",
-      "source": "Acronis",
-      "publishedAt": "2026-11-17T08:00:00+00:00",
-      "category": "Alert",
       "image": ""
     },
     {
