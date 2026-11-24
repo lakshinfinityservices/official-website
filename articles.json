@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-23T19:29:58.664344+00:00",
+  "updatedAt": "2026-11-24T01:47:40.237034+00:00",
   "daysKept": 15,
-  "articleCount": 358,
+  "articleCount": 359,
   "categoryCounts": {
     "Innovation": 30,
     "Alert": 30,
     "News": 30,
     "Threats": 30,
-    "Notifications": 28,
+    "Notifications": 29,
     "Research & Discovery": 30,
     "Emerging Technology": 30,
     "Trends & Forecasts": 30,
@@ -17,6 +17,1032 @@
     "Opportunities": 30
   },
   "articles": [
+    {
+      "title": "At both poles, warm water is eating away sea ice from below",
+      "description": "A weakened cold layer has put Antarctic sea ice on the same downward path as the Arctic’s",
+      "url": "https://www.science.org/content/article/both-poles-warm-water-eating-away-sea-ice-below",
+      "source": "Science",
+      "publishedAt": "2026-11-24T01:47:40.200644+00:00",
+      "category": "Research & Discovery",
+      "image": ""
+    },
+    {
+      "title": "AI may have solved math’s greatest mystery. Can humans understand the answer?",
+      "description": "Anthropic researcher says Claude cracked 166-year-old Riemann hypothesis, but sprawling proof could take years to decipher",
+      "url": "https://www.science.org/content/article/ai-may-have-solved-math-s-greatest-mystery-can-humans-understand-answer",
+      "source": "Science",
+      "publishedAt": "2026-11-24T01:47:40.200644+00:00",
+      "category": "Emerging Technology",
+      "image": ""
+    },
+    {
+      "title": "Exclusive: I got to eavesdrop on AI agents doing science. It was eye opening",
+      "description": "936 agents exchanged thousands of messages, each publishing end-to-end research on their own preprint server. But was it any good?",
+      "url": "https://www.science.org/content/article/exclusive-i-got-eavesdrop-ai-agents-doing-science-it-was-eye-opening",
+      "source": "Science",
+      "publishedAt": "2026-11-24T01:47:40.200644+00:00",
+      "category": "Emerging Technology",
+      "image": ""
+    },
+    {
+      "title": "Foundational Research in Robotics (FRR)",
+      "description": "Available Formats: HTML: https://www.nsf.gov/funding/opportunities/frr-foundational-research-robotics/nsf27-501/solicitation Document Number: NSF 27-501 This is an NSF Program Announcements and Information item.",
+      "url": "https://www.nsf.gov/funding/opportunities/frr-foundational-research-robotics/nsf27-501/solicitation",
+      "source": "NSF Funding",
+      "publishedAt": "2026-11-24T01:47:40.200644+00:00",
+      "category": "Emerging Technology",
+      "image": ""
+    },
+    {
+      "title": "MPS Materials Research Programs (MPS Materials)",
+      "description": "Available Formats: HTML: https://www.nsf.gov/funding/opportunities/mps-materials-mps-materials-research-programs/nsf26-521/solicitation Document Number: NSF 26-521 This is an NSF Program Announcements and Information item.",
+      "url": "https://www.nsf.gov/funding/opportunities/mps-materials-mps-materials-research-programs/nsf26-521/solicitation",
+      "source": "NSF Funding",
+      "publishedAt": "2026-11-24T01:47:40.200644+00:00",
+      "category": "Opportunities",
+      "image": ""
+    },
+    {
+      "title": "MPS Mathematical Sciences Research Programs (MPS MathSci)",
+      "description": "Available Formats: HTML: https://www.nsf.gov/funding/opportunities/mps-mathsci-mps-mathematical-sciences-research-programs/nsf26-520/solicitation Document Number: NSF 26-520 This is an NSF Program Announcements and Information item.",
+      "url": "https://www.nsf.gov/funding/opportunities/mps-mathsci-mps-mathematical-sciences-research-programs/nsf26-520/solicitation",
+      "source": "NSF Funding",
+      "publishedAt": "2026-11-24T01:47:40.200644+00:00",
+      "category": "Opportunities",
+      "image": ""
+    },
+    {
+      "title": "MPS Chemistry Research Programs (MPS Chem)",
+      "description": "Available Formats: HTML: https://www.nsf.gov/funding/opportunities/mps-chem-mps-chemistry-research-programs/nsf26-519/solicitation Document Number: NSF 26-519 This is an NSF Program Announcements and Information item.",
+      "url": "https://www.nsf.gov/funding/opportunities/mps-chem-mps-chemistry-research-programs/nsf26-519/solicitation",
+      "source": "NSF Funding",
+      "publishedAt": "2026-11-24T01:47:40.200644+00:00",
+      "category": "Opportunities",
+      "image": ""
+    },
+    {
+      "title": "Engineering (ENG): Chemical, Bioengineering, Energy, and Transport Systems (CBET)",
+      "description": "Available Formats: HTML: https://www.nsf.gov/funding/opportunities/engineering-eng-chemical-bioengineering-energy-transport/nsf26-518/solicitation Document Number: NSF 26-518 This is an NSF Program Announcements and Information item.",
+      "url": "https://www.nsf.gov/funding/opportunities/engineering-eng-chemical-bioengineering-energy-transport/nsf26-518/solicitation",
+      "source": "NSF Funding",
+      "publishedAt": "2026-11-24T01:47:40.200644+00:00",
+      "category": "Opportunities",
+      "image": ""
+    },
+    {
+      "title": "Core Research in Biological Sciences (BIO Core)",
+      "description": "Available Formats: HTML: https://www.nsf.gov/funding/opportunities/bio-core-core-research-biological-sciences/nsf26-517/solicitation Document Number: NSF 26-517 This is an NSF Program Announcements and Information item.",
+      "url": "https://www.nsf.gov/funding/opportunities/bio-core-core-research-biological-sciences/nsf26-517/solicitation",
+      "source": "NSF Funding",
+      "publishedAt": "2026-11-24T01:47:40.200644+00:00",
+      "category": "Opportunities",
+      "image": ""
+    },
+    {
+      "title": "Geosciences Core Research: Atmospheric, Geospace, Earth and Ocean Sciences (GEO Core)",
+      "description": "Available Formats: HTML: https://www.nsf.gov/funding/opportunities/geo-core-geosciences-core-research-atmospheric-geospace-earth-ocean/nsf26-516/solicitation Document Number: NSF 26-516 This is an NSF Program Announcements and Information item.",
+      "url": "https://www.nsf.gov/funding/opportunities/geo-core-geosciences-core-research-atmospheric-geospace-earth-ocean/nsf26-516/solicitation",
+      "source": "NSF Funding",
+      "publishedAt": "2026-11-24T01:47:40.200644+00:00",
+      "category": "Opportunities",
+      "image": ""
+    },
+    {
+      "title": "Amazon acquires key assets of AI startup Decart for reported $7.5B",
+      "description": "Amazon.com Inc. today announced plans to hire the technical staff of startup Decart.AI Inc. and acquire its core technology. The company didn’t disclose the terms of the deal. However, sources told Bloomberg that Amazon is paying about $7.5 billion. That’s nearly twice the valuation Decart reportedly received after its most recent funding round...",
+      "url": "https://siliconangle.com/2026/11/23/amazon-acquires-key-assets-of-ai-startup-decart-for-reported-7-5b/",
+      "source": "SiliconANGLE",
+      "publishedAt": "2026-11-24T01:40:22+00:00",
+      "category": "Industry & Business",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Decart.png"
+    },
+    {
+      "title": "Inside Nvidia, Not Everyone Is Celebrating Jensen Huang’s Return",
+      "description": "Some saw Huang’s resignation as an opportunity for culture change at the chip giant. “If Jensen comes back, I’m not doing any HR trainings ever again,” one employee said.",
+      "url": "https://www.wired.com/story/inside-nvidia-not-everyone-is-celebrating-jensen-huangs-return/",
+      "source": "WIRED",
+      "publishedAt": "2026-11-24T01:35:38+00:00",
+      "category": "News",
+      "image": "https://media.wired.com/photos/6b0489fe20864bfc4bb456b5/master/pass/Jensen-Huang-Tells-Nvidia-Employees-Business-2300373740.jpg"
+    },
+    {
+      "title": "Anthropic’s Claude Ship automates the final stage of the software development pipeline",
+      "description": "Anthropic PBC isn’t satisfied with having Claude just write new software. With a new update today, Claude is now able to tell developers when the code it has generated is ready to ship into production environments. Earlier today, the company announced the launch of Claude Ship, which is a new suite of artificial intelligence agents […] The post...",
+      "url": "https://siliconangle.com/2026/11/23/anthropics-claude-ship-automates-the-final-stage-of-the-software-development-pipeline/",
+      "source": "SiliconANGLE",
+      "publishedAt": "2026-11-24T01:30:17+00:00",
+      "category": "Industry & Business",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Screenshot-from-2026-11-24-08-25-36.png"
+    },
+    {
+      "title": "The three DISM commands you should know to fix your Windows system images",
+      "description": "Check and repair damaged system files with these DISM commands.",
+      "url": "https://www.engadget.com/2320620/dism-commands-for-windows-system-image-repair/",
+      "source": "Engadget",
+      "publishedAt": "2026-11-24T01:30:00+00:00",
+      "category": "News",
+      "image": "https://www.engadget.com/img/gallery/the-three-dism-commands-you-should-know-to-fix-your-windows-system-images/l-intro-1795019660.jpg"
+    },
+    {
+      "title": "Anthropic says Claude proved VP ≠ VNP, tackling Valiant’s 47-year-old conjecture",
+      "description": "Anthropic has published a 70-page mathematical paper credited entirely to Claude, claiming to settle a...",
+      "url": "https://interestingengineering.com/ai-robotics/claude-proves-vp-not-vnp-valiant-conjecture",
+      "source": "Interesting Engineering",
+      "publishedAt": "2026-11-24T01:27:41+00:00",
+      "category": "Innovation",
+      "image": ""
+    },
+    {
+      "title": "Do a violin's physical characteristics really improve with regular playing?",
+      "description": "There is a widespread notion among violinists: A violin \"opens up\" as it is played, which is to say its sound gradually improves. However, an experiment conducted by a team led by a CNRS researcher has challenged this belief in a study published in Acta Acustica. After six months, the professional soloist in charge of playing the violin judged...",
+      "url": "https://phys.org/news/2026-11-violin-physical-characteristics-regular-playing.html",
+      "source": "Phys.org",
+      "publishedAt": "2026-11-24T01:20:01+00:00",
+      "category": "Research & Discovery",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/violinist.jpg"
+    },
+    {
+      "title": "ICP DAS Turns Sustainability Commitments into Action: Advancing Energy Efficiency, Green Innovation and Responsible Business",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpLUpQWnhDQ2d3VHBUWHJXTHcxUExPbXVkVlJBZkU1RjhuNk5veW8zSTAzWV9mN3M1Sm9WNHVZZ0RkS0syVThvNnBZYndpMENRaGVOa20wRW0?oc=5",
+      "source": "Taiwan News",
+      "publishedAt": "2026-11-24T01:15:00+00:00",
+      "category": "Innovation",
+      "image": ""
+    },
+    {
+      "title": "US fires full 24-round load in third successful test of reusable rocket system",
+      "description": "Lockheed Martin has put a new rocket training system through its third successful flight test,...",
+      "url": "https://interestingengineering.com/military/lockheed-martin-jr3-third-successful-rocket-test",
+      "source": "Interesting Engineering",
+      "publishedAt": "2026-11-24T01:12:54+00:00",
+      "category": "Emerging Technology",
+      "image": ""
+    },
+    {
+      "title": "OpenAI’s Codex builds security shields to block attacks on running Linux systems",
+      "description": "OpenAI and Cisco have launched an open-source security runtime that can protect running Linux systems...",
+      "url": "https://interestingengineering.com/ai-robotics/openai-cisco-shirudo-linux-security-runtime",
+      "source": "Interesting Engineering",
+      "publishedAt": "2026-11-24T01:05:19+00:00",
+      "category": "Innovation",
+      "image": ""
+    },
+    {
+      "title": "250,000-page Riemann Hypothesis proof ‘was a joke,’ Anthropic mathematician says",
+      "description": "Levent Alpöge, the Anthropic mathematician who claimed to have proved the Riemann Hypothesis with Claude,...",
+      "url": "https://interestingengineering.com/ai-robotics/anthropic-mathematician-riemann-proof-joke",
+      "source": "Interesting Engineering",
+      "publishedAt": "2026-11-24T00:48:14+00:00",
+      "category": "Innovation",
+      "image": ""
+    },
+    {
+      "title": "The biggest downsides to using Apple's Magic Mouse",
+      "description": "Mac users have their reasons for ditching Apple's Magic Mouse despite its slick touch gestures. Knowing them can help you decide if it suits your desk.",
+      "url": "https://www.engadget.com/2320296/apple-magic-mouse-biggest-downsides/",
+      "source": "Engadget",
+      "publishedAt": "2026-11-24T00:30:00+00:00",
+      "category": "News",
+      "image": "https://www.engadget.com/img/gallery/the-biggest-downsides-to-using-apples-magic-mouse/l-intro-1794594332.jpg"
+    },
+    {
+      "title": "Anthropic says Claude solved an age-old math problem, but the written proof is 250,000 pages of slop",
+      "description": "If the AI can't explain what it's proven, are we actually any closer to understanding?",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/24/anthropic-says-claude-solved-an-age-old-math-problem-but-the-written-proof-is-250000-pages-of-slop/5311775",
+      "source": "The Register",
+      "publishedAt": "2026-11-24T00:18:17+00:00",
+      "category": "News",
+      "image": "https://image.theregister.com/?imageId=5264648&width=800"
+    },
+    {
+      "title": "AMD Stock Forecast for 2026, 2027, 2028–2030 and Beyond",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOHJoMzFPekd2UWJ5dWt1TVl5RU9DQkRZdm9FZnlvdWxnVVVHVzJNbWx6eUwtcnROSXl2MHZCdDVuUXdjbDlqZmF6SGpGc2Exck9keE5wTHAxSkN0SzVEdFBMekdFaEFyM050bGdFaGtMQ19BZ0FCT0E3VkJDYUZjLWF0UUU?oc=5",
+      "source": "LiteFinance",
+      "publishedAt": "2026-11-24T00:09:28+00:00",
+      "category": "Trends & Forecasts",
+      "image": ""
+    },
+    {
+      "title": "Google alternative Kagi launches an email service",
+      "description": "Kagi, which already offers a paid alternative to Google Search and its own Orion browser as a rival to Chrome, is taking on another Google service: Gmail. Today, Kagi announced a public beta of Kagi Mail, a new email service that has \"no surveillance, no ads, open standards, and no lock-in.\" With Kagi Mail, you […]",
+      "url": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
+      "source": "The Verge",
+      "publishedAt": "2026-11-24T00:02:52+00:00",
+      "category": "News",
+      "image": ""
+    },
+    {
+      "title": "That Java Phone Can Still Go Online",
+      "description": "The first generation of internet-connected mobile phones weren’t smartphones; instead, they were so-called feature phones, somewhere between a basic phone-only device and the type of phone we know today. They …read more",
+      "url": "https://hackaday.com/2026/11/23/that-java-phone-can-still-go-online/",
+      "source": "Hackaday",
+      "publishedAt": "2026-11-24T00:00:34+00:00",
+      "category": "Innovation",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/java-phone-featured.jpg"
+    },
+    {
+      "title": "Commons reasons your Android phone's icons won't move and how to fix it",
+      "description": "It's most likely your home screen settings.",
+      "url": "https://www.engadget.com/2320294/reasons-android-phone-icons-wont-move-fix/",
+      "source": "Engadget",
+      "publishedAt": "2026-11-24T00:00:00+00:00",
+      "category": "News",
+      "image": "https://www.engadget.com/img/gallery/commons-reasons-your-android-phones-icons-wont-move-and-how-to-fix-it/l-intro-1794580701.jpg"
+    },
+    {
+      "title": "AI agent provider Sierra closes $1.75B investment amid rapid revenue growth",
+      "description": "Six months after its last funding round, artificial intelligence startup Sierra Technologies Inc. today announced that it has closed a $1.75 billion late-stage investment. Greenoaks and Lightspeed led the Series F deal. They were joined by a group of returning backers that included Alphabet Inc.’s GV fund. Sierra sells a set of cloud services...",
+      "url": "https://siliconangle.com/2026/11/23/ai-agent-provider-sierra-closes-1-75b-investment-amid-rapid-revenue-growth/",
+      "source": "SiliconANGLE",
+      "publishedAt": "2026-11-23T23:49:50+00:00",
+      "category": "Industry & Business",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Sierra.png"
+    },
+    {
+      "title": "How to Build an Agricultural Innovation Proposal Around the Planting Season",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPemplX2hSWEd0SXZyb1J3OEVBRkFxeWlXb0JqUk01Qnk3XzdQdUhzNjZWY1J2Q25QS1lMZEFTV1R1cE5LampfWm5Ga3o1OTN3Zi1nQVVKa2h1VGQ3Z2sxT2x2dzRrYTVjWUU2UFlaR1k4ZVRvcklIMVR1VU5HOGs3X2VFaU5zU0QycnNia3JaVUNidGhISUNISWJ0R3NXemktaTlGbFhKOGFxbDVKeDNwV0Zia0tGUjJKUzBGeGpVRjFfU25EWlpvWnJSNTRpZnhyMUdWNkNZZU1PQlnSAeABQVVfeXFMTU84S3JPb2JBc2ZmblVnNGRQcUxLYWtkRFFMZEVUNXhOTmR6OG9ERHNYM3pGSXhEaEhMa3NiSnhQQWdyM0QzcTlCWDJBZW01QzdtTVZsU0hxbDBQdmZzVUxUWXV4NWtJOS1KVVRHMVNhMVVKNTdrRXZDQ2RlazM0ZzAxMmNDanQzbjJCeFROb1pZLU10cjh3RnhSVHp1ODNibmp6ak1zSktOc2NfTDNRaHp0NFBqbE1wVG5nWVVZNVVzNEIwMTF5bHpVU21xaFJxZV9RWmEwZ2RuczdvS2NQNUE?oc=5",
+      "source": "fundsforNGOs - Grants and Resources for Sustainability",
+      "publishedAt": "2026-11-23T23:48:53+00:00",
+      "category": "Innovation",
+      "image": ""
+    },
+    {
+      "title": "Consumers, oblivious of being targeted, find online ads helpful",
+      "description": "Most online shoppers know that ads strategically follow them across sites, a mechanism known as \"ad retargeting.\" A new study led by Penn State researchers found that consumers find these targeted ads helpful, but explaining why they are seeing an ad can backfire by increasing concerns about being watched.",
+      "url": "https://phys.org/news/2026-11-consumers-oblivious-online-ads.html",
+      "source": "Phys.org",
+      "publishedAt": "2026-11-23T23:40:01+00:00",
+      "category": "Research & Discovery",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/consumers-oblivious-of.jpg"
+    },
+    {
+      "title": "Silicone Coatings Market Forecast to 2035: Construction and Renewable Energy Demand Drive Expansion",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNT1NFc1Y4M094MUdzZ0ZMRlgtaUEydG9pcWNUYXVqNmJ6aUJBNXJGczFQcDBUVHF5aGphWC10a2FaWUI0VEQxekR0Q3JkaEZjQmJPb2pKd0tWbUhVV2FFTkI2NjNaQ01LVkJoVE1KbnBheTR1eW8zbWsyVFROQXBhWDdjamdZM1pCWXNpeG84T2hGRGZFcnpiVDYyeGFRNWdvZWVzRnlUY2JkTE9pNlRnSEdzb29vZm9CMGQzZ1hDbnJJampITG5n?oc=5",
+      "source": "IndexBox",
+      "publishedAt": "2026-11-23T23:36:04+00:00",
+      "category": "Trends & Forecasts",
+      "image": ""
+    },
+    {
+      "title": "Gukesh's rocky reign meets Sindarov's remarkable rise in world title clash",
+      "description": "Gukesh's rocky reign meets Sindarov's remarkable rise in world title clash",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/gukesh-vs-sindarov-world-chess-championship-geneva-preview-livestreaming-3044982-2026-11-24?utm_source=rss",
+      "source": "India Today Technology",
+      "publishedAt": "2026-11-23T23:30:20+00:00",
+      "category": "News",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/d-gukesh-vs-javokhir-sindarov-232236645-16x9_0.jpg?VersionId=bet0ar2KuJEnIXGd6OnBe8mOsvlXmJtv"
+    },
+    {
+      "title": "What you can do with your old, discontinued Mac Pro",
+      "description": "Apple is discontinuing Mac Pro, but there are several ways you can still get use out of the computer, even without Apple support.",
+      "url": "https://www.engadget.com/2320292/what-do-with-old-discontinued-mac-pro/",
+      "source": "Engadget",
+      "publishedAt": "2026-11-23T23:30:00+00:00",
+      "category": "News",
+      "image": "https://www.engadget.com/img/gallery/what-you-can-do-with-your-old-discontinued-mac-pro/l-intro-1794837278.jpg"
+    },
+    {
+      "title": "The hacker behind early GTA VI leaks has been sentenced — and released",
+      "description": "Arion Kurtaj, who pleaded guilty last week to hacking Grand Theft Auto VI developer Rockstar Games and other companies, including Uber and Revolut, was sentenced to seven years in prison but released on license, the BBC reports. After hacking Rockstar, Kurtaj leaked 90 videos of GTA VI in 2022, years before the game's public release […]",
+      "url": "https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released",
+      "source": "The Verge",
+      "publishedAt": "2026-11-23T23:25:01+00:00",
+      "category": "Threats",
+      "image": ""
+    },
+    {
+      "title": "HPE’s stock slides despite record revenue growth and upbeat forecast",
+      "description": "Server maker Hewlett-Packard Enterprise Co. posted its fastest quarterly revenue growth on record and raised its full-year forecast, but it wasn’t enough to keep up the momentum of a broader Nvidia Corp.-fueled rally, and its stock was headed lower after-hours. The company reported fourth-quarter earnings before certain costs such as stock...",
+      "url": "https://siliconangle.com/2026/11/23/hpes-stock-slides-despite-record-revenue-growth-and-upbeat-forecast/",
+      "source": "SiliconANGLE",
+      "publishedAt": "2026-11-23T23:24:51+00:00",
+      "category": "Industry & Business",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Neri.png"
+    },
+    {
+      "title": "USN-9189-1: Qt5Compat vulnerability",
+      "description": "It was discovered that Qt5Compat did not correctly handle certain text codec names, which could lead to an out-of-bounds read. An attacker could possibly use this issue to cause a denial of service.",
+      "url": "https://ubuntu.com/security/notices/USN-9189-1",
+      "source": "Ubuntu Security Notices",
+      "publishedAt": "2026-11-23T23:21:59+00:00",
+      "category": "Threats",
+      "image": ""
+    },
+    {
+      "title": "National outages, emergency alerts become fodder for doomsday conspiracies",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUEplR3NtcTkxV19zQjhBQnZOZmJfOTdGZGhoS1RnUzZtNjhNU0tfT0lNNW9ScUthTEJyMW03TUZmTVFaZnNkdTNqc1BnRXAyLXNhWFp2R0JxbWZPSjd6VXF2V1owQXhodnJYTFEwamNLVXYwc1FaTk1iLTVKNjJmbmpIVG0zQk1qT3NZYWFfMmkxeXYwNmlwenBFMk1wMHNaOHBOOUJVaGZib2tLc21BaVBmVjM0UGN0WUVPMmhYQlhMejhYNWVJ?oc=5",
+      "source": "New Hampshire Union Leader",
+      "publishedAt": "2026-11-23T23:16:41+00:00",
+      "category": "Alert",
+      "image": ""
+    },
+    {
+      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+      "description": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
+      "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "publishedAt": "2026-11-23T23:16:08+00:00",
+      "category": "Emerging Technology",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a66/live/7c413f70-e78a-11f1-a5c2-c57ab9df3111.jpg"
+    },
+    {
+      "title": "The Verge’s 2026 holiday gift guide",
+      "description": "Gift-giving isn't just about grabbing something solid under a determined spending limit. It's an expression of love, a way to show someone how well you really know them. That doesn't mean you have to do it all on your own, though. Sometimes you just need a push in the right direction to get things rolling. […]",
+      "url": "https://www.theverge.com/gadgets/1026041/holiday-gift-guide-2026",
+      "source": "The Verge",
+      "publishedAt": "2026-11-23T23:14:10+00:00",
+      "category": "News",
+      "image": ""
+    },
+    {
+      "title": "Figma employee sues, alleging company forced her to confront harassers",
+      "description": "Figma and its CEO are being sued by a current employee for alleged sexual harassment and discrimination.",
+      "url": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-23T23:07:49+00:00",
+      "category": "Industry & Business",
+      "image": ""
+    },
+    {
+      "title": "Samsung’s November Galaxy Update Patches 20 Critical Android Flaws",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVHVHYUg0bUh2Rk50NGJKa1ZfaE5HSUYyUjlreXh1bG1iQXlVeDZiYnRhSlpreEF2a0dRRW5aaW9NRWNWbzNjaXkwQzVER2lJRHJ6M0x2VFl2SHE1YlFJRUFYVzczdmcwQjkxY3ktZkZFTFdWNld2SFlEVFNBV3NLZmFlczNFRnREQldNUWhseDhXcUpncW8xWEZCeVQ?oc=5",
+      "source": "eSecurity Planet",
+      "publishedAt": "2026-11-23T23:03:45+00:00",
+      "category": "Updates & Patches",
+      "image": ""
+    },
+    {
+      "title": "Can you fix a scratched CD? Here are your options",
+      "description": "It's true: CDs are experiencing a revival. If you've got scratched discs, there are options for fixing them, from DIY methods to seeking professional help.",
+      "url": "https://www.engadget.com/2315527/can-you-fix-a-scratched-cd/",
+      "source": "Engadget",
+      "publishedAt": "2026-11-23T23:00:00+00:00",
+      "category": "News",
+      "image": "https://www.engadget.com/img/gallery/can-you-fix-a-scratched-cd-here-are-your-options/l-intro-1794497293.jpg"
+    },
+    {
+      "title": "Intuitive Machines Completes Preliminary Design Review for START Nuclear Power Experiment",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdnZmbVFLU01XNngwY0JyRDFiblJLVFNkdnBlSHRaTHd3aml4cEhQbzJJcVBJbng0TDVGN29WenVsU0c5am02cXg5UGNKX0ZNLWtleWZhem9WUXNCNWtSSWZEVWZSMmRDWnFqNGpzMEJXbll5Q3A4V243VHBOUU9RRjJ0aVdHQXZjLXY2MHdkUlRyNkM4N1RYM3B4akk0VV9fZmJZRlEyMGV3SmtEdVRtRnVrWnFfSlF5VEJfLVFLSQ?oc=5",
+      "source": "Quiver Quantitative",
+      "publishedAt": "2026-11-23T22:50:00+00:00",
+      "category": "Research & Discovery",
+      "image": ""
+    },
+    {
+      "title": "Ladybird, the first new browser engine in years, is now available to test",
+      "description": "Ladybird, an independent web browser with a built-from-scratch engine, is finally available for testing. On Monday, Ladybird developer Andreas Kling announced that the browser is launching in alpha on macOS and Linux following more than four years of development. The release makes Ladybird the first browser in years to arrive with an entirely...",
+      "url": "https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing",
+      "source": "The Verge",
+      "publishedAt": "2026-11-23T22:38:09+00:00",
+      "category": "News",
+      "image": ""
+    },
+    {
+      "title": "Trump engineered a risky comeback for Jensen Huang",
+      "description": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly after the news came out, Trump said that Huang would \"end up on his feet.\" […]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+      "source": "The Verge",
+      "publishedAt": "2026-11-23T22:34:20+00:00",
+      "category": "News",
+      "image": ""
+    },
+    {
+      "title": "Matters.AI raises $12M as it expands its data security business in North America",
+      "description": "Enterprise data security startup Matters.AI today announced that it has raised $12 million in new funding as it expands its business in North America. Matters.AI offers a platform called the AI Security Engineer for Data that is designed to protect sensitive data used by employees, artificial intelligence systems and AI agents across the...",
+      "url": "https://siliconangle.com/2026/11/23/matters-ai-raises-12m-as-it-expands-its-data-security-business-in-north-america/",
+      "source": "SiliconANGLE",
+      "publishedAt": "2026-11-23T22:22:23+00:00",
+      "category": "Industry & Business",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/mattersai.png"
+    },
+    {
+      "title": "Welcome to elite impunity, Jensen Huang",
+      "description": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of basic education on what a \"free market\" is might […]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+      "source": "The Verge",
+      "publishedAt": "2026-11-23T22:21:36+00:00",
+      "category": "News",
+      "image": ""
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+      "description": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time with an Nvidia executive who reported directly to him, a board...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "source": "The Verge",
+      "publishedAt": "2026-11-23T22:18:13+00:00",
+      "category": "Industry & Business",
+      "image": ""
+    },
+    {
+      "title": "Chrome for Android Update",
+      "description": "Hi, everyone! We've just released Chrome 158 (158.0.8127.92) for Android. It'll become available on Google Play over the next few days. This release includes stability and performance improvements. You can see a full list of the changes in the Git log . If you find a new issue, please let us know by filing a bug . Android releases contain the...",
+      "url": "http://chromereleases.googleblog.com/2026/11/chrome-for-android-update_0411169060.html",
+      "source": "Chrome Releases",
+      "publishedAt": "2026-11-23T22:09:51.297000+00:00",
+      "category": "Updates & Patches",
+      "image": ""
+    },
+    {
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "description": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-23T22:05:50+00:00",
+      "category": "Emerging Technology",
+      "image": ""
+    },
+    {
+      "title": "Industrial Serial Gateways Broadcast That They're Insecure",
+      "description": "Critical OT access devices will often tell you, and anyone else, whether they're protected by authentication — and many aren't.",
+      "url": "https://www.darkreading.com/ics-ot-security/industrial-serial-gateways-broadcast-insecure",
+      "source": "Dark Reading",
+      "publishedAt": "2026-11-23T22:02:46+00:00",
+      "category": "Threats",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt301a7a187c53b85f/6b04a5d4187d8b84c6ba02e4/Serial_to_IP-Gri-spb-Getty.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "description": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-23T22:02:05+00:00",
+      "category": "Industry & Business",
+      "image": ""
+    },
+    {
+      "title": "Will astronauts farm on the moon? Scientists successfully grow potatoes in simulated lunar dust",
+      "description": "It's no secret that NASA is working towards a permanent presence on the moon. The space agency even plans to build a moon base for its astronauts to call home. But humans living inside lunar habitats around the clock will need three square meals a day, so researchers have been working on how to grow food on the moon. To that end, a team from...",
+      "url": "https://www.space.com/astronomy/moon/will-astronauts-farm-on-the-moon-scientists-successfully-grow-potatoes-in-simulated-lunar-dust",
+      "source": "Space.com",
+      "publishedAt": "2026-11-23T22:00:00+00:00",
+      "category": "Emerging Technology",
+      "image": "https://cdn.mos.cms.futurecdn.net/mY8GhuKsScyFcqbCsNfRdK-1920-80.jpg"
+    },
+    {
+      "title": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally",
+      "description": "The Army said on Sunday that it would carry out the detonation on Wednesday.",
+      "url": "https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally/",
+      "source": "Ars Technica",
+      "publishedAt": "2026-11-23T21:58:34+00:00",
+      "category": "News",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2306107359-1024x648.jpg"
+    },
+    {
+      "title": "Inception - possibly a ShinyHunters reboot - claims seven victims in a week",
+      "description": "Whatever they call themselves these days: be on the lookout for voice phishing attempts",
+      "url": "https://www.theregister.com/security/2026/11/23/inception-possibly-a-shinyhunters-reboot-claims-seven-victims-in-a-week/5311768",
+      "source": "The Register",
+      "publishedAt": "2026-11-23T21:52:23+00:00",
+      "category": "News",
+      "image": "https://image.theregister.com/?imageId=5311772&width=800"
+    },
+    {
+      "title": "Data center policy review reveals 'chaotic' patchwork of rules across all 50 states",
+      "description": "The artificial intelligence boom has brought with it debates about where the data centers that run the technology will be located, how big they will be and how to ensure communities benefit from them. Underlying these debates is the question of whether state and local governments should ban them outright, welcome them with open arms or choose...",
+      "url": "https://phys.org/news/2026-11-center-policy-reveals-chaotic-patchwork.html",
+      "source": "Phys.org",
+      "publishedAt": "2026-11-23T21:50:01+00:00",
+      "category": "Policy & Regulation",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/data-center-developmen.jpg"
+    },
+    {
+      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "description": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-23T21:47:41+00:00",
+      "category": "Industry & Business",
+      "image": ""
+    },
+    {
+      "title": "Polkadot (DOT) Price Forecast & Predictions for 2026, 2027, 2028–2030 and Beyond",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLU1aZTROVElOVXo3cERJYllpU2hsVmZmbXZuZ0ZUcURPOTV5MS12Z1hKVWxsaHNsOXpnaEwyQjlSVldYQy1wYUFBQlVnMVVzYkhfS3RuVU1SaktSUy10UDMxOTZsdzNGenJwODFteFNXa2FVeUE5WnFHajRYSnhiUW0wQQ?oc=5",
+      "source": "LiteFinance",
+      "publishedAt": "2026-11-23T21:44:11+00:00",
+      "category": "Trends & Forecasts",
+      "image": ""
+    },
+    {
+      "title": "Some people claim to speak many languages. But what does it really mean to be a polyglot?",
+      "description": "Roughly half of the world's population speaks more than one language. But speaking two or three languages is very different from claiming proficiency in five, 10 or more.",
+      "url": "https://phys.org/news/2026-11-people-languages-polyglot.html",
+      "source": "Phys.org",
+      "publishedAt": "2026-11-23T21:40:01+00:00",
+      "category": "Research & Discovery",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/multilingual.jpg"
+    },
+    {
+      "title": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
+      "description": "If you’re still sporting an Apple Watch that launched five or so years ago, now is a good time to upgrade. Apple’s latest smartwatch, the 42mm Apple Watch Series 12 with Wi-Fi and GPS connectivity, has dropped to a new all-time low of $299 ($100 off) at Amazon and Walmart, beating its most sale price […]",
+      "url": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale",
+      "source": "The Verge",
+      "publishedAt": "2026-11-23T21:36:48+00:00",
+      "category": "News",
+      "image": ""
+    },
+    {
+      "title": "How to Win Big Betting on Jensen Huang? Listen to Trump",
+      "description": "Prediction market traders profited from the Nvidia CEO’s comeback by following the White House’s lead. “It’s 2026 and Trump is president, scandal schmandal,” says one winner.",
+      "url": "https://www.wired.com/story/how-to-win-big-betting-on-jensen-huang-listen-to-trump/",
+      "source": "WIRED",
+      "publishedAt": "2026-11-23T21:31:08+00:00",
+      "category": "News",
+      "image": "https://media.wired.com/photos/6b0499d1945816fbdeabbb63/master/pass/How-to-Make-Big-Money-Betting-on-Jensen-Business-2298607192.jpg"
+    },
+    {
+      "title": "Urea Resin Market Outlook to 2035",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HdFc1TG1qb0t3OUppNlYwdXNhNkFXeWtHOWtIUjBfZEh4ci1pTzdGdkZ5LUtOQ3pzdk5wdDRRT2ZndFEtdVB1VmFPU2h3UHFVT2REOElDYTZ2LWpRclM4TkprWWlRU2xxRkVrNzMwMzk?oc=5",
+      "source": "IndexBox",
+      "publishedAt": "2026-11-23T21:31:04+00:00",
+      "category": "Trends & Forecasts",
+      "image": ""
+    },
+    {
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "description": "X says every Grok output is screened, but state AGs say Grok is still making CSAM.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+      "source": "Ars Technica",
+      "publishedAt": "2026-11-23T21:30:44+00:00",
+      "category": "News",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2284791219-1024x648.jpg"
+    },
+    {
+      "title": "CrowdStrike to buy Zscaler in record-setting $43.9B cybersecurity deal",
+      "description": "CrowdStrike Holdings Inc. today announced plans to acquire Zscaler Inc., a fellow provider of cybersecurity software, for about $43.9 billion. The all-stock deal values the latter company at $260.40 per share. That’s a 34% premium to Zscaler’s closing price on Friday, the day CrowdStrike’s takeover interest became public. The transaction would...",
+      "url": "https://siliconangle.com/2026/11/23/crowdstrike-to-buy-zscaler-in-record-setting-43-9b-cybersecurity-deal/",
+      "source": "SiliconANGLE",
+      "publishedAt": "2026-11-23T21:29:30+00:00",
+      "category": "Industry & Business",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/George-Kurtz.jpg"
+    },
+    {
+      "title": "China eyes self-healing, radiation-resistant alloys for nuclear and fusion reactors",
+      "description": "Researchers in China have reportedly identified a new way to develop self-healing metal alloys that...",
+      "url": "https://interestingengineering.com/innovation/china-develops-self-healing-radiation-resistant-alloys",
+      "source": "Interesting Engineering",
+      "publishedAt": "2026-11-23T21:28:04+00:00",
+      "category": "Emerging Technology",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/jldmor0ve4u.jpg"
+    },
+    {
+      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+      "description": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
+      "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-23T21:25:42+00:00",
+      "category": "Industry & Business",
+      "image": ""
+    },
+    {
+      "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
+      "description": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%.",
+      "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "publishedAt": "2026-11-23T21:23:42+00:00",
+      "category": "News",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e297/live/7eb9d0a0-e776-11f1-a8a9-d7c9e8a923b4.jpg"
+    },
+    {
+      "title": "CrowdStrike Makes AI Security Push With Blockbuster Zscaler Deal",
+      "description": "CrowdStrike's $44 billion acquisition of Zscaler would unite endpoint protection and zero-trust network security to obtain greater control over AI agents.",
+      "url": "https://www.darkreading.com/endpoint-security/crowdstrike-ai-security-push-zscaler-deal",
+      "source": "Dark Reading",
+      "publishedAt": "2026-11-23T21:21:42+00:00",
+      "category": "Emerging Technology",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltffaa274e5fcd829e/68386b0dd0a57a8348fa8ace/Zscaler_SundryPhotography_Alamy.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Join our free Space.com membership giveaway for a chance to win this Dwarflab mini smart telescope worth $419!",
+      "description": "Hey, Space Fans! Our Space.com Community team has launched a new giveaway exclusively for our Space+ members, and you can join for free now for a chance to win one of two Dwarflab mini smart telescopes, each worth $419. The Dwarflab giveaway is open to U.S. residents only and runs though Jan. 4, 2027. To enter, you only need to sign up for a...",
+      "url": "https://www.space.com/stargazing/skywatching-kit/join-our-free-space-com-membership-giveaway-for-a-chance-to-win-this-dwarflab-mini-smart-telescope-worth-usd419",
+      "source": "Space.com",
+      "publishedAt": "2026-11-23T21:21:13+00:00",
+      "category": "Research & Discovery",
+      "image": "https://cdn.mos.cms.futurecdn.net/jYg73A8cgtnFKDQM8fX2D9-1920-80.jpg"
+    },
+    {
+      "title": "Cisco and OpenAI launch Shirudo open-source infrastructure shield to prevent AI-driven cyberattacks",
+      "description": "Cybercriminals have gained the ability to discover vulnerabilities in software and take advantage of them in seconds, and it’s all thanks to artificial intelligence. Enterprises need a better way to defend themselves, so it’s fitting that one of the world’s top AI companies, OpenAI Group PBC, together with Cisco Systems Inc., is stepping up...",
+      "url": "https://siliconangle.com/2026/11/23/cisco-and-openai-launch-shirudo-an-open-source-infrastructure-shield-to-protect-against-ai-driven-cyberattacks/",
+      "source": "SiliconANGLE",
+      "publishedAt": "2026-11-23T21:20:59+00:00",
+      "category": "Emerging Technology",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Screenshot-from-2026-11-23-08-48-22.png"
+    },
+    {
+      "title": "Reparations can work when claims are grounded in solid evidence",
+      "description": "At the Commonwealth summit in Antigua in November 2026, Britain's King Charles expressed sorrow for Britain's role in the slave trade.",
+      "url": "https://phys.org/news/2026-11-reparations-grounded-solid-evidence.html",
+      "source": "Phys.org",
+      "publishedAt": "2026-11-23T21:20:11+00:00",
+      "category": "Research & Discovery",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/reparation.jpg"
+    },
+    {
+      "title": "Amazon scoops up AI accelerator tech to keep chips busy at all times",
+      "description": "Not the whole startup - just its tech and the brains behind it",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/23/amazon-scoops-up-ai-accelerator-tech-to-keep-chips-busy-at-all-times/5311754",
+      "source": "The Register",
+      "publishedAt": "2026-11-23T21:17:15+00:00",
+      "category": "Opportunities",
+      "image": "https://image.theregister.com/?imageId=5222824&width=800"
+    },
+    {
+      "title": "CrowdStrike’s Zscaler deal is a $44B vote for platformization and a long-term threat to Palo Alto Networks",
+      "description": "For decades, the security industry has told buyers to choose best-of-breed security products, leaving practitioners to stitch them together. This has been perpetuated by the major analyst firms, which have a Wave for this product and a Magic Quadrant for that product. The reality is that choosing best-of-breed everywhere has never led to...",
+      "url": "https://siliconangle.com/2026/11/23/crowdstrikes-zscaler-deal-is-a-44b-vote-for-platformization-and-a-long-term-threat-to-palo-alto-networks/",
+      "source": "SiliconANGLE",
+      "publishedAt": "2026-11-23T21:11:24+00:00",
+      "category": "Industry & Business",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/crowdstrike2023-scaled.jpg"
+    },
+    {
+      "title": "NASA Awards Contract for NOAA’s Near Earth Orbit Network Program",
+      "description": "NASA, on behalf of the National Oceanic and Atmospheric Administration (NOAA), has awarded a contract to Northrop Grumman Systems Corporation for the Sounder for Microwave-Based Applications (SMBA) instruments on NOAA’s Near Earth Orbit Network (NEON) satellites. The cost-plus-fixed-fee, firm-fixed-price, and time-and-materials hybrid contract...",
+      "url": "https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-near-earth-orbit-network-program/",
+      "source": "NASA",
+      "publishedAt": "2026-11-23T21:10:03+00:00",
+      "category": "Opportunities",
+      "image": ""
+    },
+    {
+      "title": "AI data centers throw another wrench into chaotic UN climate talks",
+      "description": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that came to a chaotic and unsatisfying close in Antalya, Turkey, on Sunday. Each year,...",
+      "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+      "source": "The Verge",
+      "publishedAt": "2026-11-23T21:09:37+00:00",
+      "category": "Emerging Technology",
+      "image": ""
+    },
+    {
+      "title": "Debian Comes to the Surface Duo 2",
+      "description": "With all the hubub about the iPhone Duo, it’s nice to look back on other dual screen devices that have come before. I turns out, some are still seeing active …read more",
+      "url": "https://hackaday.com/2026/11/23/debian-comes-to-the-surface-duo-2/",
+      "source": "Hackaday",
+      "publishedAt": "2026-11-23T21:00:15+00:00",
+      "category": "Innovation",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/OpenDuo-Debian-Surface-Duo-2.png"
+    },
+    {
+      "title": "Harnessing glacial lakes for hydropower",
+      "description": "As mountain glaciers retreat in the face of a warming climate, glacial lakes are expanding, increasing the risk of glacial lake outburst flood events that cause damage and destruction to communities downstream. However, harnessing the power of this excess water could both provide a renewable energy source for these communities and help reduce...",
+      "url": "https://techxplore.com/news/2026-11-harnessing-glacial-lakes-hydropower.html",
+      "source": "Phys.org Technology",
+      "publishedAt": "2026-11-23T21:00:14+00:00",
+      "category": "Innovation",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/harnessing-glacial-lak.jpg"
+    },
+    {
+      "title": "Discovery of curse ritual in trash dump surprises Egyptologist: 'It must have been widespread in ancient Egypt'",
+      "description": "The discovery of 40 charred papyrus fragments at a temple in the ancient city of Thebes is changing researchers' understanding of one of ancient Egypt's most famous curse rituals. The fragments show that the ritual was probably far more widespread and commonplace than previously believed.",
+      "url": "https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html",
+      "source": "Phys.org",
+      "publishedAt": "2026-11-23T21:00:11+00:00",
+      "category": "Research & Discovery",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/discovery-of-curse-rit.jpg"
+    },
+    {
+      "title": "Your older, discontinued AirTags can still serve a purpose",
+      "description": "Apple has moved on from the original AirTag, but you don't have to. Find out how your old trackers can still earn their keep at home and on the go.",
+      "url": "https://www.engadget.com/2320290/discontinued-airtags-still-serve-purpose/",
+      "source": "Engadget",
+      "publishedAt": "2026-11-23T21:00:00+00:00",
+      "category": "News",
+      "image": "https://www.engadget.com/img/gallery/your-older-discontinued-airtags-can-still-serve-a-purpose/l-intro-1794602506.jpg"
+    },
+    {
+      "title": "New leaks reveal the iPhone 18e will have a redesigned camera plateau",
+      "description": "We've also got further confirmation the iPhone Air 2 will have a second camera lens.",
+      "url": "https://www.engadget.com/2325828/new-leaks-reveal-the-iphone-18e-will-have-a-redesigned-camera-plateau/",
+      "source": "Engadget",
+      "publishedAt": "2026-11-23T20:57:55+00:00",
+      "category": "News",
+      "image": "https://www.engadget.com/img/gallery/new-leaks-reveal-the-iphone-18e-will-have-a-redesigned-camera-plateau/l-intro-1795466976.jpg"
+    },
+    {
+      "title": "Apple renews Ted Lasso for season 5",
+      "description": "One of Apple's biggest shows is sticking around for at least one more season. The streamer announced today that Ted Lasso has been renewed for a fifth season on Apple TV, after what the company calls a \"record-breaking season four debut.\" There are currently no details about the new season nor when it might debut. […]",
+      "url": "https://www.theverge.com/entertainment/1040699/ted-lasso-season-5-apple-tv",
+      "source": "The Verge",
+      "publishedAt": "2026-11-23T20:56:00+00:00",
+      "category": "News",
+      "image": ""
+    },
+    {
+      "title": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
+      "description": "A threat actor breached the internal network of Korea Electric Power Corporation (KEPCO) and accessed two systems containing customer, employee, and contractor data. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
+      "source": "BleepingComputer",
+      "publishedAt": "2026-11-23T20:54:51+00:00",
+      "category": "Threats",
+      "image": ""
+    },
+    {
+      "title": "Stable Channel Update for Desktop",
+      "description": "The Stable channel has been updated to 158.0.8127.88/.89 for Windows and Mac and 158.0.8127.88 to Linux which will roll out over the coming days/weeks. A full list of changes in this build is available in the Log . Security Fixes and Rewards Note: Access to bug details and links may be kept restricted until a majority of users are updated with...",
+      "url": "http://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop_01734282054.html",
+      "source": "Chrome Releases",
+      "publishedAt": "2026-11-23T20:52:51.321000+00:00",
+      "category": "Updates & Patches",
+      "image": ""
+    },
+    {
+      "title": "Extended Stable Update for Desktop",
+      "description": "The Extended Stable channel has been updated to 156.0.8078.114 for Windows and Mac, which will roll out over the coming days/weeks. A full list of changes in this build is available in the Log . Security Fixes Note: Access to bug details and links may be kept restricted until a majority of users are updated with a fix. We will also retain...",
+      "url": "http://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop_01590513949.html",
+      "source": "Chrome Releases",
+      "publishedAt": "2026-11-23T20:52:47.796000+00:00",
+      "category": "Updates & Patches",
+      "image": ""
+    },
+    {
+      "title": "Technology for 'printing' steel could help extend the life of aging bridges and buildings",
+      "description": "The U.K. has an enormous amount of steel in service across critical infrastructure. Yet every day, millions of people cross bridges without giving much thought to the structures beneath their feet.",
+      "url": "https://techxplore.com/news/2026-11-technology-steel-life-aging-bridges.html",
+      "source": "Phys.org Technology",
+      "publishedAt": "2026-11-23T20:50:06+00:00",
+      "category": "Innovation",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tyne-bridge.jpg"
+    },
+    {
+      "title": "GTA 6 player gets social ban on PSN after sending a photo of in-game nudity",
+      "description": "Apparently just because it's in the game doesn't mean sharing \"obscene\" content is okay.",
+      "url": "https://www.engadget.com/2325800/gta-6-player-gets-social-ban-on-psn-after-sending-a-photo-of-in-game-nudity/",
+      "source": "Engadget",
+      "publishedAt": "2026-11-23T20:46:23+00:00",
+      "category": "Policy & Regulation",
+      "image": "https://www.engadget.com/img/gallery/gta-6-player-gets-social-ban-on-psn-after-sending-a-photo-of-in-game-nudity/l-intro-1795466635.jpg"
+    },
+    {
+      "title": "Anthropic’s new security system hunts rogue agents without storing company data",
+      "description": "Anthropic has expanded its enterprise security capabilities with a system that can identify sophisticated AI...",
+      "url": "https://interestingengineering.com/ai-robotics/anthropic-enterprise-safeguards-zero-data-retention",
+      "source": "Interesting Engineering",
+      "publishedAt": "2026-11-23T20:46:00+00:00",
+      "category": "Innovation",
+      "image": ""
+    },
+    {
+      "title": "NASA’s RS-25 rocket engine roars for 200 seconds as Artemis Moon plans advance",
+      "description": "A 200 second (or 3 minutes and 20 seconds) hot fire test of a developmental...",
+      "url": "https://interestingengineering.com/space/nasa-rs-25-engine-200-seconds",
+      "source": "Interesting Engineering",
+      "publishedAt": "2026-11-23T20:42:03+00:00",
+      "category": "Emerging Technology",
+      "image": ""
+    },
+    {
+      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+      "description": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-23T20:38:53+00:00",
+      "category": "Industry & Business",
+      "image": ""
+    },
+    {
+      "title": "Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret",
+      "description": "\"I would ask you to please reach out to Roscosmos directly.\"",
+      "url": "https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/",
+      "source": "Ars Technica",
+      "publishedAt": "2026-11-23T20:34:51+00:00",
+      "category": "News",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/52674646862_dbe4378754_k-1152x648.jpg"
+    },
+    {
+      "title": "Tiny shrinkable teardrop makes home among smallest campers ever",
+      "description": "Germany's Kleox has developed a reputation for building some of the world's smallest, lightest teardrop trailers, campers that truly evoke the spirit of simple, inexpensive, lightweight hard-sided shelter you can tow wherever you want with whatever you drive. Now the company is turning attention to a slightly more complex model that's equally...",
+      "url": "https://newatlas.com/camping-trailers/kleox-move-expandable-tiny-teardrop/",
+      "source": "New Atlas",
+      "publishedAt": "2026-11-23T20:33:00+00:00",
+      "category": "Innovation",
+      "image": "https://assets.newatlas.com/dims4/default/b512562/2147483647/strip/true/crop/3305x2702+0+0/resize/1174x960!/format/webp/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F84%2Fcd%2F173676a14f67bc54f02624f7d6d8%2F20261029-102928-1.jpg"
+    },
+    {
+      "title": "New benchmark could help AI keep up with current events",
+      "description": "Artificial intelligence (AI) is struggling to keep up with the world. When queried about recent events, chatbots like ChatGPT, Gemini and Claude often rely on the same sources people have used for years to find information online.",
+      "url": "https://techxplore.com/news/2026-11-benchmark-ai-current-events.html",
+      "source": "Phys.org Technology",
+      "publishedAt": "2026-11-23T20:30:09+00:00",
+      "category": "Emerging Technology",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-benchmark-could-he.jpg"
+    },
+    {
+      "title": "How does Orchard AI fit into John Deere’s technology portfolio?",
+      "description": "John Deere said the deal strengthens its ability to help growers make more informed decisions throughout the growing season. The post How does Orchard AI fit into John Deere’s technology portfolio? appeared first on The Robot Report .",
+      "url": "https://www.therobotreport.com/how-does-orchard-ai-fit-into-john-deeres-technology-portfolio/",
+      "source": "The Robot Report",
+      "publishedAt": "2026-11-23T20:29:55+00:00",
+      "category": "Emerging Technology",
+      "image": ""
+    },
+    {
+      "title": "Five-ton John Deere loader masters two-wheel stunts without direct human control",
+      "description": "A five-ton skid-steer loader from John Deere has been trained to balance on two wheels...",
+      "url": "https://interestingengineering.com/ai-robotics/john-deere-loader-balance-332g",
+      "source": "Interesting Engineering",
+      "publishedAt": "2026-11-23T20:21:09+00:00",
+      "category": "Innovation",
+      "image": ""
+    },
+    {
+      "title": "Grand Theft Auto 6 is really about the death of the American Dream",
+      "description": "The struggle in GTA6 is both real and virtual.",
+      "url": "https://www.engadget.com/2325713/grand-theft-auto/",
+      "source": "Engadget",
+      "publishedAt": "2026-11-23T20:16:10+00:00",
+      "category": "News",
+      "image": "https://www.engadget.com/img/gallery/grand-theft-auto-6-is-really-about-the-death-of-the-american-dream/l-intro-1795464912.jpg"
+    },
+    {
+      "title": "US Cyber Director Pick Signals Shift Toward Expertise",
+      "description": "Trump named Kirsten Davies as Acting National Cyber Director, bringing greater industry experience to the role amid recent outages and rising geopolitical tensions.",
+      "url": "https://www.darkreading.com/cybersecurity-operations/us-cyber-director-pick-signals-shift-toward-expertise",
+      "source": "Dark Reading",
+      "publishedAt": "2026-11-23T20:13:48+00:00",
+      "category": "Threats",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9a0966356bb6bbf4/6b048a6e805d232dd3e79e51/white_house-uschools-GettyImages-160196566.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Surveillance pricing uses our personal data to make us pay more",
+      "description": "Personalized pricing can mean unfair, and even biased, prices.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/surveillance-pricing-uses-our-personal-data-to-make-us-pay-more/",
+      "source": "Ars Technica",
+      "publishedAt": "2026-11-23T20:11:43+00:00",
+      "category": "News",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1527415822-1152x648.jpg"
+    },
+    {
+      "title": "AACR Fellowship Guide: Eligibility, Funding, and Application Process",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBR2lHSUhMVnhubnpyOGNncEZqQTk2RTJOZlFBNE1GNTBEVnNPX0xwV3lCY3lYNFlxcFRiajAyWXlYS2VXM3JuZmp2N1ZiWEZKR1Fr?oc=5",
+      "source": "CASRAI",
+      "publishedAt": "2026-11-23T20:07:01+00:00",
+      "category": "Opportunities",
+      "image": ""
+    },
+    {
+      "title": "Anthropic softens its data retention policy for Mythos and Fable model use",
+      "description": "Enterprise customers can now keep prompts and responses on their own servers.",
+      "url": "https://www.engadget.com/2325684/anthropic-softens-its-data-retention-policy-for-mythos-and-fable-model-use/",
+      "source": "Engadget",
+      "publishedAt": "2026-11-23T20:02:30+00:00",
+      "category": "Policy & Regulation",
+      "image": "https://www.engadget.com/img/gallery/anthropic-softens-its-data-retention-policy-for-mythos-and-fable-model-use/l-intro-1795464099.jpg"
+    },
+    {
+      "title": "OpenRouter drops AI providers over leaked prompts and secrets",
+      "description": "OpenRouter removed three AI providers from its platform after discovering that they had violated their stated data-handling policies and exposed sensitive data. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/",
+      "source": "BleepingComputer",
+      "publishedAt": "2026-11-23T20:00:20+00:00",
+      "category": "Threats",
+      "image": ""
+    },
+    {
+      "title": "Why are some people single—and what makes them happy? New research offers answers",
+      "description": "Why do some people remain single while others find romantic partners? And does being single necessarily mean being less happy?",
+      "url": "https://phys.org/news/2026-11-people-happy.html",
+      "source": "Phys.org",
+      "publishedAt": "2026-11-23T20:00:15+00:00",
+      "category": "Research & Discovery",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/person-happy-alone.jpg"
+    },
+    {
+      "title": "Rwanda and Papua New Guinea had big energy access plans: Study compares what happened",
+      "description": "In both Rwanda and Papua New Guinea, only about 10% of the population had electricity in the early 2000s. Both countries have rural populations that are difficult to reach with national electricity grids. Both partly privatized their electricity sectors and set ambitious targets for increased energy access.",
+      "url": "https://techxplore.com/news/2026-11-rwanda-papua-guinea-big-energy.html",
+      "source": "Phys.org Technology",
+      "publishedAt": "2026-11-23T20:00:04+00:00",
+      "category": "Research & Discovery",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/solar-farm-africa.jpg"
+    },
+    {
+      "title": "Claude can ship code for you now – how to try it (if you dare)",
+      "description": "Would you let a few Claude agents review and ship your code for you?",
+      "url": "https://www.zdnet.com/innovation/claude-ship-code-how-to-try/",
+      "source": "ZDNet",
+      "publishedAt": "2026-11-23T20:00:02+00:00",
+      "category": "News",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2271847888.jpg"
+    },
+    {
+      "title": "Steadview Capital Sells Lenskart Shares Worth ₹921 Cr",
+      "description": "Early backer and hedge fund Steadview Capital has sold 1.27 Cr shares of omnichannel eyewear giant Lenskart via multiple block…",
+      "url": "https://inc42.com/buzz/steadview-capital-sells-lenskart-shares-worth-%e2%82%b9921-cr/",
+      "source": "Inc42",
+      "publishedAt": "2026-11-23T19:59:22+00:00",
+      "category": "Industry & Business",
+      "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/lenskart-funding-02.jpg"
+    },
+    {
+      "title": "When Is an Untested Idea Worth Funding? An Innovation Grant Reviewer in Profile",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQOUVoMWFOdktsa2VtNkt4d3F5QlRCLU1IQWR5RXRfNnJHM1R5SHBiRDVhTm9URGdoVUNLN3A4MUJOUGNZX1FvUkN3YmRVY3Jrblh6QUtwdGtKREVKV3VSRjEtbTNJNmp5QVZiX2VsY1o5bzN3Rng1UG9xVFZQUUJIdDRwVURSdWlYRkthS3ZxN0l2MjVSZExEbHNTQXhLTUtVcEl1enh5bUtTVk05alZYcVRCa1B4YXZvUHZXOXVueG9oeVNFTk9YV3IzaktRbk5mcmZDaEZ1endpSGdQZkhN0gHkAUFVX3lxTE9Fdk5LRUlsTHdHRi02SzJ6bHVTYUZQVVlzT3QxcmhuQS1DRDNpTWhhRUtRNDVVSGl6VXVFZTdwLVRZdEI0M3ZfbFZtbElGVThrUXhodTdLREZKWlU0dkV6WDhmajBJdTZzckFTdzd6YnZuTzlzWEFQMjJKVjRaLTR5Qi1tYjJ6YTA3c2RmT2R6bDNBZ2tzQkY4TU1peWVJdjI2M19WQW1BU3EtV28yajY4UWhTM3J0NGE3RHdNdnpEXzltMl9xYlZQUFRpSzJuZUluNHRkNnR0anlxSjYwYW9Wb3ZWNA?oc=5",
+      "source": "fundsforNGOs - Grants and Resources for Sustainability",
+      "publishedAt": "2026-11-23T19:48:47+00:00",
+      "category": "Opportunities",
+      "image": ""
+    },
+    {
+      "title": "NVIDIA's Jensen Huang will testify publicly before senators on December 3",
+      "description": "It's going to be a busy few days in Washington DC for the freshly reinstated CEO.",
+      "url": "https://www.engadget.com/2325655/nvidia-jensen-huang-will-testify-publlicly-before-senators-on-december-3/",
+      "source": "Engadget",
+      "publishedAt": "2026-11-23T19:47:27+00:00",
+      "category": "News",
+      "image": "https://www.engadget.com/img/gallery/nvidias-jensen-huang-will-testify-publicly-before-senators-on-december-3/l-intro-1795463182.jpg"
+    },
+    {
+      "title": "USN-9188-1: OAuthLib vulnerabilities",
+      "description": "It was discovered that OAuthLib incorrectly handled JSONP callback parameters in the token revocation endpoint. A remote attacker could possibly use this issue to execute arbitrary code in a client application. (CVE-2026-49264) Elvin Latifli discovered that OAuthLib incorrectly compared PKCE code verifiers, using a comparison that was not...",
+      "url": "https://ubuntu.com/security/notices/USN-9188-1",
+      "source": "Ubuntu Security Notices",
+      "publishedAt": "2026-11-23T19:44:23+00:00",
+      "category": "Threats",
+      "image": ""
+    },
+    {
+      "title": "The infamous GTA 6 hacker has been released after pleading guilty",
+      "description": "A judge warned the hacker not to \"let this happen again.\"",
+      "url": "https://www.engadget.com/2325643/the-infamous-gta-6-hacker-has-been-released-after-pleading-guilty/",
+      "source": "Engadget",
+      "publishedAt": "2026-11-23T19:42:43+00:00",
+      "category": "Threats",
+      "image": "https://www.engadget.com/img/gallery/the-infamous-gta-6-hacker-has-been-released-after-pleading-guilty/l-intro-1795462891.jpg"
+    },
+    {
+      "title": "Microsoft Azure flaw exploited to steal customers' API credentials",
+      "description": "Microsoft is warning customers that a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API credentials, with Norwegian authorities linking the flaw to cyberattacks against energy companies. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/",
+      "source": "BleepingComputer",
+      "publishedAt": "2026-11-23T19:42:20+00:00",
+      "category": "Threats",
+      "image": ""
+    },
+    {
+      "title": "'Grand Theft Auto VI' lives up to its hype with compelling characters and spectacular action",
+      "description": "\"Grand Theft Auto VI\" has gotten all kinds of attention since its release last week. It generated a record $3.79 billion in first-day retail sales. Workers around the world took personal days to dig into the franchise's first installment in 13 years. Tributes and parodies showed up everywhere from a Miami Heat game to the White House's social...",
+      "url": "https://techxplore.com/news/2026-11-grand-theft-auto-vi-hype.html",
+      "source": "Phys.org Technology",
+      "publishedAt": "2026-11-23T19:40:11+00:00",
+      "category": "Innovation",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/britain-gta-vi-launch-1.jpg"
+    },
+    {
+      "title": "Amazon fights Delivery Protection Act by putting stickers on its packages",
+      "description": "Amazon now uses its packages for political purposes.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/amazon-fights-delivery-protection-act-by-putting-stickers-on-its-packages/",
+      "source": "Ars Technica",
+      "publishedAt": "2026-11-23T19:38:13+00:00",
+      "category": "News",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/something-about-this-just-feels-off-to-me-v0-d584x10nr83i1-1152x648-1795460892.jpg"
+    },
+    {
+      "title": "‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return to Nvidia",
+      "description": "Politicians on both sides of the aisle seem angry, agitated, and nonplussed by the return of Jensen Huang to Nvidia leadership less than two weeks after his ousting.",
+      "url": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-23T19:31:41+00:00",
+      "category": "Industry & Business",
+      "image": ""
+    },
+    {
+      "title": "A Dozen Completely DIY Robot Actuators",
+      "description": "It’s one of those tropes that comes up every so often on Hackaday: Someone says they made something “completely” DIY, and then someone in the comments asks if they grew …read more",
+      "url": "https://hackaday.com/2026/11/23/a-dozen-completely-diy-robot-actuators/",
+      "source": "Hackaday",
+      "publishedAt": "2026-11-23T19:30:53+00:00",
+      "category": "Emerging Technology",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/i-built-12-actuators-for-my-robot-dog-y-6smifwocy-webm-shot0004_featured.png"
+    },
+    {
+      "title": "How to connect your Bluetooth headphones to your Xbox Series X",
+      "description": "Connecting Bluetooth headphones to your Xbox Series X can be frustrating due to incompatibility. However, there are a few workarounds to solve this problem.",
+      "url": "https://www.engadget.com/2320288/how-to-connect-bluetooth-headphones-xbox-series-x/",
+      "source": "Engadget",
+      "publishedAt": "2026-11-23T19:30:00+00:00",
+      "category": "News",
+      "image": "https://www.engadget.com/img/gallery/how-to-connect-your-bluetooth-headphones-to-your-xbox-series-x/l-intro-1794583527.jpg"
+    },
+    {
+      "title": "Bluetooth brakes are broken as researchers find anyone can control them",
+      "description": "Security fixes are available for two Elecbrakes models, but an older controller remains vulnerable and unpatched",
+      "url": "https://www.theregister.com/security/2026/11/23/bluetooth-brakes-are-broken-as-researchers-find-anyone-can-control-them/5311748",
+      "source": "The Register",
+      "publishedAt": "2026-11-23T19:29:59+00:00",
+      "category": "Research & Discovery",
+      "image": "https://image.theregister.com/?imageId=229180&width=800"
+    },
     {
       "title": "Tiny tracking device documents a record-breaking hummingbird journey",
       "description": "Solar-powered transmitter allows researchers to follow a bird’s 6526-kilometer migration from Alabama to Alaska",
@@ -54,6 +1080,15 @@
       "image": ""
     },
     {
+      "title": "Reports: Russia may launch nuclear weapon into orbit as soon as next month",
+      "description": "A nuclear detonation in space \"could cause rapid and sudden loss or degradation of thousands of satellites.\"",
+      "url": "https://arstechnica.com/space/2026/11/russia-may-launch-a-nuclear-armed-satellite-far-sooner-than-we-thought/",
+      "source": "Ars Technica",
+      "publishedAt": "2026-11-23T19:28:30+00:00",
+      "category": "News",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-525166886-1152x648.jpg"
+    },
+    {
       "title": "China trains troops on new 8×8 armored vehicles that may carry upgraded 30mm guns",
       "description": "China’s People’s Liberation Army (PLA) is undergoing intensive training with new 8×8 wheeled infantry fighting...",
       "url": "https://interestingengineering.com/military/pla-8x8-armored-vehicles-exercises-china",
@@ -72,15 +1107,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/electric-vehicle-batte-3.jpg"
     },
     {
-      "title": "Kodak's SlideTag combines a digital photo frame and an AirTag",
-      "description": "The SlideTag will come in a blind box with nine fun designs.",
-      "url": "https://www.engadget.com/2325598/kodak-slidetag-combines-a-digital-photo-frame-and-an-airtag/",
-      "source": "Engadget",
-      "publishedAt": "2026-11-23T19:20:26+00:00",
-      "category": "News",
-      "image": "https://www.engadget.com/img/gallery/kodaks-slidetag-combines-a-digital-photo-frame-and-an-airtag/l-intro-1795461541.jpg"
-    },
-    {
       "title": "Airline glitches, storms could make for a messy Thanksgiving travel week",
       "description": "Traveling for the Thanksgiving holiday is shaping up to be a bit chaotic, with a cascade of glitches that have upended airlines in recent weeks, the threat of storms on both coasts and soaring airfares.",
       "url": "https://techxplore.com/news/2026-11-airline-glitches-storms-messy-thanksgiving.html",
@@ -88,15 +1114,6 @@
       "publishedAt": "2026-11-23T19:20:01+00:00",
       "category": "Innovation",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/aptopix-us-nationwide-3.jpg"
-    },
-    {
-      "title": "New magical shows worth watching instead of Harry Potter",
-      "description": "Since we wrote earlier this year about J.K. Rowling using her money to support groups and policies harming transgender people, she has accused the United Nations of promoting \"sex denialism\" and described trans rights activists as \"elitists\" whose work creates \"a climate of fear and intimidation.\" Also, her upcoming HBO Harry Potter series has...",
-      "url": "https://www.theverge.com/entertainment/1038020/shows-to-stream-instead-of-harry-potter",
-      "source": "The Verge",
-      "publishedAt": "2026-11-23T19:17:11+00:00",
-      "category": "News",
-      "image": ""
     },
     {
       "title": "Mini flashlight puts 500 lumens – and utility blade – on your keyring",
@@ -135,6 +1152,15 @@
       "image": ""
     },
     {
+      "title": "Stock Market Today: Stock Market News And Analysis",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zdGl1MmxTM2JJa2pLNlFSWVhuZUd1ekRIeVpDcGVqckVJcloxaWlnRHJ3b0hqb291NXk4dlo0SmRQNlhDaGpubDh6ZWNTUHZiYVhjOVJINUxSYXE0NHRiNVE2OW51R2h4N1daaXRIdzVBR1UxT0g4?oc=5",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2026-11-23T19:04:00+00:00",
+      "category": "Trends & Forecasts",
+      "image": ""
+    },
+    {
       "title": "European Commission warns EU Academy users of data leak after AI-driven cyberattack",
       "description": "The European Commission on Monday warned users of one of its websites that personal data has been leaked in a major AI-generated cyberattack that was launched on the EU institution last month.",
       "url": "https://techxplore.com/news/2026-11-european-commission-eu-academy-users.html",
@@ -142,15 +1168,6 @@
       "publishedAt": "2026-11-23T19:00:04+00:00",
       "category": "Threats",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/belgium-eu-enlargement-2.jpg"
-    },
-    {
-      "title": "These underrated smart rings are more affordable than the Oura Ring 5",
-      "description": "Find out how affordable smart rings compare with the Oura Ring 5 on upfront price and long-term cost and know which trade-offs come with paying less.",
-      "url": "https://www.engadget.com/2320286/underrated-smart-rings-more-affordable-oura-ring-5/",
-      "source": "Engadget",
-      "publishedAt": "2026-11-23T19:00:00+00:00",
-      "category": "News",
-      "image": "https://www.engadget.com/img/gallery/these-underrated-smart-rings-are-more-affordable-than-the-oura-ring-5/l-intro-1794494729.jpg"
     },
     {
       "title": "How sci‑fi imagines sports in microgravity, and how zero‑g sports might actually work",
@@ -162,21 +1179,21 @@
       "image": "https://cdn.mos.cms.futurecdn.net/rPCneZyVP62s3BHPmT6HAT-1920-80.jpg"
     },
     {
+      "title": "Chrome Stable for iOS Update",
+      "description": "Hi everyone! We've just released Chrome Stable 158 (158.0.8127.86) for iOS; it'll become available on App Store in the next few hours. This release includes stability and performance improvements. You can see a full list of the changes in the Git log . If you find a new issue, please let us know by filing a bug . Chrome Release Team Google Chrome",
+      "url": "http://chromereleases.googleblog.com/2026/11/chrome-stable-for-ios-update_0595441535.html",
+      "source": "Chrome Releases",
+      "publishedAt": "2026-11-23T18:58:34.761000+00:00",
+      "category": "Updates & Patches",
+      "image": ""
+    },
+    {
       "title": "Aquarium Light Kit Market To 2035: Premiumization and Smart LED Adoption Drive Growth - News and Statistics",
       "description": "",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUUtMVVd6VDFDZVhwV0JHQTU3YVAwdXF6dlE3VDA4VGczMlhKYzQ2QzlpZ2ctRXFBY0pfMUFqeUZMRHRMbEQ3SUNZci11em9oOVhqeWNyQlBtcnZwQmlHVzFKQ0pMMTRJdzRreUhfZ0FLWWpaM1ZaZ2JpWFp5bGFVc1IxZmY0LTJ1Y0h6TU5wZk5rcW9TZ2NCaFgtMEpiSlQwbjVFVUNJOTBhb2pEdmFtbUhwclgyS3JXT2dpS3BDYmE?oc=5",
       "source": "IndexBox",
       "publishedAt": "2026-11-23T18:56:05+00:00",
       "category": "Trends & Forecasts",
-      "image": ""
-    },
-    {
-      "title": "GTA VI’s pretentious puzzler makes indie developers feel ‘part of larger culture’",
-      "description": "One of the most intriguing games of the year is called Tenebrae Lux. It's a moody, black-and-white title with obtuse puzzles and a main character that constantly narrates to himself with dramatic language. Its credits attribute pretty much everything to a developer named Johannes Zuch. It's generated a lot of discussion for seemingly mocking...",
-      "url": "https://www.theverge.com/games/1040265/gta-vi-tenebrae-lux-indie-developers",
-      "source": "The Verge",
-      "publishedAt": "2026-11-23T18:55:06+00:00",
-      "category": "News",
       "image": ""
     },
     {
@@ -196,24 +1213,6 @@
       "publishedAt": "2026-11-23T18:50:06+00:00",
       "category": "Research & Discovery",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bubbles-to-the-rescue.jpg"
-    },
-    {
-      "title": "White House brags that Trump was ‘totally involved’ in getting Jensen reinstated",
-      "description": "It sure looked like President Donald Trump played a role in Jensen Huang's reinstatement as Nvidia CEO - and now the White House is making sure everyone knows he was. \"President Trump was totally involved and this is a great decision by the NVIDIA board,\" White House communications director Steven Cheung said in a statement, […]",
-      "url": "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated",
-      "source": "The Verge",
-      "publishedAt": "2026-11-23T18:48:59+00:00",
-      "category": "News",
-      "image": ""
-    },
-    {
-      "title": "The Feds Left Iowans in the Dark About Plans to Blow Up Tons of Lead",
-      "description": "The US Army plans to blow up 9,500 pounds of lead azide held at an Iowa ammunition plant. Local officials say they learned most of the details through a press release.",
-      "url": "https://www.wired.com/story/the-feds-left-iowans-in-the-dark-about-plans-to-blow-up-tons-of-lead/",
-      "source": "WIRED",
-      "publishedAt": "2026-11-23T18:46:51+00:00",
-      "category": "News",
-      "image": "https://media.wired.com/photos/6b00cf1fe6d43a3251b4bce0/master/pass/Local-Officials-Say-Pentagon-Told-Them-Nothing-About-Volcano-of-Exploding-Lead-Science-2305973748.jpg"
     },
     {
       "title": "CrowdStrike to acquire Zscaler in a $44 billion deal that would create a cybersecurity giant",
@@ -261,51 +1260,6 @@
       "image": ""
     },
     {
-      "title": "Apple’s AirPods Pro 3 are a whopping $100 off ahead of Black Friday",
-      "description": "The AirPods Pro 3 are cheaper than ever. Apple’s latest flagship wireless earbuds dropped this morning to just $149 at Amazon, Best Buy and Walmart. Originally, they sold for $249, but have been commonly available for $199 outside the range of deal events. The best price that we’ve previously seen was $169, which is what […]",
-      "url": "https://www.theverge.com/gadgets/1039978/airpods-pro-3-apple-earbuds-black-friday-2026-deal-sale",
-      "source": "The Verge",
-      "publishedAt": "2026-11-23T18:37:32+00:00",
-      "category": "News",
-      "image": ""
-    },
-    {
-      "title": "Peacock subscriptions are up to 66 percent off for Black Friday",
-      "description": "Thanks to Black Friday, you have two options to save on your Peacock subscription. You can now sign up for the ad-supported Select plan, usually $8.99 per month or $89.99 per year, for $2.99 for the first three months or $29.99 for the first year. The ad-supported Premium plan — which includes live sports, movies, […]",
-      "url": "https://www.theverge.com/gadgets/1040122/peacock-subscription-black-friday-2026-deal-sale",
-      "source": "The Verge",
-      "publishedAt": "2026-11-23T18:33:29+00:00",
-      "category": "News",
-      "image": ""
-    },
-    {
-      "title": "The best Black Friday deals we’ve already found",
-      "description": "The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn’t officially until Friday, November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a good discount doesn’t necessarily mean you’re getting a historically...",
-      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
-      "source": "The Verge",
-      "publishedAt": "2026-11-23T18:33:07+00:00",
-      "category": "News",
-      "image": ""
-    },
-    {
-      "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
-      "description": "In separate but similar lawsuits filed on Monday, Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones accused SpaceX of violating state consumer protection laws by ignoring industry-standard safeguards and falsely promoting the safety of its X social media platform and Grok AI features. The complaint filed in Virginia...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
-      "source": "The Verge",
-      "publishedAt": "2026-11-23T18:26:47+00:00",
-      "category": "News",
-      "image": ""
-    },
-    {
-      "title": "Uber now lets riders request drivers who are recording their trips",
-      "description": "Uber's Recorded Rides option is rolling out to Baltimore, Raleigh, Indianapolis and St. Louis first.",
-      "url": "https://www.engadget.com/2325472/uber-now-lets-riders-request-drivers-who-are-recording-their-trips/",
-      "source": "Engadget",
-      "publishedAt": "2026-11-23T18:24:49+00:00",
-      "category": "News",
-      "image": "https://www.engadget.com/img/gallery/uber-now-lets-riders-request-drivers-who-are-recording-their-trips/l-intro-1795457566.jpg"
-    },
-    {
       "title": "Nvidia reinstates Huang as CEO after Trump intervention",
       "description": "Nvidia on Monday reinstated Jensen Huang as chief executive in a stunning reversal that President Donald Trump said followed his own direct contacts with the company's board.",
       "url": "https://techxplore.com/news/2026-11-nvidia-reinstates-huang-ceo-trump.html",
@@ -324,6 +1278,15 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-drone-prototype-fo.jpg"
     },
     {
+      "title": "Sui Price Forecast & Predictions for 2026, 2027, 2028–2030, 2040 and Beyond",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBFdXprN05hZDUxSTRXYjhCR29IRTB2Rm03WFhNbmVkTGRVOWZ2UnhXSVZna2Z1TlIzdDJ3NnY5OHdqR0Y0WjhfOHRHaC1SRlJaMDBFZ1hBU20tcW9QQjRSa2UxQ2Vyb2JSbFVJLWROeXNTOHlRMHY3VzNkMHg?oc=5",
+      "source": "LiteFinance",
+      "publishedAt": "2026-11-23T18:17:42+00:00",
+      "category": "Trends & Forecasts",
+      "image": ""
+    },
+    {
       "title": "Wall Street roars back as Nvidia reinstates Jensen Huang as CEO",
       "description": "Nvidia shares surged 32.2%, on track for their biggest one-day jump in more than two decades after an extraordinary reversal, which followed President Donald Trump’s call for Jensen Huang’s return",
       "url": "https://www.thehindu.com/business/markets/wall-street-roars-back-as-nvidia-reinstates-jensen-huang-as-ceo/article71736138.ece",
@@ -340,15 +1303,6 @@
       "publishedAt": "2026-11-23T18:15:03+00:00",
       "category": "Policy & Regulation",
       "image": "https://th-i.thgim.com/public/incoming/c3d16q/article71735364.ece/alternates/LANDSCAPE_1200/2026-11-23T141719Z_364830081_RC2REMAEENOQ_RTRMADP_3_NVIDIA-CEO.JPG"
-    },
-    {
-      "title": "How to clear the cache on your Fire TV",
-      "description": "Cache keeps software running smoothly, but can lead to problems if it gets too big and your device runs out of storage - which is quite easy with Fire TV.",
-      "url": "https://www.engadget.com/2320174/how-to-clear-cache-fire-tv/",
-      "source": "Engadget",
-      "publishedAt": "2026-11-23T18:15:00+00:00",
-      "category": "News",
-      "image": "https://www.engadget.com/img/gallery/how-to-clear-the-cache-on-your-fire-tv/l-intro-1794985217.jpg"
     },
     {
       "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
@@ -423,42 +1377,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/data-center-2.jpg"
     },
     {
-      "title": "2nd Test: South Africa in control as pacers rip Bangladesh apart on Day 1",
-      "description": "2nd Test: South Africa in control as pacers rip Bangladesh apart on Day 1",
-      "url": "https://www.indiatoday.in/sports/cricket/story/sa-vs-ban-2nd-test-south-africa-bowl-bangladesh-out-for-91-day-1-3045496-2026-11-23?utm_source=rss",
-      "source": "India Today Technology",
-      "publishedAt": "2026-11-23T17:57:19+00:00",
-      "category": "News",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/kagiso-rabada-235509368-16x9_0.jpg?VersionId=edcKa_xjEmEOv_Nx5XslJZLK9XDv.1lH"
-    },
-    {
-      "title": "Critical Cisco remote code execution bug under attack",
-      "description": "CISA, F6 sound the alarm after PoC exploit made public",
-      "url": "https://www.theregister.com/security/2026/11/23/critical-cisco-remote-code-execution-bug-under-attack/5311722",
-      "source": "The Register",
-      "publishedAt": "2026-11-23T17:56:56+00:00",
-      "category": "News",
-      "image": "https://image.theregister.com/?imageId=5249134&width=800"
-    },
-    {
-      "title": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
-      "description": "Jensen Huang comes back, numbers go up. Maybe the reason behind the CEO’s return is just that simple?",
-      "url": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/",
-      "source": "WIRED",
-      "publishedAt": "2026-11-23T17:52:56+00:00",
-      "category": "News",
-      "image": "https://media.wired.com/photos/6b0467fb5f8e6c0d7b84afc9/master/pass/Business_Nvidia%20Is%20Worth%20$1%20Trillion%20More%20Than%20It%20Was%20Yesterday.jpg"
-    },
-    {
-      "title": "How to save your Google Nest app videos before the January shutdown",
-      "description": "Google is retiring the Nest app in favor of the Google Home app. Here’s how to transfer your data.",
-      "url": "https://www.zdnet.com/home-and-office/how-to-save-your-google-nest-app-videos-switch-to-google-home/",
-      "source": "ZDNet",
-      "publishedAt": "2026-11-23T17:52:52+00:00",
-      "category": "News",
-      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/02eecfe6-7cf5-4662-963a-ca73ebae233b.jpg"
-    },
-    {
       "title": "On Yelp, actions speak louder than words, study reveals",
       "description": "As artificial intelligence makes it easier to pump out convincing reviews for restaurants and travel accommodations, a new study from the University of Massachusetts Amherst suggests a better clue to uncovering suspect reviews isn't the writing—it's the posting habits.",
       "url": "https://phys.org/news/2026-11-yelp-actions-louder-words-reveals.html",
@@ -513,15 +1431,6 @@
       "image": "https://www.engadget.com/img/gallery/you-can-block-ai-slop-and-spam-on-these-social-media-platforms/l-intro-1794769415.jpg"
     },
     {
-      "title": "Nvidia shares up nearly 33% and tech stocks rally after Jensen Huang returns",
-      "description": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 7%.",
-      "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "publishedAt": "2026-11-23T17:42:37+00:00",
-      "category": "Industry & Business",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80fb/live/5a6a1700-e753-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
       "title": "Aevius Labs launches with $22M to bring understandable intelligence to medical data",
       "description": "Boston-based Aevius Labs Inc., a clinical medical data company, today announced it has raised $22 million in funding led by Insight Partners to build and train artificial intelligence foundation models that can understand and query unstructured medical text, imaging and other data. A spinout of Mass General Brigham, a nonprofit academic...",
       "url": "https://siliconangle.com/2026/11/23/aevius-labs-launches-with-22m-to-bring-understandable-intelligence-to-medical-data/",
@@ -549,6 +1458,15 @@
       "image": ""
     },
     {
+      "title": "USN-9187-1: libssh vulnerabilities",
+      "description": "Haruto Kimura, Rinku Das, and Yi Lin discovered that libssh did not correctly handle SSH channel open messages advertising a zero maximum packet size. An authenticated user could possibly use this issue to cause libssh to use excessive resources, leading to a denial of service. This issue only affected Ubuntu 16.04 LTS, Ubuntu 18.04 LTS, and...",
+      "url": "https://ubuntu.com/security/notices/USN-9187-1",
+      "source": "Ubuntu Security Notices",
+      "publishedAt": "2026-11-23T17:32:05+00:00",
+      "category": "Threats",
+      "image": ""
+    },
+    {
       "title": "Studying Cancer Cells in Microgravity",
       "description": "This Nov. 19, 2026, image shows gastric microtumors grown within an Encapsulates biochip. The Encapsulate-1 investigation studies patient-derived tumor samples aboard the International Space Station to better understand how cancer cells move and interact in microgravity. The results could help researchers develop further testing to predict a...",
       "url": "https://www.nasa.gov/image-article/studying-cancer-cells-in-microgravity/",
@@ -558,22 +1476,13 @@
       "image": ""
     },
     {
-      "title": "You won’t see a Galaxy Watch 10 until 2028 – here’s why",
-      "description": "In an effort to cut costs, Samsung is postponing the launch of the Galaxy Watch 10, according to reports. Here’s what to know.",
-      "url": "https://www.zdnet.com/tech/samsung-galaxy-watch-10-biannual-release-2028/",
-      "source": "ZDNet",
-      "publishedAt": "2026-11-23T17:25:59+00:00",
-      "category": "News",
-      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/dsc00152_0f6feb.jpg"
-    },
-    {
-      "title": "What failure of COP31 reveals about a divided world",
-      "description": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks.",
-      "url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science",
-      "publishedAt": "2026-11-23T17:24:25+00:00",
-      "category": "News",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c650/live/3a868c20-e767-11f1-99a1-253766e7ad8b.jpg"
+      "title": "Automatic Fish Food Market To 2035: Smart Aquarium Adoption Drives Forward Growth - News and Statistics",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcmgta2tOd3FUeUJMMnlZN09IeFotQ2ZvSzFoRlBUR0VUWXMya3lwOG9mM2dqVWlKcmVHNTB5Y0s1UjhZSHc1VUlOaE16Vld0SDExeDRtQnZaRV9fS19rVHl3bWVYZXUzTUthcTVDUEtOajN5cS0yZnBzUUw0UXlVaDZTbzlpRVJ4eGhDSEdEOXI3X1RMQ3djYzFiaWYzM05qMXpfMmhqb1BSODBrN3ljaVEzcUp6OTFTZzhWbXVLTDJWWEVBUHowdXEzOWo0OWlHQWNGMTFmSnJwcWN4?oc=5",
+      "source": "IndexBox",
+      "publishedAt": "2026-11-23T17:26:04+00:00",
+      "category": "Trends & Forecasts",
+      "image": ""
     },
     {
       "title": "NASA Seeks Partners to Design First Nuclear Reactor for the Moon",
@@ -583,15 +1492,6 @@
       "publishedAt": "2026-11-23T17:23:50+00:00",
       "category": "Research & Discovery",
       "image": ""
-    },
-    {
-      "title": "Pixel Weather’s new feature lets you report your local conditions now",
-      "description": "Weather apps are notoriously inaccurate. Google’s new feature can help.",
-      "url": "https://www.zdnet.com/tech/pixel-weather-feature-local-weather-reports/",
-      "source": "ZDNet",
-      "publishedAt": "2026-11-23T17:22:27+00:00",
-      "category": "News",
-      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/IMG_20261123_112401.jpg"
     },
     {
       "title": "One random shot or none: A mathematical proof for learning a physical system from one experiment",
@@ -612,15 +1512,6 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/artificial-muscles-sen-2.jpg"
     },
     {
-      "title": "What important features should you look for in a home security camera?",
-      "description": "Stakes are high when choosing the right security camera. Our experienced writer will help you sort through priorities to make the right call for your home.",
-      "url": "https://www.engadget.com/2320283/important-home-security-camera-features/",
-      "source": "Engadget",
-      "publishedAt": "2026-11-23T17:15:00+00:00",
-      "category": "News",
-      "image": "https://www.engadget.com/img/gallery/what-important-features-should-you-look-for-in-a-home-security-camera/l-intro-1794421485.jpg"
-    },
-    {
       "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
       "description": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
       "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
@@ -630,8 +1521,8 @@
       "image": ""
     },
     {
-      "title": "Meta throws out its net-zero goal. Its competitors should be furious",
-      "description": "Meta walked back its 2030 net zero goal in its 2026 sustainability report, a decision that could send ripples throughout the tech industry.",
+      "title": "Meta throws out its net-zero goal — its competitors should be furious",
+      "description": "Meta walked back its 2030 net-zero goal in its 2026 sustainability report, a decision that could send ripples throughout the tech industry.",
       "url": "https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/",
       "source": "TechCrunch",
       "publishedAt": "2026-11-23T17:13:45+00:00",
@@ -646,15 +1537,6 @@
       "publishedAt": "2026-11-23T17:09:31+00:00",
       "category": "Emerging Technology",
       "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-23_22-05.png"
-    },
-    {
-      "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
-      "description": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
-      "url": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science",
-      "publishedAt": "2026-11-23T17:07:25+00:00",
-      "category": "News",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/810a/live/c0542f80-e73d-11f1-99a1-253766e7ad8b.jpg"
     },
     {
       "title": "Submit Applications for Africa Youth Climate Fund for Youth-Led Climate Action (Africa)",
@@ -711,15 +1593,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/nBtPjRHoWn5N4Fp5adHysh-1920-80.png"
     },
     {
-      "title": "Google is finally retiring the Nest app early next year",
-      "description": "It's also removing Google Assistant from smart speakers and displays.",
-      "url": "https://www.engadget.com/2325245/google-is-finally-retiring-the-nest-app-early-next-year/",
-      "source": "Engadget",
-      "publishedAt": "2026-11-23T16:59:56+00:00",
-      "category": "News",
-      "image": "https://www.engadget.com/img/gallery/google-is-finally-retiring-the-nest-app-early-next-year/l-intro-1795453127.jpg"
-    },
-    {
       "title": "Jensen Huang isn’t out of the woods yet",
       "description": "Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement.",
       "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
@@ -756,15 +1629,6 @@
       "image": ""
     },
     {
-      "title": "The pros and cons of wearing your Fitbit around your ankle",
-      "description": "Wearing a Fitbit around your ankle can improve monitoring and accuracy. But are there any downsides? How does a Fitbit on your wrist compare to your ankle?",
-      "url": "https://www.engadget.com/2320282/pros-cons-wearing-fitbit-ankle/",
-      "source": "Engadget",
-      "publishedAt": "2026-11-23T16:45:00+00:00",
-      "category": "News",
-      "image": "https://www.engadget.com/img/gallery/the-pros-and-cons-of-wearing-your-fitbit-around-your-ankle/l-intro-1794517903.jpg"
-    },
-    {
       "title": "Police to get 1,200 body cameras, but not before end-2027",
       "description": "",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcW53a3l4ZnlWN05BYkFSVm9GLUoyR1FSTG5BWWRfVUp1VDI0WGRRcGhpYnlSc3JJVUFqeUI1a1dxajVYSkVFVU9TQlVDTWhkay13NktiMWRUTzJPR0FxMEdBdWNfNGhzdVhHcnZaYndfZWRibnFnMFRnYWFUM2JNTmUzQ3hIY1prV3hjZVZLekM2Zw?oc=5",
@@ -784,7 +1648,7 @@
     },
     {
       "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
-      "description": "\"I spoke to them, let me put it that way... And I convinced them,\" the president told CNBC.",
+      "description": "\"I spoke to them, let me put it that way … And I convinced them,\" the president told CNBC.",
       "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
       "source": "TechCrunch",
       "publishedAt": "2026-11-23T16:39:10+00:00",
@@ -819,15 +1683,6 @@
       "image": "https://hackaday.com/wp-content/uploads/2026/11/super_network_adapter_boland.jpg"
     },
     {
-      "title": "Tech leaders are celebrating Jensen Huang’s return",
-      "description": "Let's say you're Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates, and (allegedly!) \"terrorized\" your employees, a series of indiscretions that led to your ouster from what was once the world's most valuable company. (The stock price has recently taken […]",
-      "url": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
-      "source": "The Verge",
-      "publishedAt": "2026-11-23T16:28:15+00:00",
-      "category": "News",
-      "image": ""
-    },
-    {
       "title": "How to Update Chipset Drivers on Windows 11 in 12 Steps",
       "description": "",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORWR6OGdLc3VhREI2U0hlY2w5bjdJdjZ2RDA1bDVsTDNhS3owdE52azBreVZMRmU0SGJDOG9paWszUEdGSWJhUzQ3N2xXX2ZBZnlmNS1WbEd4Qmc3Y0RxbUN3SFF5YnpHOTdfd2xEQ3BYdXQ2MTNMa1dNdTVGVDhjNTlPVzdOdw?oc=5",
@@ -835,15 +1690,6 @@
       "publishedAt": "2026-11-23T16:22:40+00:00",
       "category": "Updates & Patches",
       "image": ""
-    },
-    {
-      "title": "New approach enables physically consistent AI models of chaotic systems",
-      "description": "Modeling of complex, chaotic processes such as weather and climate patterns and turbulent flows in aviation or in ocean currents has advanced enormously in recent years. However, such models are still prone to drift into physically impossible predictions over time.",
-      "url": "https://techxplore.com/news/2026-11-approach-enables-physically-ai-chaotic.html",
-      "source": "Phys.org Technology",
-      "publishedAt": "2026-11-23T16:20:23+00:00",
-      "category": "Emerging Technology",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-approach-enables-p.jpg"
     },
     {
       "title": "CrowdStrike to acquire Zscaler for $44 billion",
@@ -871,33 +1717,6 @@
       "publishedAt": "2026-11-23T16:16:00+00:00",
       "category": "Alert",
       "image": "https://image.theregister.com/?imageId=5295388&width=800"
-    },
-    {
-      "title": "What the green flashing light on your Roku remote is telling you",
-      "description": "Find out what your Roku remote's green light means, when it's harmless and when it signals a problem, plus what to do if your remote isn't working as it should.",
-      "url": "https://www.engadget.com/2321531/what-green-flasing-light-roku-remote-telling-you/",
-      "source": "Engadget",
-      "publishedAt": "2026-11-23T16:15:00+00:00",
-      "category": "News",
-      "image": "https://www.engadget.com/img/gallery/what-the-green-flashing-light-on-your-roku-remote-is-telling-you/l-intro-1795026720.jpg"
-    },
-    {
-      "title": "CyberRidge Selected for The Lucrative EIC Award For Innovation In Quantum Security",
-      "description": "Insider Brief PRESS RELEASE — CyberRidge has been selected for co-funding by the European Innovation Council (EIC), Europe’s flagship program for breakthrough technologies. In this highly selective round, only 71 companies were chosen out of 1211 applicants. The European Commission set up the EIC in 2021 to identify, develop, and scale...",
-      "url": "https://thequantuminsider.com/2026/11/23/cyberridge-european-innovation-council-co-funding/",
-      "source": "The Quantum Insider",
-      "publishedAt": "2026-11-23T16:13:07+00:00",
-      "category": "Emerging Technology",
-      "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-23_21-11.png"
-    },
-    {
-      "title": "How important are Nvidia and Jensen Huang to the US economy?",
-      "description": "The Nvidia chief executive has been at the centre of the artificial intelligence boom.",
-      "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "publishedAt": "2026-11-23T16:12:35+00:00",
-      "category": "News",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8241/live/e3e3a9c0-e2a7-11f1-8226-87dfa5049e9a.jpg"
     },
     {
       "title": "Microchip Technology’s AVR SD MCUs Gain UL Recognition for IEC 60730-2-5 Class C Safety Standards",
@@ -929,9 +1748,9 @@
     {
       "title": "Microchip AVR® SD MCUs Enable Simplified Development of IEC 60730 Class C-Compliant Systems",
       "description": "",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWDVIblBqWnAzNkIwSnZwNVEyWlRJaDd6YTFKNEVsR3JTZ1RleGIxTGhnZGNWeWRHZl95QnRNa3ZsMWJyQ2NOejlsQmwzdDJpaDdkRkVoUFZxT0t5ZTFPeXczMVpBUloza2tGMXpjeXEtbkJHekpFMHlGOHQ0d0Q4MjlSMURMWXQ0TE10TGV0X0ptU1gxZVhmZ1lLa196NGdmUDdyODJSNndlMy1STEVkSlh4a1Jpak1kb005Z21iRktBUWdJWXk1emdoT2s0TTBabUZTVGYtNUNiRXRhVmtQODlvWjN3VG1LWGc?oc=5",
-      "source": "Microchip Technology",
-      "publishedAt": "2026-11-23T16:04:15+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOclpacGdkb2NzeEplbE50aWhVTlhTMnA5NFBOODljT0pHZEZWOTlXZ21LUmFFMVVtM0ZuNnhpUFVsalZzeGxQMDhrRE9tbTZiUk00M1JEQ2xZUl9FMVVqZGhRZjFGYVBzQ3M1OXphckRZamE5TjJ1Nzc2cWQxY2xlSjdsSXJmVHNDTkFMMGcxTW5oMjdZdFozWm5UM05lN1J4ckZrMXkwVmJLbVU?oc=5",
+      "source": "Quantisnow",
+      "publishedAt": "2026-11-23T16:05:43+00:00",
       "category": "Updates & Patches",
       "image": ""
     },
@@ -954,24 +1773,6 @@
       "image": ""
     },
     {
-      "title": "Two states sue SpaceX over sexually explicit Grok deepfakes",
-      "description": "Oregon and Virginia's attorneys general said the company broke state consumer protection laws.",
-      "url": "https://www.engadget.com/2325111/two-states-sue-spacex-over-sexually-explicit-grok-deepfakes/",
-      "source": "Engadget",
-      "publishedAt": "2026-11-23T15:57:49+00:00",
-      "category": "News",
-      "image": "https://www.engadget.com/img/gallery/two-states-sue-spacex-over-sexually-explicit-grok-deepfakes/l-intro-1795449366.jpg"
-    },
-    {
-      "title": "Marvel crams every superhero ever into Avengers: Doomsday final trailer",
-      "description": "\"All of you have lived stolen lives. But now you must give them back.\"",
-      "url": "https://arstechnica.com/culture/2026/11/marvel-crams-every-superhero-ever-into-avengers-doomsday-final-trailer/",
-      "source": "Ars Technica",
-      "publishedAt": "2026-11-23T15:55:12+00:00",
-      "category": "News",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/doomsday1-1152x648.jpg"
-    },
-    {
       "title": "RBI Proposes ‘Stop Switch’ To Block Digital Payment Frauds",
       "description": "The Reserve Bank of India (RBI) has proposed a set of safeguards against electronic payment frauds, including an account-wide ‘Stop…",
       "url": "https://inc42.com/buzz/rbi-proposes-stop-switch-to-block-digital-payment-frauds/",
@@ -988,24 +1789,6 @@
       "publishedAt": "2026-11-23T15:50:34+00:00",
       "category": "Industry & Business",
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Jensen-Huang.png"
-    },
-    {
-      "title": "Rising Stars Asia Cup: Captain Tilak, bowling under pressure as India A face UAE",
-      "description": "Rising Stars Asia Cup: Captain Tilak, bowling under pressure as India A face UAE",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-a-vs-uae-asia-cup-rising-stars-tilak-varma-semifinal-preview-3045407-2026-11-23?utm_source=rss",
-      "source": "India Today Technology",
-      "publishedAt": "2026-11-23T15:50:01+00:00",
-      "category": "News",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/tilak-varma-233555624-16x9_1.jpg?VersionId=RFlkjnOApYrcAUDYVD9.Zl3ULx0OhXNh"
-    },
-    {
-      "title": "The rise and fall and rise again of Jensen Huang",
-      "description": "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return.",
-      "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "publishedAt": "2026-11-23T15:49:52+00:00",
-      "category": "News",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38db/live/e8339120-deb0-11f1-93e1-3b657b665bcf.jpg"
     },
     {
       "title": "Azure Flaw Exploited to Target Secrets at Norwegian Energy Firms",
@@ -1080,40 +1863,13 @@
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/shopping-on-your-phone.jpg"
     },
     {
-      "title": "Local lattice distortion shows promise for designing self-healing alloys",
-      "description": "Multi-principal element alloys (MPEAs) are structural materials with strong mechanical properties, good resistance to radiation damage and broad compositional flexibility. These features make them promising candidates for next-generation nuclear, aerospace and fusion applications. Their development has been hindered, however, by the cost of...",
-      "url": "https://techxplore.com/news/2026-11-local-lattice-distortion-alloys.html",
-      "source": "Phys.org Technology",
-      "publishedAt": "2026-11-23T15:20:08+00:00",
-      "category": "Innovation",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/local-lattice-distorti.jpg"
-    },
-    {
-      "title": "Special Report: Engineering Focus on Motion Control",
-      "description": "The Robot Report looks at recent advances in automation for manufacturing, from improvements in technologies and use cases to the potential of humanoids and AI. The post Special Report: Engineering Focus on Motion Control appeared first on The Robot Report .",
-      "url": "https://www.therobotreport.com/special-report-engineering-focus-on-motion-control/",
-      "source": "The Robot Report",
-      "publishedAt": "2026-11-23T15:16:26+00:00",
-      "category": "Emerging Technology",
-      "image": ""
-    },
-    {
-      "title": "‘Middle Power Leverage’ is a Trap for Europe's Industrial AI",
+      "title": "Mexico's Rail Signaling Procurement Faces Lock-In Risks",
       "description": "",
-      "url": "https://techpolicy.press/middle-power-leverage-is-a-trap-for-europes-industrial-ai",
-      "source": "Tech Policy Press",
-      "publishedAt": "2026-11-23T15:11:53+00:00",
-      "category": "Emerging Technology",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNY2JSeENIV3dTMWJnVnZlMzJmaGV2aTR1WklEc0FPaE5qQ2VPS2hEcEo5RTVsTUVyX1N1S1F1a1dPX090SEpPcTBYV1lDNy1wQklrVlZSVnFpVHJEbVdWSmxxUWdmamluZjN5UkFWUjFqLWEzdG8xM2RiVG1BQ1FsVTlGVjZrbWVoblJvX2N1dV9ra29Kcm9JU2liQUc5d3B0?oc=5",
+      "source": "Mexico Business News",
+      "publishedAt": "2026-11-23T15:15:38+00:00",
+      "category": "Updates & Patches",
       "image": ""
-    },
-    {
-      "title": "'Avengers: Doomsday' gets final trailer, explaining why Steve Rogers is back and showing an epic battle with the X-Men",
-      "description": "The final trailer for Avengers: Doomsday just landed, and it finally puts the spotlight on our boy Steve Rogers. Avengers: Doomsday has been promising the scale and excitement the MCU has often been lacking since the Infinity Saga. Previous trailers played it safe, mostly setting up the conflict and introducing Victor Von Doom. Now it’s time...",
-      "url": "https://www.space.com/entertainment/space-movies-shows/avengers-doomsday-gets-final-trailer-explaining-why-steve-rogers-is-back-and-showing-an-epic-battle-with-the-x-men",
-      "source": "Space.com",
-      "publishedAt": "2026-11-23T15:10:59+00:00",
-      "category": "Emerging Technology",
-      "image": "https://cdn.mos.cms.futurecdn.net/ofmf2gCxkXRprsAfLHYqJb-1920-80.jpg"
     },
     {
       "title": "⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble",
@@ -1179,42 +1935,6 @@
       "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Jensen-Huang-Resigns-featured-2.png"
     },
     {
-      "title": "AI Is Advancing Faster Than It Can Be Tested. How Can Science Keep Up?",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOEo3b0F6RllSTjhpb0U1djFuOXo1VDFzU3BQRXRGNU1sdTJMMERZWGtSSFdRVE8xTXF1V3llaXAzMXlUUTd4WDkzSm9VRnFHc21HVkFWSXpNZFh2SW84cGhwdGZwSGQ4WG1FZXBvdGpZR2tnTWlKd1JNRmJUYkZxZmRJQWR2dkJuSEVmcTFKUG9TdDAyY01NcmdjS0l5N2tmYkJrbjNOdWM1Wmc?oc=5",
-      "source": "National Academies of Sciences, Engineering, and Medicine",
-      "publishedAt": "2026-11-23T15:02:06+00:00",
-      "category": "Emerging Technology",
-      "image": ""
-    },
-    {
-      "title": "Researchers develop smarter way to handle tokens in long-context AI",
-      "description": "When we give a large language model (LLM), such as GPT-4, Llama or Mistral, a task such as summarizing a lengthy research paper or a conversation, it first breaks the text into smaller units called tokens. The model then processes these tokens to understand the text and generate a response. Today's LLMs can process inputs exceeding 128,000...",
-      "url": "https://techxplore.com/news/2026-11-smarter-tokens-context-ai.html",
-      "source": "Phys.org Technology",
-      "publishedAt": "2026-11-23T15:00:25+00:00",
-      "category": "Emerging Technology",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/seoultech-researchers-3.jpg"
-    },
-    {
-      "title": "How Modern Smartphones Talk To Satellites",
-      "description": "The common cellular phone has always been a terrestrial communications device, speaking to towers dotted about the landscape. Meanwhile, satellite phones have long existed as specialized equipment, for staying in …read more",
-      "url": "https://hackaday.com/2026/11/23/how-modern-smartphones-talk-to-satellites/",
-      "source": "Hackaday",
-      "publishedAt": "2026-11-23T15:00:16+00:00",
-      "category": "Innovation",
-      "image": "https://hackaday.com/wp-content/uploads/2019/08/SatellitePhone.jpg"
-    },
-    {
-      "title": "AI Agents Are Creating a Shared Responsibility Gap",
-      "description": "AI agents operate across multiple platforms, creating security gaps when no single vendor can see or control their actions. Token Security examines the shared responsibility problem and explains how organizations can better manage agent identities, permissions, and accountability. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/",
-      "source": "BleepingComputer",
-      "publishedAt": "2026-11-23T15:00:10+00:00",
-      "category": "Emerging Technology",
-      "image": ""
-    },
-    {
       "title": "Strengthening Canada’s Nitrogen-Vacancy Diamond Capability Challenge",
       "description": "",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTjktTWROMTZOLUZINXNsYkl2dzlwSU5vT3BJWER2Ti1Da1REODJ5NGNVSDJ0X3hxUUZZVFluMEpwRmc3WTFGVDdZcWgxNnAwZjh3M2JoNmN5NlVaNHgxYkhvSVBCeWpVR1pDNE04MlNNbjhpSDlLMkEwVkt0dllSMDlGTmVoQmItRkdnUmdWMGhpLUxfcGxRWEJXZXpGMjV5UDAzUU1LVDF4MlFUeWfSAbMBQVVfeXFMUG9wa050Rk5qN05GOUtYeGM0dVZuUHI0ZU5wczlFUVh1Y2JQNmVJM0pUOUp6ZGo2VW9oYlhrbVJNRnZSdFVrYlNaaHIxT2tOMUtod0tPOTg4X1dzeVc3T253WUhHS0ZENDZTU2FuV21uR09sXzh5YzY5T1R0R3NHLTVHSkpSdUx6dHNMTjB3QzlaMC1PeWVoQlpPbi02Sk1leGk0eS1CTU5oZGxLOEx4dkhKU00?oc=5",
@@ -1233,24 +1953,6 @@
       "image": ""
     },
     {
-      "title": "The remains of a long-dead volcano on Mars | Space photo of the day for Nov. 23, 2026",
-      "description": "An image of Tharsis Tholus, a volcano on the surface of Mars, produced by ESA's Mars Express orbiter. (Image credit: ESA/DLR/FU Berlin) Researchers have spotted an ancient, \"dead\" Martian volcano from orbit around the Red Planet. What is it? The European Space Agency's Mars Express spacecraft, which has been orbiting and studying the planet...",
-      "url": "https://www.space.com/astronomy/mars/the-remains-of-a-long-dead-volcano-on-mars-space-photo-of-the-day-for-nov-23-2026",
-      "source": "Space.com",
-      "publishedAt": "2026-11-23T15:00:00+00:00",
-      "category": "Emerging Technology",
-      "image": "https://cdn.mos.cms.futurecdn.net/5d3LYVkAKDiKmfAThuXhF4-1920-80.png"
-    },
-    {
-      "title": "Robotics Is Coming for Workers’ Data. It’s Time for a National Response",
-      "description": "",
-      "url": "https://techpolicy.press/robotics-is-coming-for-workers-data-its-time-for-a-national-response",
-      "source": "Tech Policy Press",
-      "publishedAt": "2026-11-23T14:55:10+00:00",
-      "category": "Emerging Technology",
-      "image": ""
-    },
-    {
       "title": "Nvidia CEO Jensen Huang is back after a stunning reversal",
       "description": "Nvidia’s board unanimously reinstated Huang 11 days after his removal, but his troubles may not be over.",
       "url": "https://www.zdnet.com/innovation/jensen-huang-is-back-as-nvidia-ceo-after-a-stunning-reversal/",
@@ -1260,132 +1962,6 @@
       "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2301328017.jpg"
     },
     {
-      "title": "NASA pauses Perseverance science and Mars Odyssey duties as both spacecraft hit glitches",
-      "description": "NASA has paused science work on its Perseverance Mars rover and its 2001 Mars Odyssey...",
-      "url": "https://interestingengineering.com/space/nasa-mars-rover-fault-perseverance-odyssey",
-      "source": "Interesting Engineering",
-      "publishedAt": "2026-11-23T14:51:30+00:00",
-      "category": "Emerging Technology",
-      "image": ""
-    },
-    {
-      "title": "'Self-reflective' robot recognizes its limitations",
-      "description": "A new AI model developed by researchers at the Technical University of Munich (TUM) teaches robots to recognize their own limitations. When they encounter an unfamiliar situation they cannot handle, for example, they simply stop and wait for someone to help them. This enables robots to continuously learn new skills without forgetting what they...",
-      "url": "https://techxplore.com/news/2026-11-robot-limitations.html",
-      "source": "Phys.org Technology",
-      "publishedAt": "2026-11-23T14:48:16+00:00",
-      "category": "Emerging Technology",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/self-reflective-robot.jpg"
-    },
-    {
-      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
-      "description": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
-      "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-23T14:43:03+00:00",
-      "category": "Industry & Business",
-      "image": ""
-    },
-    {
-      "title": "'The sacred object in mathematics': The Riemann hypothesis, AI and a proof no human can read",
-      "description": "On Friday, Turkish American mathematician and Anthropic employee Levent Alpöge announced he had produced a proof of the Riemann hypothesis, one of the most important and famous open problems in mathematics, with the aid of an artificial intelligence (AI) model.",
-      "url": "https://phys.org/news/2026-11-sacred-mathematics-riemann-hypothesis-ai.html",
-      "source": "Phys.org",
-      "publishedAt": "2026-11-23T14:40:08+00:00",
-      "category": "Emerging Technology",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/14-mathematical.jpg"
-    },
-    {
-      "title": "US energy firms back 77 MW modular nuclear reactors for commercial grid integration",
-      "description": "A new engineering alliance aims to accelerate the global rollout of compact, round-the-clock nuclear power...",
-      "url": "https://interestingengineering.com/energy/us-77-mw-modular-nuclear-reactors",
-      "source": "Interesting Engineering",
-      "publishedAt": "2026-11-23T14:37:54+00:00",
-      "category": "Innovation",
-      "image": ""
-    },
-    {
-      "title": "Jensen Huang Is Back as Nvidia CEO",
-      "description": "The company’s board of directors has reinstated Huang a little more than a week after the CEO resigned amid allegations of multiple affairs, including with a direct report.",
-      "url": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/",
-      "source": "WIRED",
-      "publishedAt": "2026-11-23T14:27:35+00:00",
-      "category": "Industry & Business",
-      "image": "https://media.wired.com/photos/6b04495d307e146147156b9d/master/pass/GettyImages-2266718431.jpg"
-    },
-    {
-      "title": "China claims record with nearly 6,000-foot deep oil well casing replacement",
-      "description": "Xinjiang Oilfield, a unit of China National Petroleum Corp. (CNPC), reports it replaced damaged well...",
-      "url": "https://interestingengineering.com/energy/china-oil-well-casing-replacement-cnpc",
-      "source": "Interesting Engineering",
-      "publishedAt": "2026-11-23T14:27:31+00:00",
-      "category": "Innovation",
-      "image": ""
-    },
-    {
-      "title": "China’s military fields portable ‘Wi-Fi’ terminals to bypass battlefield cable setups",
-      "description": "Chinese military units are leveraging the power of portable and lightweight Wi-Fi terminals to remain...",
-      "url": "https://interestingengineering.com/innovation/chinese-portable-wifi-battlefield-connectivity",
-      "source": "Interesting Engineering",
-      "publishedAt": "2026-11-23T14:24:15+00:00",
-      "category": "Innovation",
-      "image": ""
-    },
-    {
-      "title": "US firm unveils 684-mile BOMBARD attack drone with World War II-era pulse-jet",
-      "description": "Vector, a drone maker in Bluffdale, Utah, unveiled BOMBARD, a ground-launched attack drone with a...",
-      "url": "https://interestingengineering.com/military/us-bombard-attack-drone-vector-pulse-jet",
-      "source": "Interesting Engineering",
-      "publishedAt": "2026-11-23T14:23:20+00:00",
-      "category": "Innovation",
-      "image": ""
-    },
-    {
-      "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
-      "description": "The stunning reversal was supported by senior officials in the U.S. government.",
-      "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-23T14:21:59+00:00",
-      "category": "Industry & Business",
-      "image": ""
-    },
-    {
-      "title": "NVIDIA reinstates Jensen Huang after 11-day absence",
-      "description": "The NVIDIA board reversed its decision following discussions with Huang and senior U.S. government officials, amid growing pressure from the White House, investors and technology executives. The post NVIDIA reinstates Jensen Huang after 11-day absence appeared first on The Robot Report .",
-      "url": "https://www.therobotreport.com/nvidia-reinstates-jensen-huang-after-11-day-absence/",
-      "source": "The Robot Report",
-      "publishedAt": "2026-11-23T14:20:46+00:00",
-      "category": "Emerging Technology",
-      "image": ""
-    },
-    {
-      "title": "Public protests can reduce sexual violence",
-      "description": "With the 16 Days of Activism against Gender-Based Violence campaign beginning on Nov. 25, new research suggests public protests can do more than raise awareness of violence against women—they can help reduce sexual violence.",
-      "url": "https://phys.org/news/2026-11-protests-sexual-violence.html",
-      "source": "Phys.org",
-      "publishedAt": "2026-11-23T14:20:10+00:00",
-      "category": "Research & Discovery",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/protest-against-violen.jpg"
-    },
-    {
-      "title": "NVIDIA reinstates Jensen Huang as CEO and president, effective immediately",
-      "description": "So much for the board not intending to bring him back.",
-      "url": "https://www.engadget.com/2324897/nvidia-reinstates-jensen-huang-as-ceo-and-president-effective-immediately/",
-      "source": "Engadget",
-      "publishedAt": "2026-11-23T14:16:53+00:00",
-      "category": "Industry & Business",
-      "image": "https://www.engadget.com/img/gallery/nvidia-reinstates-jensen-huang-as-ceo-and-president-effective-immediately/l-intro-1795453171.jpg"
-    },
-    {
-      "title": "Learn How 5G NTN Architecture, Mobility, and Testing Shape 6G",
-      "description": "What you will learn about: How 3GPP standards from Release 15 to Release 19 built the foundation of NR-NTN, and why NTN extends 5G coverage to oceans, rural regions, and disaster zones. How transparent and regenerative satellite payload architectures differ, and what each choice means for round trip time, link budget, and hardware complexity....",
-      "url": "https://content.knowledgehub.wiley.com/5g-ntn-takes-flight-a-deep-dive-into-nr-ntn-technology-and-testing-aspects/",
-      "source": "IEEE Spectrum",
-      "publishedAt": "2026-11-23T14:08:53+00:00",
-      "category": "Emerging Technology",
-      "image": "https://assets.rbl.ms/68750286/origin.png"
-    },
-    {
       "title": "GTA 6 hacker released on licence with warning 'don't let this happen again'",
       "description": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
       "url": "https://www.bbc.co.uk/news/articles/cqpv9kr7pxmro?at_medium=RSS&at_campaign=rss",
@@ -1393,24 +1969,6 @@
       "publishedAt": "2026-11-23T14:08:50+00:00",
       "category": "Threats",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e22e/live/1d07a600-e269-11f1-a094-5fdc692f3e33.png"
-    },
-    {
-      "title": "'SLIC' training could help engineers design analog chips faster and with less expense",
-      "description": "A new technique developed by MIT researchers could help engineers use artificial intelligence to streamline the design and innovation of analog integrated circuits, semiconductor chips that perform vital functions like communication and power management in electronic devices.",
-      "url": "https://techxplore.com/news/2026-11-slic-analog-chips-faster-expense.html",
-      "source": "Phys.org Technology",
-      "publishedAt": "2026-11-23T14:00:11+00:00",
-      "category": "Innovation",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/semiconductor-chip-1.jpg"
-    },
-    {
-      "title": "Uber now lets you book rides that record the drive by default",
-      "description": "The option, which uses the front camera of the Uber driver's phone to record the entire drive, will show up as \"Recorded Rides\" in the app.",
-      "url": "https://techcrunch.com/2026/11/23/uber-now-lets-you-book-rides-that-record-the-drive-by-default/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-23T14:00:00+00:00",
-      "category": "Industry & Business",
-      "image": ""
     },
     {
       "title": "Trends and Forecast Analysis of the Dental Impression Systems Market Indicate Significant Long-Term Growth Potential",
@@ -1431,15 +1989,6 @@
       "image": ""
     },
     {
-      "title": "COP31 collapse has shattered the pretence of a global climate consensus",
-      "description": "Climate progressive countries took the radical step of torpedoing a deal at the UN summit in Turkey amid outrage over obstructionist tactics from petrostates. What happens now?",
-      "url": "https://www.newscientist.com/article/2600331-cop31-collapse-has-shattered-the-pretense-of-a-global-climate-consensus/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "source": "New Scientist",
-      "publishedAt": "2026-11-23T13:58:53+00:00",
-      "category": "Research & Discovery",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321789201.jpg"
-    },
-    {
       "title": "phpAfterShell Vulnerability Revives PHP2Shell’s Attack Path",
       "description": "If a session overwrite operation is interrupted, an attacker who controls the fresh data could trigger data deserialization and RCE. The post phpAfterShell Vulnerability Revives PHP2Shell’s Attack Path appeared first on SecurityWeek .",
       "url": "https://www.securityweek.com/phpaftershell-vulnerability-revives-php2shells-attack-path/",
@@ -1458,111 +2007,12 @@
       "image": ""
     },
     {
-      "title": "Scientists control a virtual fruit fly with map of insect’s brain",
-      "description": "Modeling effort aims to predict how neuron activity drives animal movement",
-      "url": "https://www.science.org/content/article/scientists-control-virtual-fruit-fly-map-insect-s-brain",
-      "source": "Science",
-      "publishedAt": "2026-11-23T13:53:58.631225+00:00",
-      "category": "Research & Discovery",
-      "image": ""
-    },
-    {
-      "title": "Killing more sea lions won’t help endangered salmon recover, model suggests",
-      "description": "Surprising result contrasts with earlier studies and complicates policy debates about culling",
-      "url": "https://www.science.org/content/article/killing-more-sea-lions-won-t-help-endangered-salmon-recover-model-suggests",
-      "source": "Science",
-      "publishedAt": "2026-11-23T13:53:58.631225+00:00",
-      "category": "Research & Discovery",
-      "image": ""
-    },
-    {
-      "title": "Flawed research papers should be retracted faster, U.S. academy urges",
-      "description": "Report recommends deadlines and destigmatizing errors",
-      "url": "https://www.science.org/content/article/flawed-research-papers-should-be-retracted-faster-u-s-academy-urges",
-      "source": "Science",
-      "publishedAt": "2026-11-23T13:53:58.631225+00:00",
-      "category": "Research & Discovery",
-      "image": ""
-    },
-    {
-      "title": "Chemists are uncovering a hidden world of pollution",
-      "description": "New analytical tools are revealing thousands of chemicals that conventional tests miss",
-      "url": "https://www.science.org/content/article/chemists-are-uncovering-hidden-world-pollution",
-      "source": "Science",
-      "publishedAt": "2026-11-23T13:53:58.631225+00:00",
-      "category": "Research & Discovery",
-      "image": ""
-    },
-    {
-      "title": "China is importing thousands of research primates, sparking fears of monkey trade war",
-      "description": "Animals are coming from Cambodia, which has been accused of laundering wild-caught monkeys",
-      "url": "https://www.science.org/content/article/china-importing-thousands-research-primates-sparking-fears-monkey-trade-war",
-      "source": "Science",
-      "publishedAt": "2026-11-23T13:53:58.631225+00:00",
-      "category": "Research & Discovery",
-      "image": ""
-    },
-    {
-      "title": "NIH director calls for new probe of controversial COVID-19 origin paper",
-      "description": "Bhattacharya wants Nature Medicine to review whether former NIH leaders ghostwrote manuscript challenging theory an engineered virus caused pandemic",
-      "url": "https://www.science.org/content/article/nih-director-calls-new-probe-controversial-covid-19-origin-paper",
-      "source": "Science",
-      "publishedAt": "2026-11-23T13:53:58.631225+00:00",
-      "category": "Research & Discovery",
-      "image": ""
-    },
-    {
-      "title": "Researchers regain key connections to Department of Energy’s science wing",
-      "description": "New advisory subpanels bring back some functions of advisory committees disbanded last year",
-      "url": "https://www.science.org/content/article/researchers-regain-key-connections-department-energy-s-science-wing",
-      "source": "Science",
-      "publishedAt": "2026-11-23T13:53:58.631225+00:00",
-      "category": "Research & Discovery",
-      "image": ""
-    },
-    {
-      "title": "Are T cell ‘engagers’ the next big thing in autoimmune disease treatment?",
-      "description": "Engineered antibodies may produce remissions and offer safety benefits over cell therapies that have killed patients",
-      "url": "https://www.science.org/content/article/are-t-cell-engagers-next-big-thing-autoimmune-disease-treatment",
-      "source": "Science",
-      "publishedAt": "2026-11-23T13:53:58.631225+00:00",
-      "category": "Research & Discovery",
-      "image": ""
-    },
-    {
-      "title": "Space entrepreneurs should look to 16th-century spice trade for inspiration",
-      "description": "Despite all the hype about a new space economy, humanity has yet to reap much benefit from off-world mining, manufacturing or space tourism.",
-      "url": "https://phys.org/news/2026-11-space-entrepreneurs-16th-century-spice.html",
-      "source": "Phys.org",
-      "publishedAt": "2026-11-23T13:50:01+00:00",
-      "category": "Research & Discovery",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/space-entrepreneurs-sh.jpg"
-    },
-    {
-      "title": "Superintelligence could soon surpass humans, warns Meta executive amid safety concerns",
-      "description": "Meta Chief AI Officer Alexandr Wang has warned that artificial superintelligence (ASI), capable of surpassing...",
-      "url": "https://interestingengineering.com/ai-robotics/ai-surpass-human-intelligence",
-      "source": "Interesting Engineering",
-      "publishedAt": "2026-11-23T13:46:31+00:00",
-      "category": "Innovation",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/unnamed-file-28.jpg"
-    },
-    {
-      "title": "US scientists’ novel approach helps diamond qubits reach 0.28 concurrence",
-      "description": "Quantum scientists at the University of Delaware in the US have reached a predicted concurrence...",
-      "url": "https://interestingengineering.com/science/us-quantum-entanglement-diamond-qubits",
-      "source": "Interesting Engineering",
-      "publishedAt": "2026-11-23T13:46:15+00:00",
-      "category": "Innovation",
-      "image": ""
-    },
-    {
-      "title": "World’s first 1,500V DC contactor handles 600A with 150,000 switching cycles",
-      "description": "Siemens has introduced the SIRIUS 3QC1, the world’s first semiconductor-based heavy-duty direct current (DC) contactor...",
-      "url": "https://interestingengineering.com/innovation/siemens-worlds-first-1500v-dc-contactor",
-      "source": "Interesting Engineering",
-      "publishedAt": "2026-11-23T13:45:59+00:00",
-      "category": "Innovation",
+      "title": "Wall Street Analysts Predict a 26.5% Upside in PAR Technology (PAR): Here's What You Should Know",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcHVYRHJYLUpqVi1aUWFTMkJCMlpBVy0wSjJja3EyVE1ZN2VBdGJZX0g4R2VxLTdmY2htM01tYVFYZV9hbFFvcFdKdzA1Y3Jlc01pMHpLRUFDaF9fdDA2cEtqMUVUcmdWZXVTQVNkY0k1MU16Y01QaTJTZkM0aHd5b1RzWlNUSUk?oc=5",
+      "source": "Yahoo Finance Singapore",
+      "publishedAt": "2026-11-23T13:55:04+00:00",
+      "category": "Trends & Forecasts",
       "image": ""
     },
     {
@@ -1573,33 +2023,6 @@
       "publishedAt": "2026-11-23T13:45:00+00:00",
       "category": "Policy & Regulation",
       "image": ""
-    },
-    {
-      "title": "Laser sets world record with flashes reaching wavelength of 0.04 nanometers",
-      "description": "Researchers at DESY and European XFEL have broken their own world record by reliably generating...",
-      "url": "https://interestingengineering.com/innovation/30000-ev-x-ray-flashes",
-      "source": "Interesting Engineering",
-      "publishedAt": "2026-11-23T13:42:09+00:00",
-      "category": "Innovation",
-      "image": ""
-    },
-    {
-      "title": "World’s first 300 MW artificial-cavern energy storage plant connects to China’s grid",
-      "description": "China has connected a 300-megawatt compressed air energy storage plant to the power grid, using...",
-      "url": "https://interestingengineering.com/energy/china-caes-plant-grid-world-first",
-      "source": "Interesting Engineering",
-      "publishedAt": "2026-11-23T13:37:23+00:00",
-      "category": "Innovation",
-      "image": ""
-    },
-    {
-      "title": "Xairos Appoints Armen Minasian to Board of Advisors",
-      "description": "Insider Brief PRESS RELEASE — Xairos Systems, Inc. (Xairos), a quantum technology company developing resilient timing and networking solutions, today announced the appointment of Armen Minasian to its Board of Advisors to support investment and capital strategy as the company commercializes its proprietary Quantum Time Transfer (QTT)...",
-      "url": "https://thequantuminsider.com/2026/11/23/xairos-appoints-armen-minasian-board-advisor/",
-      "source": "The Quantum Insider",
-      "publishedAt": "2026-11-23T13:36:39+00:00",
-      "category": "Industry & Business",
-      "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-23_18-35.png"
     },
     {
       "title": "MoEngage cyberattack hits ZebPay customers, putting third-party security under scrutiny",
@@ -1665,24 +2088,6 @@
       "image": ""
     },
     {
-      "title": "Bootstrapped startup Levenza brings consumer-style personal agents to business workers",
-      "description": "Artificial intelligence enthusiasts are embracing personal agents that can automate life’s most tedious digital chores, but office workers are still stuck juggling calendars, email messages and chat threads. Levenza wants to change that with the launch of what it says are the first personal AI agents designed for corporate employees. The...",
-      "url": "https://siliconangle.com/2026/11/23/bootstrapped-startup-levenza-brings-consumer-style-personal-agents-to-business-workers/",
-      "source": "SiliconANGLE",
-      "publishedAt": "2026-11-23T13:00:44+00:00",
-      "category": "Industry & Business",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Screenshot-from-2026-11-23-09-56-34.png"
-    },
-    {
-      "title": "Post-quantum cryptography startup Q.security launches with $11.5M in funding",
-      "description": "Post-quantum cryptography startup Q Security Inc. formally launched today with $11.5 million in new funding for a platform designed to take enterprises from discovery through to completion of their quantum-safe migrations. Founded this year, Q.security offers a remediation platform that runs the move to post-quantum cryptography as one...",
-      "url": "https://siliconangle.com/2026/11/23/post-quantum-cryptography-startup-q-security-launches-with-11-5m-in-funding/",
-      "source": "SiliconANGLE",
-      "publishedAt": "2026-11-23T13:00:10+00:00",
-      "category": "Industry & Business",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/qsecurity.png"
-    },
-    {
       "title": "Galaxy S25, S24 series get November 2026 security update",
       "description": "",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdXhvUXdhMGFBRzdWajBiWXZGcC1SbW5hUEkyRXd5ZTB3QW91WWRCY1dsUHBHbEVlY19sVHlRRWpJemRQZk83U1NDa1dvMjZwdHpiaGFWTUlBTFB4Mkg0WThNQVExRGNHbkM2Mnhoa0FMYW9WOTU2YkhmR3oyVHV6a2FyUWJQclRNdFN0QUgtYWw?oc=5",
@@ -1716,6 +2121,15 @@
       "source": "MediaNama",
       "publishedAt": "2026-11-23T12:36:34+00:00",
       "category": "Notifications",
+      "image": ""
+    },
+    {
+      "title": "Mortgage Rates Forecast For 2026: Experts Predict Whether Interest Rates Will Drop",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kMlJHRWhRY2owbnpsZWhWOHVVZFR1ZmM3NzhqTUVEVnpHR2xlMHp0QnR2eXFwV2wzQ2FMbXZTN3lTLUJ5OHgxdnk0S3Z2Q3hEQ2pEYW9xcWhrRktVS3B0RXB0NkdnM0hPMzBReG5neWZ1TTdvVWs4bWgxdWFNUkk?oc=5",
+      "source": "Forbes",
+      "publishedAt": "2026-11-23T12:32:00+00:00",
+      "category": "Trends & Forecasts",
       "image": ""
     },
     {
@@ -1755,15 +2169,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcXbCG8v5Kc2mTfNCFEiow0EHLJWtsrsrEodqvL8qF8awCnrDzw2TfxtPq7rYI3u78mviB8ekGNGL1Of8FZrSM6uZT1lhz2mfRHwHQyhQT8234u03WGZ9M4UZzmj2cYMs8qlsJ54PwNPvVMb2awEzinXAYL0Y25iOGjjikMvq4NQ-v03mqluZnI53PNdk/s1600/nables.jpg"
     },
     {
-      "title": "Samsung’s November Galaxy Update Patches 20 Critical Android Flaws",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVHVHYUg0bUh2Rk50NGJKa1ZfaE5HSUYyUjlreXh1bG1iQXlVeDZiYnRhSlpreEF2a0dRRW5aaW9NRWNWbzNjaXkwQzVER2lJRHJ6M0x2VFl2SHE1YlFJRUFYVzczdmcwQjkxY3ktZkZFTFdWNld2SFlEVFNBV3NLZmFlczNFRnREQldNUWhseDhXcUpncW8xWEZCeVQ?oc=5",
-      "source": "eSecurity Planet",
-      "publishedAt": "2026-11-23T12:21:40+00:00",
-      "category": "Updates & Patches",
-      "image": ""
-    },
-    {
       "title": "Lean FRO: What It Is, Funders and Roadmap",
       "description": "",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE16ZXhvNWowOVptazZ6NlZGUF92c2dMRklyZTN5UkkyM3NZNTFNQUlBeURHM0pldkY0Y1RNRU9ZMmV1Y1RtUjRYVFpB?oc=5",
@@ -1800,15 +2205,6 @@
       "image": ""
     },
     {
-      "title": "Arm's Haas extends contract to lead chip firm through 2033 amid Nvidia top job chatter",
-      "description": "Arm Holdings CEO Rene Haas on Monday extended his contract with the company, signing a new agreement to lead the chip firm through 2033. Haas will also assume the role of vice",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/arm-holdings-haas-extends-contract-to-lead-chip-firm-through-2033/articleshow/136102020.cms",
-      "source": "Economic Times Tech",
-      "publishedAt": "2026-11-23T12:07:48+00:00",
-      "category": "Industry & Business",
-      "image": "https://img.etimg.com/photo/msid-136102020,imgsize-2107996.cms"
-    },
-    {
       "title": "Call center operator gets 8 years for helping scam 30,000 Americans",
       "description": "A Peruvian call center operator was sentenced to eight years in prison for helping steal millions of dollars from over 30,000 Spanish-speaking US residents in a years-long government-impersonation fraud scheme. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/call-center-operator-gets-8-years-for-helping-scam-30-000-americans/",
@@ -1818,22 +2214,13 @@
       "image": ""
     },
     {
-      "title": "No MicroDrive? No Problem!",
-      "description": "The Sinclair ZX Spectrum and QL computers contained many of Sir Clive’s signature quirks, but perhaps chief among them was their take on mass storage. The Microdrive was something similar …read more",
-      "url": "https://hackaday.com/2026/11/23/no-microdrive-no-problem/",
-      "source": "Hackaday",
-      "publishedAt": "2026-11-23T12:00:20+00:00",
-      "category": "Innovation",
-      "image": "https://hackaday.com/wp-content/uploads/2020/08/microdrive-featured.jpg"
-    },
-    {
-      "title": "Most Unicorns Are Worth More Than Their Last Funding-Round Valuations, Crunchbase Estimates",
-      "description": "The more than 1,900 startups on the The Crunchbase Unicorn Board have a combined valuation of roughly $9 trillion, based on their last reported valuations. But Crunchbase’s new Current Valuation Model, which estimates how private-company values have changed since their last funding rounds, puts that figure closer to $11 trillion. Most unicorns...",
-      "url": "https://news.crunchbase.com/venture/unicorn-startup-current-valuations-thinking-machines-sierra-crunchbase/",
-      "source": "Crunchbase News",
-      "publishedAt": "2026-11-23T12:00:19+00:00",
-      "category": "Industry & Business",
-      "image": "https://news.crunchbase.com/wp-content/uploads/valuation-measurement-1024x576.jpg"
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "description": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-133968 Project MONAI MONAI Label Path Traversal Vulnerability CVE-2026-134624 N-able Mail Assure (SpamExperts) Server-Side Request Forgery (SSRF) Vulnerability These types of vulnerabilities are a...",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "source": "CISA",
+      "publishedAt": "2026-11-23T12:00:00+00:00",
+      "category": "Threats",
+      "image": ""
     },
     {
       "title": "DGGI launches probe into Rs 1 lakh crore China-linked online gaming syndicate",
@@ -1863,30 +2250,12 @@
       "image": ""
     },
     {
-      "title": "SAP NetWeaver, Cisco Expressway Flaws Exploited in Attacks",
-      "description": "Threat actors could exploit them to leak or modify server information and to execute commands as root. The post SAP NetWeaver, Cisco Expressway Flaws Exploited in Attacks appeared first on SecurityWeek .",
-      "url": "https://www.securityweek.com/sap-netweaver-cisco-expressway-flaws-exploited-in-attacks/",
-      "source": "SecurityWeek",
-      "publishedAt": "2026-11-23T11:35:15+00:00",
-      "category": "Threats",
-      "image": ""
-    },
-    {
       "title": "CERT-In Warns of AI Threats and Payment Fraud in India: What Business Must Know",
       "description": "",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kZWxJZk1LTHFlR2gtSWl5WExPUGlBdE9IeDFCZWd1ZmExZWdQM3p3dEhlUlkwakg0YW5ydnVYOHBpbzhVVVFsdS1sX0JtWF9YRVBLeE1yeEJ1Yk52UG5SVEszS1NmMDYyN1pleWt3?oc=5",
       "source": "Techgenyz",
       "publishedAt": "2026-11-23T11:31:52+00:00",
       "category": "Alert",
-      "image": ""
-    },
-    {
-      "title": "CrowdStrike to Acquire Zscaler in $43.9 Billion Deal",
-      "description": "CrowdStrike expects the combined company to have more than $10 billion in annual recurring revenue. The post CrowdStrike to Acquire Zscaler in $43.9 Billion Deal appeared first on SecurityWeek .",
-      "url": "https://www.securityweek.com/crowdstrike-to-acquire-zscaler-in-43-9-billion-deal/",
-      "source": "SecurityWeek",
-      "publishedAt": "2026-11-23T11:31:44+00:00",
-      "category": "Threats",
       "image": ""
     },
     {
@@ -1915,33 +2284,6 @@
       "publishedAt": "2026-11-23T11:15:00+00:00",
       "category": "Policy & Regulation",
       "image": "https://media.wired.com/photos/6aff6a5a3554349c98f00f7a/master/pass/Politics_%E2%80%9CBabylon%20on%20the%20Potomac%E2%80%9D-%20Government%20Officials%20are%20Flocking%20to%20This%20Controversial%20Church%20On%20Capitol%20Hill_v1.jpg"
-    },
-    {
-      "title": "Data Security Startup Matters.AI Nets ₹115 Cr From Tanglin Venture Partners, Others",
-      "description": "AI-native data security platform Matters.AI (formerly OptiQ.AI) has raised ₹115 Cr ($12.0 Mn) in a pre-Series A funding round led…",
-      "url": "https://inc42.com/buzz/data-security-startup-matters-ai-nets-%e2%82%b9115-cr-from-tanglin-venture-partners-others/",
-      "source": "Inc42",
-      "publishedAt": "2026-11-23T11:11:38+00:00",
-      "category": "Industry & Business",
-      "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Feature.png"
-    },
-    {
-      "title": "Capita CEO leaves following pensions contract disaster",
-      "description": "Shares plunge around 70% as outsourcer cuts profit expectations and plans £190M cash call",
-      "url": "https://www.theregister.com/public-sector/2026/11/23/capita-ceo-leaves-following-pensions-contract-disaster/5311585",
-      "source": "The Register",
-      "publishedAt": "2026-11-23T11:11:25+00:00",
-      "category": "Industry & Business",
-      "image": "https://image.theregister.com/?imageId=226311&width=800"
-    },
-    {
-      "title": "Zavya Nets ₹22.6 Cr To Scale Everyday Silver Jewellery Biz",
-      "description": "Budget jewellery startup Zavya has raised ₹22.6 Cr ($2.4 Mn) in a pre-Series A funding round led by Daksham Growth…",
-      "url": "https://inc42.com/buzz/zavya-nets-%e2%82%b922-6-cr-to-scale-everyday-silver-jewellery-biz/",
-      "source": "Inc42",
-      "publishedAt": "2026-11-23T11:04:56+00:00",
-      "category": "Industry & Business",
-      "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/stakcbox-funding-featured-1-1-1.jpg"
     },
     {
       "title": "Latham backs Gill's Kookaburra ball criticism, cautious on saliva ban",
@@ -1980,6 +2322,15 @@
       "image": ""
     },
     {
+      "title": "Open Competition: Implementation of Findings From PCORI’s Research Investments (US)",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS2RvNktsMW9EWU50WGptMzNTZkxzalNLeUdEeVZZd3NSU0hQMEhJVm1ENkVKZC1iTHNFSDdKc3JqeUp5NHNISS1BS0FTTDBEa1JnWG4wbDhuWFN4Zlp2X3NYd2g3Zm51XzcwanVIT2tUR3V1YXZOUUxidXpmelUwMkVXc3h2bnVwVWthM3NFNnFBOF9WdjlyUGlTdk0yTzZXT2FPc1B5OTFLVU1xaEpfYzlDTVpFQnFwYU9ScXIxQdIBxAFBVV95cUxQQmlkYTBKQnBkM0NVNnMtRUwzeW9ERF9aMU9WRnRYWGFDam81NnF1WEk0RGRmZ2NWSkZZM194Szh0aERNS2dENXZ2RWduUW54eWI2Q2hFMEpDR0VDNVMtSExFQzJRalIxSXgtUnRpdXdBTEZuTVhsckZOSWNXNUtVaFVfNkZwdVh5NDEwUk9sMGM4ekJVbzBjenRGWHF3aDVVNnc3ekpCVFpEQ2V1d0JSQkR5bXg0MWlIZl83aGJQWk9GSHlW?oc=5",
+      "source": "fundsforNGOs - Grants and Resources for Sustainability",
+      "publishedAt": "2026-11-23T10:38:44+00:00",
+      "category": "Opportunities",
+      "image": ""
+    },
+    {
       "title": "PDD Holdings (PDD) Stock Price Prediction: Analyst upgrades meet a stretched short-term setup",
       "description": "",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOLU1FNTMtcUt5SEZmYlNfVWdrLXk3MnNjTExvRGllZWhtMkwtME1ocnRDZnFsUWZTaWJNejl5bm9uMElYRG91NjlWeXpybndhdHA4R0RzV09iSjA2d1MtS3ZubzhwVWYxMFVmbk1VUDdrLXpVejJKSXdmMW9GUGJia0prbGxJWmJFYWxqUi1IZXlGSHlOZFFvQl9LdF95Nlk?oc=5",
@@ -1998,6 +2349,15 @@
       "image": ""
     },
     {
+      "title": "Distributed Fiber Optic Sensor Market Growth, Trends & Demand",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xRUk0bFNLVHFYemN0T1ZVYzVkMlBSdFdLa2dKZ2xDTXRXaTNMYTdSdE5ha3BCZWJyVkNiTlljMFUxbUJ1Y1pZTFJJZUpyNVp4cUFTSkNOTjV3dGsza2wwWEhiRTl3QUFhUXpXOXRNT3pKVDdidmpwS3VsN2M?oc=5",
+      "source": "SNS Insider",
+      "publishedAt": "2026-11-23T10:17:47+00:00",
+      "category": "Trends & Forecasts",
+      "image": ""
+    },
+    {
       "title": "A Power Provider for Meta Urged Regulators to Exempt Data Center Plants From Acid Rain Rules",
       "description": "Before the EPA recommended waiving acid rain regulations for certain data-center power plants, it met with industry players—including Williams, a gas power provider for Meta data centers.",
       "url": "https://www.wired.com/story/a-power-provider-for-meta-urged-regulators-to-exempt-data-center-plants-from-acid-rain-rules/",
@@ -2005,15 +2365,6 @@
       "publishedAt": "2026-11-23T10:15:00+00:00",
       "category": "Policy & Regulation",
       "image": "https://media.wired.com/photos/6b00d5965a6f50dee6f4c70d/master/pass/Gas-Company-Lobbied-EPA-Science-2197414117.jpg"
-    },
-    {
-      "title": "Gulbrandsen acquires IMACA’s glass coating business",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOT2QxZGUtQy1venMzOEZETGFFX0pLcEFqcHBmbU5NdHlrOGl6Z2RoQkl4NDhlQzJRamw4Y29xS3RGdnZad2hKTTdQS3FmRkZORGVVVC1tNkR5dGxEdklNQjBiUVROSXlUNnVibncxMVBmNDhDbkpWWjNkcUREdlFYVG1EN2pNSlE?oc=5",
-      "source": "BeBeez International",
-      "publishedAt": "2026-11-23T10:13:41+00:00",
-      "category": "Industry & Business",
-      "image": ""
     },
     {
       "title": "Advancing Patient-Centered Comparative Effectiveness Research (US)",
@@ -2040,15 +2391,6 @@
       "source": "openPR.com",
       "publishedAt": "2026-11-23T09:53:58+00:00",
       "category": "Trends & Forecasts",
-      "image": ""
-    },
-    {
-      "title": "F5 patches critical vulnerabilities in BIG-IP once again",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbHhIRXdLWnY5U3NDNXdMaVV5dy1pQ1VsdHA4ckk2LTY4cEZ4UW1VaEJXY09WaFFRX0JhcnAyUjJteWdtVjJ6azBreXNJZXktNDA5T2J4ZENlaEpsdjB0MDQ1OEo0djE5OGlQb2h2ajFJMW55QkMtSFdwUS1CTGRxbHpDeGR5NjQ5QUluX2dvT2NxSTdGVVNTZElmMTZCcFJYOEtiXw?oc=5",
-      "source": "Techzine Global",
-      "publishedAt": "2026-11-23T09:53:39+00:00",
-      "category": "Threats",
       "image": ""
     },
     {
@@ -2124,6 +2466,15 @@
       "image": ""
     },
     {
+      "title": "Solana (SOLUSD) Price Forecast & Predictions for 2026, 2027, 2028–2030, 2040 and Beyond",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY3NwRVZEazFMTWI1Xy1lTEpmWDRBNk55QXhxMk9JbjAxazFCOFJOT3pod0pjbmRUcWVHXy10MEFfOTVzcEdTbHRCenpKcXZYcWRnbEF1cEJwZ1RZbHFjS3YyM25HWUFWSDdCZjVpZXNfOXVlSlFwUlBUZ2xmdzhURw?oc=5",
+      "source": "LiteFinance",
+      "publishedAt": "2026-11-23T09:18:24+00:00",
+      "category": "Trends & Forecasts",
+      "image": ""
+    },
+    {
       "title": "AMCA Fighter Programme: These 5 Major Challenges Could Decide Its 2028 Flight",
       "description": "",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGZwMk9mNXZQdk5XWVFOLUlKMDBMaGNUUU1ackVmVFpOc3RGa1ZSYWdMQWd0WlpvU3l1aHlxcm4tMzZZS0FyQnc1Y0cwS2lkd2Z6WEROU20yTTJBaHRPdnBpaTh5cFVvdkdqMVRpYjlUZ01zbnFUblhxSGVDaTA3a00zSnQ5dy1PSWhEZHhyYm9BVkFvLVVpaXhveXRNZFlfUExFZ09ZQ2JEUE5udUNV?oc=5",
@@ -2137,26 +2488,17 @@
       "description": "",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZjlndnBQZ3lsYXJQSV9IQWNWeGVrd1l1dERMWHdyY01mdmVVcnpQQThla3VCQjZ1bUdPS3d5SktJeUVjaFVLREV2QjZYSWh0U3MweDJKNDFlRGlaN2hGZmdNRHk1N3lzcjV2cl9hREg1N1k1VG9Wa2ZMRkV3cTBsVWk3eVZPcUYzM2MyZnRuRmVLOHB6U0hCbzhQQ3hZX09vUDM5LWRXNjQ2NzBUd0HSAbMBQVVfeXFMTnc2OTlZTDZHQWhKMm9xSlFfTmotSjkzM0JWQzBiSHRIdzhfaUxZYlE1N0lHSGtDMmtVQjVWTlZvbTdVeTZlYW9rNDQtS1lCeGg5WVMtdEhlUTR0c2hlOTFDMV82VTJyUnY3blZmMVRnb0doRS1fZExwWEZ3OWJHVXJjLUZoZzk3YTFobE83YnlTaEtfXy1JeHBDZ0UzUWFWVF82NFhkSVlnZmFxMTFLRC1RekE?oc=5",
       "source": "fundsforNGOs - Grants and Resources for Sustainability",
-      "publishedAt": "2026-11-23T09:13:33+00:00",
+      "publishedAt": "2026-11-23T09:14:52+00:00",
       "category": "Opportunities",
       "image": ""
     },
     {
-      "title": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
-      "description": "Cybersecurity researchers have urged users to discontinue using a legacy ASP.NET anti-CSRF library named Idunno.AntiCsrf (\"Idunno.AntiCsrf.dll\") following the discovery of a critical vulnerability that has been exploited in the wild. The vulnerability, tracked as CVE-2026-131914, carries a CVSS score of 9.3 out of 10.0. The issue affects...",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html",
-      "source": "The Hacker News",
-      "publishedAt": "2026-11-23T09:11:56+00:00",
-      "category": "Threats",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWv3LP9w9Iv-ZmqonS5mwf1jDE-lTLUcDPxCOvYn3RF87-n2epMtdhqH5xXf-bsIIyKXq6U9qU5T1OQ6_Y3VeytS0CCA4TLJtFDcfcHR-I2EHY3t2e94UPvppaaXG9jDQPj4wNwt6CdwQCmXm5uK16BAp5Fn12DmxUk-Wu5ZwPT2kPQFo37oxSeqc6hX7X/s1600/asp.net.jpg"
-    },
-    {
-      "title": "Microsoft confirms Windows printing issues affecting Forcepoint users",
-      "description": "Microsoft confirmed printing issues on systems running Forcepoint DLP software after installing the KB5132043 November 2026 Windows 11 hotpatch. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/",
-      "source": "BleepingComputer",
-      "publishedAt": "2026-11-23T09:11:15+00:00",
-      "category": "Threats",
+      "title": "Tech Mahindra Share Price Target 2026",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxbWk0aHAwNWYycm5henp4bmVENUFxYXZBTzFEVGpqWWc4M3VfSFlaLUlGVkh4U2ZYRjlzRmdjYkxaOEdMSGNGMkd4OHY1MUh1blFUTnZXTkx2RHFSN2NRXzRwOHNDaVA4MlJKc0xPOA?oc=5",
+      "source": "Univest",
+      "publishedAt": "2026-11-23T09:10:29+00:00",
+      "category": "Trends & Forecasts",
       "image": ""
     },
     {
@@ -2167,15 +2509,6 @@
       "publishedAt": "2026-11-23T09:08:00+00:00",
       "category": "Trends & Forecasts",
       "image": ""
-    },
-    {
-      "title": "Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices",
-      "description": "Hackers exploited a vulnerability in GL.iNet's GoodCloud remote management service to install malware on some customer routers and KVM devices, the maker of travel routers and remote-access KVM hardware said in a security notice updated today. The company identified and fixed the flaw on Friday and blocked the access the attacker used, so...",
-      "url": "https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html",
-      "source": "The Hacker News",
-      "publishedAt": "2026-11-23T09:04:08+00:00",
-      "category": "Threats",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6ctvKkiuJ-JViYFHxOV5w1CYjcopn7_YrQt2SnF6JC_SvdOugBSXLdVaMgnWhLCO1NfVgwru4ieWK8L3IeCP-OR75HltWOF5qNhOm9iH_VzJi3PSuUgCUtvhy0zkh_nZFv14tLCRsWly39aREkIphJtNMYUvsGS-CvIwunALU5KxtjFswov-lcS2iqzY/s1600/glinet.jpg"
     },
     {
       "title": "7 streaming services reported 920 grievances in Oct, Amazon Prime Video tops the list",
@@ -2202,15 +2535,6 @@
       "source": "CBC",
       "publishedAt": "2026-11-23T09:00:00+00:00",
       "category": "Policy & Regulation",
-      "image": ""
-    },
-    {
-      "title": "F5 patches five critical vulnerabilities in BIG-IP APM and iRules",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRmdSRmZ4UVRfOG1XWFpyQml6dFpjcDExMlo1NFJxTzItV1dCNWhmNDlseWs1V05EdGhIVWtxWFZtLTFhVU1iems3WUxEMHBvWEd4TGVtbkFrUk4zQ2E3RnlpWUJjZnFzUTZLUjZ3dlJpQk53eEhxMHp4aTloTDlUNGd3T0lYZTJ0a0pQYzB2REFic2lPSkxHUkpxQ1RrVG04MjZiTzJoaDRPcTZKcmp4YQ?oc=5",
-      "source": "Techzine Global",
-      "publishedAt": "2026-11-23T08:58:18+00:00",
-      "category": "Threats",
       "image": ""
     },
     {
@@ -2241,57 +2565,12 @@
       "image": ""
     },
     {
-      "title": "Oklo Stock Price Prediction: Bearish structure meets a fresh analyst upgrade",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS2pQUk5wQ3BXMlVmc2hhWDR4RUlLUFprZkFMdDRtNVM1N2N2T3hwSkE0U3llYUcxbTBsZ2tub041YjZVbDROZFF3NlVOYy1yeGlHSUxESi1aNXN0RXd4UDMwT0xyN25FV3F2NlBhZHhTSUJzblRQbng5OE9MNGlIRjV3M2luR3RvQjVVcUY3RXBUd2ViTjVqYkVpd2EwWE1m?oc=5",
-      "source": "Blockchain News",
-      "publishedAt": "2026-11-23T08:39:00+00:00",
-      "category": "Trends & Forecasts",
-      "image": ""
-    },
-    {
       "title": "Three-Tier SDN Architecture Eliminates Missed Cyberattacks on Virtual Network Functions",
       "description": "",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZzUtdDF1YXhQU0Vqcjd2aVZJMHNjTHVFYlY0emo3MjJPT2lFTmVmVFgtYXJDd29fenB2Mk1UbFRwT2hPa0xCWUhBQ09UcW5MVW55ckxIbUNjcEQ5cHBJOHBRbmNZVWd3WV9KMHB1QTlZTFZDNkJpS25QS0prREtqRFRMOUw0cE9oWC1KZ0hOeDJVVlVOMnBTWFVvdHk4UVlfQVppd1VYemRpdUluOEF6OFF3?oc=5",
       "source": "Bioengineer.org",
       "publishedAt": "2026-11-23T08:24:21+00:00",
       "category": "Updates & Patches",
-      "image": ""
-    },
-    {
-      "title": "Applied Materials (AMAT) Stock Price Prediction: Analyst support clashes with a damaged near-term tape",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX3dSVF9INHJZRUU0eFEyS1JCcHc2TUtLd0xiYXFpOTdIc2J6eDRhemFlS3g0b3VRWi0tMV80bFdKc2FWNU1DMjBwX05oTTFVMlI4QU04MlltZEh3dkY2RHpBN0k1UkVESWlBVTBUcnJnUG5lVDdjWVpwOGQyVWJaSkR5cWpvUkRTQk03LW1ZZXZTQjV4SE1SNkJfM1ZFSDQ?oc=5",
-      "source": "blockchain.news",
-      "publishedAt": "2026-11-23T08:21:00+00:00",
-      "category": "Trends & Forecasts",
-      "image": ""
-    },
-    {
-      "title": "ASML Stock Price Prediction: Export controls pressure shares as analysts lift targets and ASML raises outlook",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc2xyMUdNdm52OTBWSWNQaFM3aUVmTlM5QjBOUVBQT1dNa0dGYWZQRHZ0WE1FMWl1bHE2RDZPOHBXckFIRzdwLUYxc1ozY0EwdHh3YXRGQ0lja3lCTkxETVpnRzVuS2FUSGZOZkUtQ1dWVm9vbFZLQjV0T1V4Q3htaWhmMV9kb1FfSjlRTHp6MFNGNzkwa1lqc2dlb2FOTW5xa2ZSd05R?oc=5",
-      "source": "Blockchain News",
-      "publishedAt": "2026-11-23T08:06:00+00:00",
-      "category": "Trends & Forecasts",
-      "image": ""
-    },
-    {
-      "title": "Arm Holdings (ARM) Stock Price Prediction: Analyst cuts meet a weak technical backdrop as Arm trades below short-term averages",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdmdEaEFNRms2d3JrTnpGYzRVaXJGU0NlYkZtQzE1ZWJaYm5FZXlOWkxkLUFqb0RsREVmN3JBaUt3RERIcnVDS19fc2RGSmpRbm40TGc0WFlfcEFGT1VKR1NJUEdSeXdweDQyd1RtQmdjMzZGWGl1MmhDZTFyNjJaY2xHY1JhSkh4WC1MMC1VeDFaczBOWUZOSw?oc=5",
-      "source": "Blockchain News",
-      "publishedAt": "2026-11-23T08:04:00+00:00",
-      "category": "Trends & Forecasts",
-      "image": ""
-    },
-    {
-      "title": "On-Highway Vehicle Lighting Market Outlook Reveals Key Industry Trends Through 2030",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMEpmNlkzNlRHUUo4RDBQZDM2Ti0tNndYdjRlZTJpWFoyWF95bWktcEhpZ3ZsQWJjc3JfdnhOVk1xWnZQcWJWaHdKMmh2bDRuajJnU21sV3dObi1fWF9oX2VmT1p6cXNILTFBYm16cWxTdVlNS0tZdmFSa2FhT004UGdTckx3ZHBzQXNUcmlYNE1ubUVn?oc=5",
-      "source": "openPR.com",
-      "publishedAt": "2026-11-23T08:01:49+00:00",
-      "category": "Trends & Forecasts",
       "image": ""
     },
     {
@@ -2340,48 +2619,12 @@
       "image": ""
     },
     {
-      "title": "Meta Platforms (META) Stock Price Prediction: Bulls have analyst support, but the chart is still fighting the trend",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdzdIMXVWSTBnZkhEX0NsTEIzQThvR1QyeVdyTThBMnJGd0dMbEZ6OTFLd1ZRS3BWYkxUQUttMk9BNjNWcVVfVHp6WkFNV3Q1MnUzSjhTcjV5b1pYMWZEZGFyRzRiQVN2ZXhKeEFlM1U5OFhBMmFVTHRvRktRMlpoeTdOLU9JT2YtUUNma2p6TUJ4S0N3bWtKTmx3?oc=5",
-      "source": "Blockchain News",
-      "publishedAt": "2026-11-23T07:31:00+00:00",
-      "category": "Trends & Forecasts",
-      "image": ""
-    },
-    {
       "title": "Connecting scientific research with practical applications for green transformation in the aviation industry.",
       "description": "",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNVZyY3FleWIxSWRVSHZYbDRRQXhYSG41eXdmZmNKNW0tSzNGQkh0Z2R5X2RGeEYtSHZWR0xpTmJXSnU1RWxPbU92SVFFZW5hT1h3QkFLSF9KQllQX1RTUURKcjY1UFNuRU9mMGVZbWc2OWFFYVN3VzhrWnJfS3h0OVRidmZRcFY2bndpc3l1dDJGeEhubEc0VzlOamw?oc=5",
       "source": "Vietnam.vn",
       "publishedAt": "2026-11-23T07:24:30+00:00",
       "category": "Opportunities",
-      "image": ""
-    },
-    {
-      "title": "Tesla (TSLA) Stock Price Prediction: Bearish trend, but analyst upgrades and robotaxi talk are cushioning the drop",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeWFmN21LZWdqeHFGMU1FcElxcElpVG84MmFCbGdGQkJGRUxFMTA5c3ZVVVBiZm9pVWNHaG9ib040S0V1OGNLTzhicGpOM2NUNGs2YWtKN1pNb2N0TXVLc2doZnhUR3pCQ0lsVFdQdUFUN2VicWRJUFYzamJTQkVYQzBFUlQ5V1pXOUMxZlBOMjU5b2Y5QlQ2VzFPQTJ4OGM?oc=5",
-      "source": "Blockchain News",
-      "publishedAt": "2026-11-23T07:24:00+00:00",
-      "category": "Trends & Forecasts",
-      "image": ""
-    },
-    {
-      "title": "Outlook on the Autonomous Train Components Market Reveals Key Growth Opportunities Through 2030",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcHJxTHlWSXVyaEFYLWt1cFF2eWRxMHdVcDVQVXVGc051cFBrR2I2MmxFU0ZjQzJCWVFxYXd3SzlJelRCejFQb29tdVBqNDctZFNOVE1aU05JcG5yalFpYnVVSHRQdVBSUEttc3JQLUpULVE3RWtibF92R1VTamlGdjMtS0tkZ2ptYnd2T3BWOFFDMEQybXlqcVh2Z1ctZw?oc=5",
-      "source": "openPR.com",
-      "publishedAt": "2026-11-23T06:55:51+00:00",
-      "category": "Trends & Forecasts",
-      "image": ""
-    },
-    {
-      "title": "Autonomous Emergency Braking Market Outlook Analyzes Industry Opportunities and Growth Trends",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRW1Mam5iR0tUdlo4a2FabmhZRkpWcENVTEI4TFZRaW41ZC1taHRiZklab1U5cENHdkNrczlKX243VDdvd0UtSjIyNjh2N3NRY3JIdUlTcDJ2MER6djkydUk0bG9jNE9ZRjFfY2I5dmlIVkQ2Znhid0VyU0lkT1h6a0FPay1iSEdoX0dfZHE1anZweXFNVVpoenNiWlpVUQ?oc=5",
-      "source": "openPR.com",
-      "publishedAt": "2026-11-23T06:54:03+00:00",
-      "category": "Trends & Forecasts",
       "image": ""
     },
     {
@@ -2419,15 +2662,6 @@
       "publishedAt": "2026-11-23T05:32:01+00:00",
       "category": "Updates & Patches",
       "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Cyberattack-ft.png"
-    },
-    {
-      "title": "Wi Fi 6 Wi Fi 6E Chipset Market To 2035: Enterprise Upgrades and 6 Ghz Adoption Drive Growth - News and Statistics",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcUlRWWY4V19aVk1xNGw0RlJZcFp6NGcxSUwxTHlQT3pWRkFMRW1NYlpxaG5ObzJ1a1o0LTI0TFphMTlydFJWbzNuWG1BZVdBOE4wLVZzNkVlalpKNnZ1dkdobl9pQXY4Y19JcndYMDZyRkQ4aFZvakJMNE0zX0dvcVZFd0I5Rk9BdXhXUjlYdE1UN1NBc0psczlNcjdrX1JzWU9TUWxoMUhIVFB2OEQzcW5qNHQwLXgyQjZHRFVmeGtiVjQyMUI5MUpNb09lckFES2p2OUlUM2RJdw?oc=5",
-      "source": "IndexBox",
-      "publishedAt": "2026-11-23T05:11:05+00:00",
-      "category": "Trends & Forecasts",
-      "image": ""
     },
     {
       "title": "Actions Speak Louder than Words: Stateful Privacy Sniffing of LLM Agents via Behavioral Covert Channels in Web Interactions",
@@ -2475,22 +2709,13 @@
       "image": ""
     },
     {
-      "title": "Spice Mills Equipment Market Forecast to 2035, Driven by Rising Demand for Processed Foods and Ethnic Cuisines",
+      "title": "Why is this Dutch privacy watchdog asking people not to buy AI smart glasses?",
       "description": "",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbi0xTTdEQkF2dlNoRW02cFp3NHVxVWdiZ2M0dkN6U2ZaYkFhYW9GZUxjRzd3S1Q1U0xtUjBIQURsc1NXMFFheUc3TGg4VEtpUm50cldscmtvSGhoYkQ0emc4S0c2Y080dkpOMWNLYW8yMkhteEJPeVFYZWNtZFdfWW9leVFmU2hwbmhUcjBCUjNMZ29hTUdJM2pRZlBzcEpqbTBIaTRmSXNaRHp4V21ma2NuQTRSN0RLNXVWem9meE4zTDVBM1NBb09QWk54ODNzYmo1NEtn?oc=5",
-      "source": "IndexBox",
-      "publishedAt": "2026-11-23T04:01:06+00:00",
-      "category": "Trends & Forecasts",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVjI0QkxCZzZIVXY3aFNBNmszVTRhbENKa21jeUo4cldsdzRCSy1Nd2dsQWtjYW9UMllyY0l5SjhZYWxIQ29ma0E1TXBJTnpNajFfV094YlVRWDBjb3hqampiVkFWZU02RTlmS3NpVFVsaVdLc0VKaE5xYmdYSC04NW10ckU5RkotSFBrdnFJU1RQZUFSQ19sS0RJNGt5UnU5aDBpcE9OeTcxUkJzQVlXT3F2WmN2N09FaDNaMll4bjdEelZRaXFKY0tkV3dSeUXSAdYBQVVfeXFMTzVOTmxjZ0ZSZGZyeXloOFBFWVBuNElhSUhFdl82Vlk2ZmRIc3NLT3llOW5PbW5XdENuUmtXTGZMT0Nsc3NrNV9DUU5ONTVUMHdGZTZJMFJqbl90RmU4V1dCc0p0V1lmZzA3MDAyb2FOQTBOMnBEdGhGVE5XNjk1bG9VX0lnM294NFpsY2h6eFJRWlgwV1hVazR0M0lqWU5PWkd1Q1dFcWgyRW9WRWduY3BWMWsxT0VBSVNHOUxGeXB1c1g0S0oyQksyU2ZZX0RCbFJlamIzdw?oc=5",
+      "source": "The Indian Express",
+      "publishedAt": "2026-11-23T03:42:00+00:00",
+      "category": "Policy & Regulation",
       "image": ""
-    },
-    {
-      "title": "U.S. intelligence chief predicts more tech outages as systems undergo upgrades",
-      "description": "Jay Clayton declined to discuss specifics of ⁠separate reports of cyberattacks on the FBI and ⁠Department of Agriculture",
-      "url": "https://www.thehindu.com/sci-tech/technology/us-intelligence-chief-predicts-more-tech-outages-as-systems-undergo-upgrades/article71733256.ece",
-      "source": "The Hindu Tech",
-      "publishedAt": "2026-11-23T03:58:25+00:00",
-      "category": "Trends & Forecasts",
-      "image": "https://th-i.thgim.com/public/incoming/e8r54m/article71733262.ece/alternates/LANDSCAPE_1200/2026-11-22T172455Z_547332070_RC24TOAK2SYR_RTRMADP_3_DELTA-OUTAGE.JPG"
     },
     {
       "title": "Technology Disputes India: 2026 Guide for Businesses",
@@ -2516,6 +2741,15 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLU9pZnNsZlg1ZEZiMkNzcnNFWmxHZTZEZlNJdmkxbG1wa2pTTmtod1RNZ28wVVFuVXNTS1ZBMktDZm1xSk5XalRFUndQeW0tb1RFWnhQSUlhcG5IekF0dlZLckRhTkJkWlhRMGpTZnN3NWJqYWFQdGFMMHVOZE5EWF9sOFR6Uk1pajFGRmJhUkpIcHQxdzZrVnBfclFjcGg5NUpaNmNwa0ZkQlU?oc=5",
       "source": "Machine Maker",
       "publishedAt": "2026-11-23T01:08:16+00:00",
+      "category": "Updates & Patches",
+      "image": ""
+    },
+    {
+      "title": "With .NET 8 support over, teams weigh .NET 10 against .NET 11",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaTZsamVWYjNtREJrejU1UDJpYmpPd0tkMFhMRGp6ZExvVlozdlVydi1rVFF4bmk1Nm5GTUdQdVJlVU1fdmRxLXQzb0N0ZFFXWC1fRGxVRHEtd0xBU1U4bDNtS2ZSczVBcGRPSGEzd2hzVDhNUlNTWVMyWTlKMkFWaUpnR3NnSWd3V241TzM2NA?oc=5",
+      "source": "news.lavx.hu",
+      "publishedAt": "2026-11-23T00:40:52+00:00",
       "category": "Updates & Patches",
       "image": ""
     },
@@ -2556,57 +2790,12 @@
       "image": ""
     },
     {
-      "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
-      "description": "GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users reporting backdoors and reverse shells giving remote access to infected devices. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
-      "source": "BleepingComputer",
-      "publishedAt": "2026-11-22T18:45:37+00:00",
-      "category": "Threats",
-      "image": ""
-    },
-    {
-      "title": "Open Call: lStrengthening Canada’s Nitrogen-Vacancy Diamond Capability Challenge",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa2doT29JeU1mY1B3NkhNYU1HWlY5NFVjQ1c3UENDeTVJNmFsOWphb3ZBdlNSSno5eXl2c29IOXBXeDlyMXhZTHV0Ujc0UWhxWWZwaU9NMU5tRldSdVhRRkFzbGdiOUNUaUlkcDMwbkZNLTdkOTU2SF9QOGcxdzlOWFBfRVFvZ0VWLVYwTzcybUNudTJET1NhOGdkSi02al9iWGphWEpfNnNkMlpWd2VfTW9oVjhjYzhucE92dk5jSHPSAcYBQVVfeXFMUFB4UmRoYmZCR2lWdVcxUjRBbGZPZnlpajVwX01zdF9FRDE2Si1VNWVJMXp0RWZZbEY5WmtPeU5EeXhGakI5cHJDREhOQXlpMWY0WjNrUmJ5RWlYVWo0NTBGM1FZMFhuSGEzRmY4WUo5cThJTkxUdzNsNWFrNnZYRDI4aEVtd3QzaFpvR2NuVDdaRXp5NWNkT3lPXzZoUDF0OFVONUtocDBlZEhiNDB3OWFQanBqcV9zYXRsMVp4NzNvV0NZb193?oc=5",
-      "source": "fundsforNGOs - Grants and Resources for Sustainability",
-      "publishedAt": "2026-11-22T18:36:39+00:00",
-      "category": "Opportunities",
-      "image": ""
-    },
-    {
       "title": "Delta flights in and out of Atlanta delayed due to system outage",
       "description": "All Delta flights in and out of Atlanta are facing significant delays on Sunday due to a problem with the system that calculates a plane's weight and balance. Hartsfield-Jackson Atlanta International Airport is Delta's largest hub and one of the busiest airports in the world. While only Delta is impacted at the moment, disruptions at […]",
       "url": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage",
       "source": "The Verge",
       "publishedAt": "2026-11-22T17:46:44+00:00",
       "category": "Alert",
-      "image": ""
-    },
-    {
-      "title": "Call for Proposals: Joint Research and Innovative Projects on Artificial Intelligence (Malta)",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRVpkZFhqLUM4Y0s4XzF2MlNPU1FUN1FmbkJDbDlKZloyTzh3MEw2SmJaZms3OHRQMWJ6Z0wyaVRQQUZzTEZfcVIyN3VxaTZibUgxSDRnWG0yOGRKbkFpd2w0dk5KM1Z5TXFVSklnUEluOEt5ZkFiWlgwemh2bW5PMmVYLWl4dHRxU2pnUnpIS2doejdiNERkc2p4S2pmVmZ6TWtWZTZGNnpwaUtDSUNBcjRZZXNMN0pqcXdBZ2JXSUhmb2dzcjZQQ3A2clrSAdIBQVVfeXFMUE5uaHFHcFU1a1N3OW9IZDRRdGlKRVFTeFJwVzhrWlBvck14eXA4bnJGWldkTW1UNkI0UEp6N0pnNXNSWXAtTTVfcDRlQk4zUGFxRkJwclZGZlBoNndnOGdCSTF6N1FhUnUwOTFNX0c4aUZCd2F3YWs3aEFQakxNLUlsZE1pMlFudlFVclgyNnVZeWZjVzdmT256a2lQQk5WSlFYcFotV2UwUU56SS1HMnVPMURPa2doNVJZZ09XR1Nrc19CcWJlSlZtTWlJOXYyRXFB?oc=5",
-      "source": "fundsforNGOs - Grants and Resources for Sustainability",
-      "publishedAt": "2026-11-22T17:21:51+00:00",
-      "category": "Opportunities",
-      "image": ""
-    },
-    {
-      "title": "Asia House Fellowship 2027/2028 – Fully Funded International Research Fellowship in the United Kingdom",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52VEstalhUZFR0UDcxMWg3RDlKRjJheUxXTGdCN3czMWpKT1FtWnhLa1cxRFduNEcwNmh3N2otelhsMXhLQ2h1UGE1MVJNMGQyTDBQTUpteHZzM1AyanF3QTNEbVBkREhXUFM4NA?oc=5",
-      "source": "Global South Opportunities",
-      "publishedAt": "2026-11-22T16:56:30+00:00",
-      "category": "Opportunities",
-      "image": ""
-    },
-    {
-      "title": "Open Social Web Alliance proposes decentralized social infrastructure to challenge platform monopolies",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRHZKZzVUUjRQRUlJOC16WHctaDlrZWVKTHpyQktrYUdSa0d6NWFLR1pJWFhMc2ZUUlVHVXU5RFRLNVhKTXhoZzFVdWxTX0ZYN1k3Rnpld0x1eXRHZkpOUFgwYzk3YW95U3k0S1hPdERmeVRQTUl0SUxFYXdtMWlJeE02SDRCY3F2ZkZGX2U0aXJDQUdLMzR0bENEM1lnaHphaTVkY0dFOE1YdlRiMGpoU05nN0tXaVVRbjZyYlVkWEFFYnM1TUhTek1lMA?oc=5",
-      "source": "news.lavx.hu",
-      "publishedAt": "2026-11-22T16:42:04+00:00",
-      "category": "Opportunities",
       "image": ""
     },
     {
@@ -2619,48 +2808,12 @@
       "image": ""
     },
     {
-      "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
-      "description": "E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card numbers and CVV security codes. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
-      "source": "BleepingComputer",
-      "publishedAt": "2026-11-22T15:43:04+00:00",
-      "category": "Threats",
-      "image": ""
-    },
-    {
       "title": "Tesla FSD v15 (2026.38.6.11): Rollout Begins, Official Release Notes and New Features",
       "description": "",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOamp4TlViamVIcWU3WWNzOE5paFZ4RnFTLVhtYTg1Um9ORHpRbFNHVEJpOGlaTmZwQTdxUGZfY3RhRjVFcFQxdUlLRWNrSjZQYnJYSnMwMml1bWxEOXU4djd6cTVQME5uY2JVVEthMFFVS05fWjlRTW9HSFhUVWJOOUYxb1dIVkxPTHlrTzRZNFBYN0piU0J1aHhwMHAxaGtsbkVzNS1MeWtQR0MyME1BakwzcUdCMkNvQzZJOHdR?oc=5",
       "source": "Tesla Oracle",
       "publishedAt": "2026-11-22T15:41:36+00:00",
       "category": "Updates & Patches",
-      "image": ""
-    },
-    {
-      "title": "Gas Detection Training Simulators Market To 2035: Regulatory Safety Mandates Drive Digital Training Adoption - News and Statistics",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOYk1Gc0RXNjd2VDBmbXo5VXZfY3kxLURDb2JMckZ6a3NNLW9NaGpSOFIwSUh4YVhIUi1yMWtYQ29nSzNtaHZaeG5RYVJLVjFlSm44bGVtS1dicW9xZnB0M0NtRTZqc0VZRVNVUWRRUHpBczY2WE5LVFZtU3ZkYkZXSkJySWMxR1dJYlpEb0ZLbWRrTHhzdGhvUUxTR2JzaVR6TzVYcGdEeDFraFFRMjBwdEM1NVc1UGN1aHdLU0V1UzZsMU5MVm1PVmg2N3gwTVNBMVNLMnVUUWVHMVI1TjMxQ0M4VDVVXzdWUnc?oc=5",
-      "source": "IndexBox",
-      "publishedAt": "2026-11-22T15:21:05+00:00",
-      "category": "Policy & Regulation",
-      "image": ""
-    },
-    {
-      "title": "Sandpapergate breached laws, but cricket must stay only on back pages: MCC",
-      "description": "Sandpapergate breached laws, but cricket must stay only on back pages: MCC",
-      "url": "https://www.indiatoday.in/sports/cricket/story/mcc-fraser-stewart-sandpapergate-sandpaper-ball-tampering-2018-australia-3044570-2026-11-22?utm_source=rss",
-      "source": "India Today Technology",
-      "publishedAt": "2026-11-22T14:57:55+00:00",
-      "category": "Threats",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/pat-cummins-194603718-16x9_2.png?VersionId=a0lOcTyWOi5McmreReBFXEOqF7uszgQE"
-    },
-    {
-      "title": "Asia's Gig Workers Unite Across Borders to Fight for Rights",
-      "description": "",
-      "url": "https://techpolicy.press/asias-gig-workers-unite-across-borders-to-fight-for-rights",
-      "source": "Tech Policy Press",
-      "publishedAt": "2026-11-22T14:49:44+00:00",
-      "category": "Policy & Regulation",
       "image": ""
     },
     {
@@ -2673,128 +2826,11 @@
       "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/gqeun0me7bo.jpg"
     },
     {
-      "title": "Chinese national Li Ming charged in fraud case in Singapore linked to Megaspeed and Alice Huang: Report",
-      "description": "Li Ming, a Chinese national, is facing fraud charges in Singapore regarding alleged transshipment of Nvidia chips. He was involved with Megaspeed, a company linked to Alice Huang, the former romantic partner of Nvidia's CEO Jensen Huang. Li is accused of misleading an American supplier by misrepresenting the intended destination of purchased...",
-      "url": "https://economictimes.indiatimes.com/tech/technology/chinese-national-li-ming-charged-in-fraud-case-in-singapore-linked-to-megaspeed-and-alice-huang-report/articleshow/136073178.cms",
-      "source": "Economic Times Tech",
-      "publishedAt": "2026-11-22T11:15:13+00:00",
-      "category": "Threats",
-      "image": "https://img.etimg.com/photo/msid-136073178,imgsize-117550.cms"
-    },
-    {
-      "title": "Flock cameras trigger nationwide backlash over privacy concerns, police abuse",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMFVMWW54ZUxmelNmNEx3QXlZZms0bFhzeFlwU1VHR204clFvdEhUUDdsV2J4cENJMVA4OFdZMElkUTdpdV9IQmE4S0tUOTR1VHI1czh1YXlmVWtDdV91ZUF4U3owMlREaDZSY0E3a0FaUnZ2YW9lUU83bjAwSlVNUDYzb0Zzd1RYZkR3V0NlclhGWkh3cnVCTUdxdXV2Vk9JREZLdDhXS1JveGvSAbABQVVfeXFMTVhrLWZGZlllMFZmdWdYOFk3RXB4Z2ExcVNaSDBKekwzMTc3czNKYU9OSWJOV3l5d0lWMUY3T1k4OE9WLWtLZmg1b3lwdkoxblFaSVVmN0RoMmxwN05RWUNpYUQ3TWZoS1Y0TVhwSlFTeU9OWUp0Vmg2MHJ5Ukp4SHNzMDNpZ0ZHbk1KTDZYR1V5c295ZWVUM1J5Q2pPbDNyaTZRRVVQaFkwcERFV3lsU3A?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "publishedAt": "2026-11-22T11:15:10+00:00",
-      "category": "Policy & Regulation",
-      "image": ""
-    },
-    {
-      "title": "Submit Applications for Research Grants for Sustainable Solid Waste Management",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMUlaZ29kV2hLdlBXQXdVbTJPVVNVczRheXhYN0Q2b3QzbnZtLWx5NjBoa09vTHFSYXVRUll0SXJpZGhBV1VBSVdUc0sxNUFSMm9GUWRxUXFBcExFanJSXzJESnNDLWpUSnotUEdhRFY4dTRwOEU0SlRCb296bE9icnloTWNhVUduTjNPOVhSZ1REWm9kYVpabXdTZHVqSWh2NDZB0gGoAUFVX3lxTE9uVi1EUXdEejMzSkFfVUZhMkNmR1I5a2ZaMWtwN3poNHZURXhDeGFyVUFLZEtHdFVPVURUZ1hwZS1SRUxzdDZjdFFpY3lkR3N2NG9DQUg2blVuc1RLVkdNNGFuWVlaUXlJczlmQW1tZXBXV25wNzE2c0ZFQXZvVnQ2bkZLWjdEYWxiZnJLT2t4S3RGMzdXY0t5WWFPMm9saWhSVzFBLXROOQ?oc=5",
-      "source": "fundsforNGOs - Grants and Resources for Sustainability",
-      "publishedAt": "2026-11-22T11:14:35+00:00",
-      "category": "Opportunities",
-      "image": ""
-    },
-    {
       "title": "FSD V15 Is Rolling Out: What Changed and How to Get It",
       "description": "",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CakFjaENhcUZXM0xqazdxLWI0a2FmRXFwT2pWNGhTaGFrSlRfMWJ5bXpDVEt0WUpnODFnNVB4c21yOU9peXkxMEpHME5TbTFmMmVwQUdSQV9QZkFxN0ZQNGk4bVQ2dw?oc=5",
       "source": "BASENOR - Tesla Accessories",
       "publishedAt": "2026-11-22T10:04:28+00:00",
-      "category": "Updates & Patches",
-      "image": ""
-    },
-    {
-      "title": "Flock announces security changes after dozens of reports of law enforcement abuse and public backlash",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUnN0UGQ1dXZYdng3WWlya25qdWVCRGk0ZWNBcEFkbVp6ZEY3Z214U0pyZVRsRU9KM0FHU2NYV2ZCNnhXNXpMSnZkTndKbjZqUy1aZ2dJMkZza240SjlIRHE4d0dHZW9zV3daNWJveDRoZlpwU0IzT3NrNWp6d21BTU9PSzhCNnJuM2Fnd2RSZUdWempCTlcwWHlUQWFNai1H0gGmAUFVX3lxTE9SR1FwSjJzTEFHdVdMdzQyRlV1SkZDWVBSMHAxLUVEcTJuRWRQY250LV9HR3RtOHAwMElQbHBVTXhCcVh1d1l1SkxNcEZTcnQ0cGw1aVJqT3NQSW8tU0RVS3JPbmNzYktDMDcyaWJXWmpwOF9GQmRuTXdndnRRWTNuTHEzNC1LRkJNWEE5WElzVlBWN25fSDZmOVJVcmFhbzZsb1ROeWc?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "publishedAt": "2026-11-22T08:56:25+00:00",
-      "category": "Policy & Regulation",
-      "image": ""
-    },
-    {
-      "title": "Physics Frontiers Centers (PFC)",
-      "description": "Available Formats: HTML: https://www.nsf.gov/funding/opportunities/pfc-physics-frontiers-centers/nsf27-502/solicitation Document Number: NSF 27-502 This is an NSF Program Announcements and Information item.",
-      "url": "https://www.nsf.gov/funding/opportunities/pfc-physics-frontiers-centers/nsf27-502/solicitation",
-      "source": "NSF Funding",
-      "publishedAt": "2026-11-22T05:55:03.281560+00:00",
-      "category": "Opportunities",
-      "image": ""
-    },
-    {
-      "title": "Major Research Instrumentation Program (MRI)",
-      "description": "Available Formats: HTML: https://www.nsf.gov/funding/opportunities/mri-major-research-instrumentation-program/nsf27-500/solicitation Document Number: NSF 27-500 This is an NSF Program Announcements and Information item.",
-      "url": "https://www.nsf.gov/funding/opportunities/mri-major-research-instrumentation-program/nsf27-500/solicitation",
-      "source": "NSF Funding",
-      "publishedAt": "2026-11-22T05:55:03.281560+00:00",
-      "category": "Opportunities",
-      "image": ""
-    },
-    {
-      "title": "NSF Graduate Research Fellowship Program (GRFP)",
-      "description": "Available Formats: HTML: https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program/nsf26-526/solicitation Document Number: NSF 26-526 This is an NSF Program Announcements and Information item.",
-      "url": "https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program/nsf26-526/solicitation",
-      "source": "NSF Funding",
-      "publishedAt": "2026-11-22T05:55:03.281560+00:00",
-      "category": "Opportunities",
-      "image": ""
-    },
-    {
-      "title": "Expeditions in Computing (Expeditions)",
-      "description": "Available Formats: HTML: https://www.nsf.gov/funding/opportunities/expeditions-expeditions-computing/nsf26-525/solicitation Document Number: NSF 26-525 This is an NSF Program Announcements and Information item.",
-      "url": "https://www.nsf.gov/funding/opportunities/expeditions-expeditions-computing/nsf26-525/solicitation",
-      "source": "NSF Funding",
-      "publishedAt": "2026-11-22T05:55:03.281560+00:00",
-      "category": "Opportunities",
-      "image": ""
-    },
-    {
-      "title": "MPS Physics Research Programs (MPS Physics)",
-      "description": "Available Formats: HTML: https://www.nsf.gov/funding/opportunities/mps-physics-mps-physics-research-programs/nsf26-523/solicitation Document Number: NSF 26-523 This is an NSF Program Announcements and Information item.",
-      "url": "https://www.nsf.gov/funding/opportunities/mps-physics-mps-physics-research-programs/nsf26-523/solicitation",
-      "source": "NSF Funding",
-      "publishedAt": "2026-11-22T05:55:03.281560+00:00",
-      "category": "Opportunities",
-      "image": ""
-    },
-    {
-      "title": "MPS Astronomical Sciences Research Programs (MPS Astro)",
-      "description": "Available Formats: HTML: https://www.nsf.gov/funding/opportunities/mps-astro-mps-astronomical-sciences-research-programs/nsf26-522/solicitation Document Number: NSF 26-522 This is an NSF Program Announcements and Information item.",
-      "url": "https://www.nsf.gov/funding/opportunities/mps-astro-mps-astronomical-sciences-research-programs/nsf26-522/solicitation",
-      "source": "NSF Funding",
-      "publishedAt": "2026-11-22T05:55:03.281560+00:00",
-      "category": "Opportunities",
-      "image": ""
-    },
-    {
-      "title": "Copeland XWEB EVO CVE-2026-124010 and CVE-2026-124014 Exploited: What Operators Should Do Now",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRXpqdXJPMktBYnZpMzd1YkpGZXhOZnk4WGVYdU5nVS1UMzUyWjF2Skl1cGZWZmd1LThNQnlTdUdVVWF0Z0d0SWdaWU05RzVNTm92bHkzSDhzclZZbjI3ejhfMFRIU2lUYVhBZ3lpcWVTY2RGSTNvQzB6d1VnMGpGM2pySlc5aWZjdWlmaU81Q012S01kSXNibzhGZXJjRFdORVRjOXpZREdBNEJJ?oc=5",
-      "source": "Rescana",
-      "publishedAt": "2026-11-22T01:30:00+00:00",
-      "category": "Updates & Patches",
-      "image": ""
-    },
-    {
-      "title": "Tesla Reality View Is Here: What It Does and How to Use It",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YWkZjR2t2UVBNclIxV3d1aVhyWEpxLXBFYndLNk1iS1N4LVBtUU5Mblg5WU85TmVkZ0h1N3BqMy1VNjNCbDRRNl9oQl9MQ3JDaDVoOGxZS0dDZW1rZjBoRy1IU3k?oc=5",
-      "source": "BASENOR - Tesla Accessories",
-      "publishedAt": "2026-11-21T23:11:01+00:00",
-      "category": "Updates & Patches",
-      "image": ""
-    },
-    {
-      "title": "'GTA 6' players on PS5: Update your consoles now to avoid delays",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VR3p4b1BpYTdlQ3laRjJuSnhCYmNCWGZ4VFFOVzJaLUs1NENGX3FYYllzYUdnNFZlOXdMTk9XVmx5cEthSm5wZzhxenF4V2hfZHAyYTlNNU1yTVdfV3dKODhtWlBORHVGMEh1Vkd3WUY?oc=5",
-      "source": "Mashable",
-      "publishedAt": "2026-11-21T21:19:14+00:00",
       "category": "Updates & Patches",
       "image": ""
     },
@@ -2805,15 +2841,6 @@
       "source": "The Sunday Guardian",
       "publishedAt": "2026-11-21T20:25:56+00:00",
       "category": "Notifications",
-      "image": ""
-    },
-    {
-      "title": "Tesla FSD V15: Every Confirmed Feature Coming in December",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN09QQzNNNXlwSDNiWXdLYTFRXzV1ZUJzYnBzb2lIRWtNc2lYLV92Q0NxLVBxRnBBMHBqS3J1RGRUaUplNVlnakRfai1xNFhrOGpIX1N5XzVHbVNmVFFDcUhsZVNsS3JfZUNiSnpFbktsYjRkVngzWGlLWjMweUdadFdiWGtZTUpvOFdQME50SjExbTRJTXc?oc=5",
-      "source": "BASENOR - Tesla Accessories",
-      "publishedAt": "2026-11-21T17:03:53+00:00",
-      "category": "Updates & Patches",
       "image": ""
     },
     {
@@ -2853,30 +2880,12 @@
       "image": ""
     },
     {
-      "title": "Custom Firmware For The CMU200",
-      "description": "The Rhode & Schwarz CMU200 and CMU300 communications analyzers are useful tools for a variety of tasks in the RF space. However, [iu2frl] decided that they could be a little …read more",
-      "url": "https://hackaday.com/2026/11/21/custom-firmware-for-the-cmu200/",
-      "source": "Hackaday",
-      "publishedAt": "2026-11-21T12:00:03+00:00",
-      "category": "Updates & Patches",
-      "image": "https://hackaday.com/wp-content/uploads/2026/11/Rohde-Schwarz-CMU200-as-Tracking-Analyzer-v2-0-9-screenshot-e1795093451235.png"
-    },
-    {
       "title": "CERT-In warns of AI-driven cyberattacks targeting business payment systems",
       "description": "",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbmk1bHFWSTlGcUk2LXpYSHgxRFdKbURoWk9IVUl3N3BJU3kyUmFBVGx0eE83SXluOE85cV93Z1MzSTNoOXl6dGNTcEtqcHl3bGZwXzZlcFM5amtobld1akF0RzBYV2R1eENRZTd6aGFhMFhIM3BPUlVkbURYd1NLd0dRaG5PREtJejdVcllXWmxvVEpTc2dxcWd3N25CY040NzRjdE1kV3dmQjA?oc=5",
       "source": "Telangana Today",
       "publishedAt": "2026-11-21T10:29:19+00:00",
       "category": "Alert",
-      "image": ""
-    },
-    {
-      "title": "Tesla FSD V15 UI Overhaul: What to Expect and How to Prepare",
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91SGxDM3dlWU9fNzc0QkIxYWdWb3J5OVA4M2VsUE0tWnE4cHdrZlBrQ1FOSUtkRmFIUVg5d01BcW9qQ3EzMlgzS1dWUE9QN21FbXE1REtLTzFNR1oxVTlNVWtTUzg5dw?oc=5",
-      "source": "BASENOR - Tesla Accessories",
-      "publishedAt": "2026-11-21T10:05:35+00:00",
-      "category": "Updates & Patches",
       "image": ""
     },
     {
@@ -3060,15 +3069,6 @@
       "image": ""
     },
     {
-      "title": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication",
-      "description": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published today. Fixed versions are out for all supported branches, and the company lists no workaround. vCenter is the central console for managing an...",
-      "url": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
-      "source": "The Hacker News",
-      "publishedAt": "2026-11-19T15:11:06+00:00",
-      "category": "Alert",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ5IDT81eb7KUE0LzwGJAzuAETft3pD5sOz2dJxnQin_-zR_hH8tDKFTsLNBNoe35KM4DhFJjP7K-0YwaMoVwz7xUhTiP2vKeNqmN3kenPgwflENu35qx-QlFj-rDFdyXx1HMz6ykegw6nlnPDXppYbotjoRj-ammlyUZ-Cr0JYLS5iyZXkJXkaIO5UAc/s1600/vmware.jpg"
-    },
-    {
       "title": "Elecbrakes EB2, VM1, ELBC2000",
       "description": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to gain control of the brakes of a trailer, modify the firmware, disable the brake lights, modify the brake conditions or disable other critical safety features. The following versions of Elecbrakes EB2, VM1, ELBC2000 are affected: EB2 <=3.0.4.2.0...",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-02",
@@ -3209,6 +3209,15 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaVJ5SWpXVWVPeEJRMjFRZkllTXduWjF0QTFyZElHLXFFUExvTHYwcVRkU2NWYWNZVnA5bi1VN3RpT2Q4RWVMNGVxQTZpVW8yT2lOV1F6Z2luN3hoaWpjOFlCM2FqelJjZWx0MXVaVFdPQWNHc1JtUGcwSWpXekprX1BCS1gxaWNDYWRnY1pRMGVXdWNROTNCM3Z0N1Bzb2wxMGQtbHdibkk0bnd4SnhySHlNQ2Y4SWhIUlZhTE1Gc3JvYnNMSTJiYzVyR2lBWjlhY3EwQkJhZXHSAeYBQVVfeXFMTlRINTBNM3NlTWl2UHd3SFBNLWhqcUJHSVNObE94SlRvaDBTV0NfMVlGMVg4eGFfbTljV1pOOTNuTkRfc01UUmI0Q0psQzhlRVVqeFY4ZGR5NjVjcVE2eWk2VnppdmEtX0pEUXNibGcwT0dwZ0IwcEc3MFU5cktrNnlvSngtWklpNzFZdWx3cVhaLWlLQ2lzWk9oSEpxX0lERTVocUVPd3pkay1TTEwzV3FWajhtbndZY1BzQUdubno0VTdxc3plbHQtUU82ZDFXNVRmd2EwT1pnWllnSGtoWHhuQTNSZXc?oc=5",
       "source": "The Sentinel - of this Land, for its People",
       "publishedAt": "2026-11-14T12:02:19+00:00",
+      "category": "Notifications",
+      "image": ""
+    },
+    {
+      "title": "The Digital Personal Data Protection Consent Manager Framework: What Data Fiduciaries Must Do Before The November 2026 Deadline",
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQYmpmM1Jyd1JpTTBzbGpEWjJxWnRaVFVzcXJ6MEVNaHk3cmE3X093XzZtQkRJNk9QNmNzQXJHYlRYWDJZLWdSMlhMZUM0bmtiYWlyMTlDUl9ZdGpZMzRIQlJWRTMzUFhJYXM4UWhVOHBGR1M1d3NDdG9QSUxxcHdaellHTVFnQ2QxcnpmajNVZjhmV2N2bU9HUmlIQlY2OVdCUm1aNGFVZ1dZNXNkNVg3aEFKOXpDTExsTVhhSUZRSXozeTR5a1k2dnNYcXZjbHEyNVZjN0lMTjdiNnRjdTc1MHlZbkoteFZhWDFsV05QN2FTOGdTVzAwN2dMN3V0Z1pPa3FEWUszeTRPQQ?oc=5",
+      "source": "Legal 500",
+      "publishedAt": "2026-11-13T08:00:00+00:00",
       "category": "Notifications",
       "image": ""
     },
