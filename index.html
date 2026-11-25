@@ -272,6 +272,20 @@ section{max-width:1200px;margin:auto;padding:100px 22px;position:relative}
 .hub-lead .feed-desc{max-width:80ch;-webkit-line-clamp:2}
 .tile{min-height:230px;gap:14px}
 .tile.big{min-height:400px}
+/* article image backgrounds */
+.tile>*{z-index:2}
+.tile::before{z-index:1;pointer-events:none}
+.tile>.tile-bg,.hub-lead>.tile-bg{position:absolute;inset:0;z-index:0;overflow:hidden;border-radius:inherit;background:linear-gradient(135deg,hsl(var(--h,210) 60% 24%),#0a1228)}
+.tile-bg .tile-ph{position:absolute;right:14%;top:22%;font-size:4.2rem;opacity:.22;filter:saturate(.8)}
+.tile.big .tile-bg .tile-ph{font-size:7rem}
+.tile-bg img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:0;transform:scale(1.04);transition:opacity .7s ease,transform 6s ease-out}
+.tile-bg img.on{opacity:.62;transform:scale(1.12)}
+.tile:hover .tile-bg img.on{opacity:.8}
+.tile-bg::after{content:"";position:absolute;inset:0;background:linear-gradient(to top,rgba(5,14,31,.96) 8%,rgba(5,14,31,.62) 48%,rgba(5,14,31,.18) 100%)}
+.hub-lead{position:relative;overflow:hidden}
+.hub-lead>.feed,.hub-lead>.lead-tag{position:relative;z-index:2}
+.hub-lead .tile-bg::after{background:linear-gradient(90deg,rgba(6,15,34,.97) 30%,rgba(6,15,34,.75) 60%,rgba(6,15,34,.3) 100%)}
+.hub-lead .tile-bg img.on{opacity:.5}
 .tile-main{display:flex;flex-direction:column;gap:12px;flex:1;justify-content:flex-end}
 .feed{display:flex;flex-direction:column;gap:10px}
 .feed-body{display:flex;flex-direction:column;gap:6px;min-height:84px}
@@ -561,6 +575,7 @@ footer{max-width:1200px;margin:auto;padding:40px 22px 90px;border-top:1px solid 
     <button type="button" class="pill-btn" id="pauseBtn" aria-pressed="false"><i class="fas fa-pause"></i> Pause</button>
   </div>
   <button type="button" class="hub-lead" id="hubLead" aria-label="Latest stories across all topics">
+    <div class="tile-bg" aria-hidden="true"><span class="tile-ph"></span><img alt="" loading="lazy" referrerpolicy="no-referrer"></div>
     <div class="lead-tag"><i></i> Latest · all topics</div>
     <div class="feed"><div class="feed-body"></div><div class="feed-foot"><span class="feed-pos"></span><span class="feed-bar"><i></i></span></div></div>
   </button>
@@ -821,7 +836,7 @@ const catList=n=>allSorted.filter(a=>(a.category||"News")===n);
 
 function mkFeed(el,tile,cat,big,idx){
   const f={el,tile,cat,big,lead:!cat,i:0,t:(idx*1300)%PERIOD,list:[],hover:false,
-    body:el.querySelector(".feed-body"),pos:el.querySelector(".feed-pos"),bar:el.querySelector(".feed-bar i")};
+    bg:tile.querySelector(".tile-bg"),body:el.querySelector(".feed-body"),pos:el.querySelector(".feed-pos"),bar:el.querySelector(".feed-bar i")};
   tile.addEventListener("pointerenter",()=>f.hover=true);
   tile.addEventListener("pointerleave",()=>f.hover=false);
   tile.addEventListener("focusin",()=>f.hover=true);
@@ -829,9 +844,24 @@ function mkFeed(el,tile,cat,big,idx){
   f.body.innerHTML='<div class="feed-skel"></div>';
   feeds.push(f);return f;
 }
+function setBg(f,a){
+  const bg=f.bg;if(!bg)return;
+  const img=bg.querySelector("img"),ph=bg.querySelector(".tile-ph");
+  const cat=a?(a.category||"News"):f.cat;
+  bg.style.setProperty("--h",HUES[cat]??210);
+  if(ph)ph.textContent=EMOJI[cat]||"";
+  const src=a?safeURL(a.image):"";
+  img.classList.remove("on");
+  if(!src){img.removeAttribute("src");return}
+  const pre=new Image();pre.referrerPolicy="no-referrer";
+  pre.onload=()=>{if(img.dataset.want!==src)return;img.src=src;requestAnimationFrame(()=>img.classList.add("on"))};
+  pre.onerror=()=>{if(img.dataset.want===src)img.removeAttribute("src")};
+  img.dataset.want=src;pre.src=src;
+}
 function renderFeed(f,anim){
-  if(!f.list.length){f.body.innerHTML='<p class="feed-empty">No stories in this topic yet.</p>';f.pos.textContent="";f.bar.style.width="0";return}
+  if(!f.list.length){setBg(f,null);f.body.innerHTML='<p class="feed-empty">No stories in this topic yet.</p>';f.pos.textContent="";f.bar.style.width="0";return}
   const n=f.list.length,a=f.list[f.i%n];
+  setBg(f,a);
   f.body.innerHTML=`<div class="feed-title">${esc(a.title||"Untitled article")}</div>${f.big?`<p class="feed-desc">${esc(a.description||"")}</p>`:""}<div class="feed-meta">${f.lead?esc(a.category||"News")+" · ":""}${esc(a.source||"News source")} · ${esc(fmtDate(a.publishedAt))}</div>`;
   f.pos.textContent=n>1?`${f.i%n+1} / ${n}`:"";
   f.el.querySelector(".feed-foot").style.visibility=n>1?"visible":"hidden";
@@ -842,7 +872,7 @@ CATS.forEach((c,i)=>{
   const t=document.createElement("button");t.type="button";t.className="tile"+(c.s?" "+c.s:"");
   t.style.setProperty("--h",c.h);t.style.setProperty("--i",i);t.dataset.cat=c.n;
   t.setAttribute("aria-label",c.n+": open all stories");t.title=c.d;
-  t.innerHTML=`<div class="tile-top"><span class="tile-ico" aria-hidden="true"><svg viewBox="0 0 24 24"><path pathLength="1" d="${c.p}"/></svg></span><span class="tile-count" data-count-cat="${esc(c.n)}">0 articles</span></div>
+  t.innerHTML=`<div class="tile-bg" aria-hidden="true"><span class="tile-ph">${c.e}</span><img alt="" loading="lazy" referrerpolicy="no-referrer"></div><div class="tile-top"><span class="tile-ico" aria-hidden="true"><svg viewBox="0 0 24 24"><path pathLength="1" d="${c.p}"/></svg></span><span class="tile-count" data-count-cat="${esc(c.n)}">0 articles</span></div>
   <div class="tile-main"><h3>${esc(c.n)}</h3><div class="feed"><div class="feed-body"></div><div class="feed-foot"><span class="feed-pos"></span><span class="feed-bar"><i></i></span></div></div></div>`;
   t.onclick=()=>openDrawer(c.n);
   t.addEventListener("pointermove",e=>{const r=t.getBoundingClientRect();t.style.setProperty("--mx",e.clientX-r.left+"px");t.style.setProperty("--my",e.clientY-r.top+"px")});
@@ -930,7 +960,9 @@ async function loadNews(){
   }catch{allArticles=SAMPLE;$("sampleNote").hidden=false}
   allSorted=[...allArticles].sort(byDate);
   document.querySelectorAll("[data-count-cat]").forEach(el=>{const n=catList(el.dataset.countCat).length;el.textContent=n===1?"1 article":`${n} articles`});
-  feeds.forEach(f=>{f.list=f.cat?catList(f.cat):allSorted;f.i=0;renderFeed(f,false)});
+  /* category cards show stories that have a picture first, so the cards look rich */
+  const withImg=l=>[...l.filter(a=>safeURL(a.image)),...l.filter(a=>!safeURL(a.image))];
+  feeds.forEach(f=>{f.list=f.cat?withImg(catList(f.cat)):allSorted;f.i=0;renderFeed(f,false)});
 }
 loadNews();
 
